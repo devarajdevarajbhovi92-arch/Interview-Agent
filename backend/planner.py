@@ -10,6 +10,25 @@ from data import CURRICULUM, SETUP_DAYS
 PLAN_CAP = 7
 
 
+def _ml_difficulty_sort(plan: list[dict], candidate: dict) -> list[dict]:
+    """Re-sort plan using ML difficulty predictor (if available)."""
+    try:
+        from ml.integration import get_ml_integration
+        ml = get_ml_integration()
+        if not ml.model_status.get("difficulty_predictor", False):
+            return plan
+        scored = []
+        for item in plan:
+            q = f"Can you explain your approach to {item.get('title', 'this topic')}?"
+            pred = ml.predict_difficulty(q, candidate)
+            scored.append((item, pred.get("difficulty", "medium")))
+        order = {"hard": 0, "medium": 1, "easy": 2}
+        scored.sort(key=lambda x: order.get(x[1], 1))
+        return [item for item, _ in scored]
+    except Exception:
+        return plan
+
+
 def _mission_priority(mission: dict) -> int:
     """Lower number = higher priority."""
     if not mission.get("passed", True) and not mission.get("skipped", False):
@@ -52,6 +71,9 @@ def build_question_plan(candidate: dict) -> list[dict]:
             enriched = dict(curriculum_day)
             enriched["_mission"] = mission
             plan.append(enriched)
+
+    # Step 5: ML-based difficulty re-sorting (if model available)
+    plan = _ml_difficulty_sort(plan, candidate)
 
     return plan
 

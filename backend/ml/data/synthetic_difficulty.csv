@@ -1,0 +1,3001 @@
+topic,candidate_id,first_try_ratio,missions_completed,commit_days,difficulty
+Prompt Engineering Fundamentals,CAND-013,0.433,30,27,easy
+"First AI Project, React Frontend & GitHub",CAND-007,0.815,27,26,easy
+"Security, Privacy & Guardrails",CAND-010,0.043,23,22,hard
+The Retrieval & Matching Engine,CAND-002,0.345,29,22,hard
+Reading & Processing Unstructured Data,CAND-010,0.043,23,22,hard
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+The Retrieval & Matching Engine,CAND-001,0.667,30,28,medium
+Chatbot Evaluation & Testing,CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-019,0.379,29,26,hard
+Chatbot Backend & API Integration,CAND-011,0.357,14,9,hard
+Chatbot Backend & API Integration,CAND-013,0.433,30,27,medium
+Multi-Agent Orchestration,CAND-016,0.095,21,19,hard
+Fine-Tuning: Concepts & When to Use It,CAND-004,0.214,28,18,hard
+Docker & Kubernetes Deployment,CAND-013,0.433,30,27,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-005,0.71,31,30,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-013,0.433,30,27,easy
+Embeddings Explained,CAND-008,0.556,27,25,easy
+Capstone Project & Final Demo,CAND-010,0.043,23,22,medium
+Performance Optimization & Cost Management,CAND-015,0.931,29,29,easy
+Production Readiness & Final Testing,CAND-004,0.214,28,18,hard
+Reading & Processing Unstructured Data,CAND-012,0.467,30,27,medium
+Performance Optimization & Cost Management,CAND-002,0.345,29,22,hard
+Building the Knowledge Base,CAND-017,0.032,31,30,hard
+Vector Databases Overview,CAND-017,0.032,31,30,hard
+"First AI Project, React Frontend & GitHub",CAND-011,0.357,14,9,medium
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,hard
+Docker & Kubernetes Deployment,CAND-004,0.214,28,18,hard
+Building & Populating the Vector Database,CAND-019,0.379,29,26,hard
+Response Formatting & Rich Outputs,CAND-018,1.0,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-016,0.095,21,19,hard
+Reading & Processing Structured Data,CAND-019,0.379,29,26,hard
+Docker & Kubernetes Deployment,CAND-007,0.815,27,26,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-005,0.71,31,30,easy
+Multi-Agent Orchestration,CAND-011,0.357,14,9,hard
+Docker & Kubernetes Deployment,CAND-010,0.043,23,22,hard
+Embeddings Explained,CAND-001,0.667,30,28,medium
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Embeddings Explained,CAND-009,0.935,31,31,easy
+"Monitoring, Logging & Observability",CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-008,0.556,27,25,medium
+The Retrieval & Matching Engine,CAND-015,0.931,29,29,medium
+Reading & Processing Structured Data,CAND-008,0.556,27,25,medium
+"Monitoring, Logging & Observability",CAND-004,0.214,28,18,hard
+Reading & Processing Structured Data,CAND-005,0.71,31,30,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-019,0.379,29,26,hard
+RAG End-to-End & LLM API Basics,CAND-004,0.214,28,18,hard
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-003,0.968,31,31,medium
+Docker & Kubernetes Deployment,CAND-003,0.968,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+"Monitoring, Logging & Observability",CAND-019,0.379,29,26,hard
+Multi-Agent Orchestration,CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-013,0.433,30,27,medium
+Agentic Chatbot Integration,CAND-020,0.704,27,24,easy
+Prompt Engineering Fundamentals,CAND-016,0.095,21,19,hard
+Conversation Memory & Context Management,CAND-007,0.815,27,26,easy
+Reading & Processing Structured Data,CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,easy
+Reading & Processing Unstructured Data,CAND-017,0.032,31,30,hard
+Production Readiness & Final Testing,CAND-018,1.0,31,31,easy
+Prompt Engineering Fundamentals,CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-003,0.968,31,31,easy
+The Retrieval & Matching Engine,CAND-006,0.083,24,19,hard
+Building the Knowledge Base,CAND-015,0.931,29,29,easy
+Agentic Chatbot Integration,CAND-001,0.667,30,28,medium
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Chatbot Backend & API Integration,CAND-001,0.667,30,28,medium
+RAG End-to-End & LLM API Basics,CAND-002,0.345,29,22,hard
+Capstone Project & Final Demo,CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-017,0.032,31,30,hard
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-012,0.467,30,27,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-009,0.935,31,31,easy
+Embeddings Explained,CAND-005,0.71,31,30,easy
+Agentic Chatbot Integration,CAND-016,0.095,21,19,hard
+Docker & Kubernetes Deployment,CAND-002,0.345,29,22,hard
+RAG End-to-End & LLM API Basics,CAND-001,0.667,30,28,medium
+Production Readiness & Final Testing,CAND-015,0.931,29,29,easy
+Multi-Agent Orchestration,CAND-019,0.379,29,26,hard
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,easy
+The Retrieval & Matching Engine,CAND-020,0.704,27,24,easy
+The Retrieval & Matching Engine,CAND-013,0.433,30,27,medium
+Multi-Agent Orchestration,CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-010,0.043,23,22,medium
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+"Security, Privacy & Guardrails",CAND-015,0.931,29,29,easy
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-008,0.556,27,25,easy
+Reading & Processing Unstructured Data,CAND-001,0.667,30,28,medium
+Multi-Agent Orchestration,CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-014,0.05,20,17,hard
+Vector Databases Overview,CAND-011,0.357,14,9,hard
+Reading & Processing Structured Data,CAND-013,0.433,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-002,0.345,29,22,hard
+Prompt Engineering Fundamentals,CAND-017,0.032,31,30,hard
+Multi-Agent Orchestration,CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-009,0.935,31,31,easy
+Response Formatting & Rich Outputs,CAND-003,0.968,31,31,easy
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+Building the Knowledge Base,CAND-001,0.667,30,28,medium
+Capstone Project & Final Demo,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-003,0.968,31,31,easy
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-019,0.379,29,26,hard
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+"Monitoring, Logging & Observability",CAND-002,0.345,29,22,hard
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+Reading & Processing Unstructured Data,CAND-015,0.931,29,29,easy
+Chatbot Evaluation & Testing,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-009,0.935,31,31,easy
+Vector Databases Overview,CAND-003,0.968,31,31,easy
+Prompt Engineering Fundamentals,CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-012,0.467,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+The Retrieval & Matching Engine,CAND-008,0.556,27,25,medium
+Agentic Chatbot Integration,CAND-017,0.032,31,30,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-012,0.467,30,27,medium
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Full-Stack Integration & Streaming Responses,CAND-001,0.667,30,28,medium
+Performance Optimization & Cost Management,CAND-008,0.556,27,25,medium
+"First AI Project, React Frontend & GitHub",CAND-002,0.345,29,22,hard
+Chatbot Evaluation & Testing,CAND-019,0.379,29,26,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Building & Populating the Vector Database,CAND-013,0.433,30,27,medium
+Performance Optimization & Cost Management,CAND-020,0.704,27,24,easy
+"Monitoring, Logging & Observability",CAND-015,0.931,29,29,easy
+Chatbot Frontend Development,CAND-007,0.815,27,26,easy
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Chatbot Evaluation & Testing,CAND-005,0.71,31,30,easy
+Full-Stack Integration & Streaming Responses,CAND-005,0.71,31,30,easy
+Building & Populating the Vector Database,CAND-018,1.0,31,31,easy
+Production Readiness & Final Testing,CAND-017,0.032,31,30,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-008,0.556,27,25,medium
+Embeddings Explained,CAND-016,0.095,21,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-018,1.0,31,31,easy
+Reading & Processing Unstructured Data,CAND-009,0.935,31,31,easy
+The Retrieval & Matching Engine,CAND-009,0.935,31,31,easy
+Docker & Kubernetes Deployment,CAND-004,0.214,28,18,hard
+Full-Stack Integration & Streaming Responses,CAND-020,0.704,27,24,easy
+Reading & Processing Structured Data,CAND-014,0.05,20,17,medium
+Conversation Memory & Context Management,CAND-004,0.214,28,18,hard
+The Retrieval & Matching Engine,CAND-011,0.357,14,9,hard
+Embeddings Explained,CAND-004,0.214,28,18,hard
+Building the Knowledge Base,CAND-013,0.433,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-018,1.0,31,31,easy
+Capstone Project & Final Demo,CAND-012,0.467,30,27,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-010,0.043,23,22,hard
+"Monitoring, Logging & Observability",CAND-019,0.379,29,26,hard
+Multi-Agent Orchestration,CAND-015,0.931,29,29,medium
+Agentic Chatbot Integration,CAND-011,0.357,14,9,hard
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+The Retrieval & Matching Engine,CAND-009,0.935,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-005,0.71,31,30,easy
+Embeddings Explained,CAND-020,0.704,27,24,easy
+Model Context Protocol (MCP),CAND-002,0.345,29,22,hard
+Multi-Agent Orchestration,CAND-006,0.083,24,19,hard
+Reading & Processing Structured Data,CAND-001,0.667,30,28,easy
+Docker & Kubernetes Deployment,CAND-004,0.214,28,18,hard
+Performance Optimization & Cost Management,CAND-002,0.345,29,22,medium
+Chatbot Backend & API Integration,CAND-003,0.968,31,31,easy
+Production Readiness & Final Testing,CAND-019,0.379,29,26,hard
+Conversation Memory & Context Management,CAND-009,0.935,31,31,easy
+"Security, Privacy & Guardrails",CAND-020,0.704,27,24,easy
+Reading & Processing Unstructured Data,CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-008,0.556,27,25,hard
+Performance Optimization & Cost Management,CAND-018,1.0,31,31,easy
+Model Context Protocol (MCP),CAND-007,0.815,27,26,easy
+Prompt Engineering Fundamentals,CAND-013,0.433,30,27,medium
+Multi-Agent Orchestration,CAND-002,0.345,29,22,hard
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-005,0.71,31,30,easy
+Building & Populating the Vector Database,CAND-003,0.968,31,31,hard
+RAG End-to-End & LLM API Basics,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-015,0.931,29,29,easy
+The Retrieval & Matching Engine,CAND-014,0.05,20,17,hard
+Fine-Tuning: Concepts & When to Use It,CAND-011,0.357,14,9,hard
+Reading & Processing Unstructured Data,CAND-020,0.704,27,24,easy
+Reading & Processing Unstructured Data,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-005,0.71,31,30,easy
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-003,0.968,31,31,easy
+Model Context Protocol (MCP),CAND-008,0.556,27,25,medium
+Embeddings Explained,CAND-007,0.815,27,26,easy
+"Security, Privacy & Guardrails",CAND-004,0.214,28,18,hard
+Chatbot Backend & API Integration,CAND-020,0.704,27,24,easy
+Response Formatting & Rich Outputs,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-020,0.704,27,24,easy
+Chatbot Backend & API Integration,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-019,0.379,29,26,hard
+Chatbot Evaluation & Testing,CAND-019,0.379,29,26,hard
+Agentic Chatbot Integration,CAND-006,0.083,24,19,hard
+Embeddings Explained,CAND-018,1.0,31,31,easy
+Capstone Project & Final Demo,CAND-013,0.433,30,27,medium
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+Multi-Agent Orchestration,CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-020,0.704,27,24,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-011,0.357,14,9,hard
+Vector Databases Overview,CAND-006,0.083,24,19,hard
+Multi-Agent Orchestration,CAND-014,0.05,20,17,hard
+RAG End-to-End & LLM API Basics,CAND-010,0.043,23,22,hard
+RAG End-to-End & LLM API Basics,CAND-008,0.556,27,25,medium
+Performance Optimization & Cost Management,CAND-014,0.05,20,17,hard
+Performance Optimization & Cost Management,CAND-018,1.0,31,31,easy
+Building the Knowledge Base,CAND-004,0.214,28,18,easy
+The Retrieval & Matching Engine,CAND-002,0.345,29,22,hard
+"First AI Project, React Frontend & GitHub",CAND-020,0.704,27,24,easy
+"First AI Project, React Frontend & GitHub",CAND-011,0.357,14,9,hard
+Full-Stack Integration & Streaming Responses,CAND-003,0.968,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-002,0.345,29,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-006,0.083,24,19,hard
+Response Formatting & Rich Outputs,CAND-016,0.095,21,19,hard
+Reading & Processing Structured Data,CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+"First AI Project, React Frontend & GitHub",CAND-009,0.935,31,31,easy
+The Retrieval & Matching Engine,CAND-015,0.931,29,29,easy
+Chatbot Backend & API Integration,CAND-006,0.083,24,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Building & Populating the Vector Database,CAND-005,0.71,31,30,easy
+Response Formatting & Rich Outputs,CAND-010,0.043,23,22,easy
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+Agentic Chatbot Integration,CAND-020,0.704,27,24,easy
+Full-Stack Integration & Streaming Responses,CAND-015,0.931,29,29,easy
+Performance Optimization & Cost Management,CAND-015,0.931,29,29,easy
+Docker & Kubernetes Deployment,CAND-019,0.379,29,26,hard
+"Monitoring, Logging & Observability",CAND-012,0.467,30,27,medium
+Production Readiness & Final Testing,CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-003,0.968,31,31,easy
+Model Context Protocol (MCP),CAND-005,0.71,31,30,easy
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+Reading & Processing Unstructured Data,CAND-003,0.968,31,31,easy
+Building & Populating the Vector Database,CAND-013,0.433,30,27,medium
+Chatbot Frontend Development,CAND-001,0.667,30,28,medium
+Response Formatting & Rich Outputs,CAND-014,0.05,20,17,hard
+Fine-Tuning: Concepts & When to Use It,CAND-013,0.433,30,27,medium
+Chatbot Frontend Development,CAND-014,0.05,20,17,hard
+Vector Databases Overview,CAND-012,0.467,30,27,medium
+Prompt Engineering Fundamentals,CAND-006,0.083,24,19,hard
+"First AI Project, React Frontend & GitHub",CAND-001,0.667,30,28,medium
+Fine-Tuning: Concepts & When to Use It,CAND-013,0.433,30,27,medium
+Reading & Processing Structured Data,CAND-017,0.032,31,30,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-006,0.083,24,19,hard
+Model Context Protocol (MCP),CAND-018,1.0,31,31,easy
+Chatbot Frontend Development,CAND-008,0.556,27,25,medium
+"Monitoring, Logging & Observability",CAND-006,0.083,24,19,hard
+Reading & Processing Structured Data,CAND-016,0.095,21,19,hard
+Response Formatting & Rich Outputs,CAND-017,0.032,31,30,hard
+Vector Databases Overview,CAND-015,0.931,29,29,easy
+Chatbot Backend & API Integration,CAND-012,0.467,30,27,medium
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,easy
+Vector Databases Overview,CAND-001,0.667,30,28,medium
+"First AI Project, React Frontend & GitHub",CAND-003,0.968,31,31,easy
+Production Readiness & Final Testing,CAND-001,0.667,30,28,medium
+Embeddings Explained,CAND-018,1.0,31,31,easy
+"Monitoring, Logging & Observability",CAND-003,0.968,31,31,easy
+Chatbot Evaluation & Testing,CAND-006,0.083,24,19,hard
+Chatbot Evaluation & Testing,CAND-014,0.05,20,17,hard
+Building & Populating the Vector Database,CAND-013,0.433,30,27,medium
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-001,0.667,30,28,medium
+Capstone Project & Final Demo,CAND-003,0.968,31,31,easy
+Multi-Agent Orchestration,CAND-010,0.043,23,22,hard
+"Security, Privacy & Guardrails",CAND-009,0.935,31,31,easy
+Embeddings Explained,CAND-014,0.05,20,17,hard
+Building & Populating the Vector Database,CAND-002,0.345,29,22,medium
+"First AI Project, React Frontend & GitHub",CAND-015,0.931,29,29,easy
+The Retrieval & Matching Engine,CAND-011,0.357,14,9,hard
+Model Context Protocol (MCP),CAND-017,0.032,31,30,hard
+Chatbot Evaluation & Testing,CAND-007,0.815,27,26,easy
+Agentic Chatbot Integration,CAND-005,0.71,31,30,easy
+Model Context Protocol (MCP),CAND-009,0.935,31,31,easy
+Chatbot Frontend Development,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+"Security, Privacy & Guardrails",CAND-019,0.379,29,26,hard
+Conversation Memory & Context Management,CAND-001,0.667,30,28,medium
+Building the Knowledge Base,CAND-014,0.05,20,17,hard
+The Retrieval & Matching Engine,CAND-004,0.214,28,18,hard
+Capstone Project & Final Demo,CAND-014,0.05,20,17,hard
+"Monitoring, Logging & Observability",CAND-018,1.0,31,31,easy
+Agentic Chatbot Integration,CAND-010,0.043,23,22,easy
+Production Readiness & Final Testing,CAND-001,0.667,30,28,medium
+RAG End-to-End & LLM API Basics,CAND-009,0.935,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-004,0.214,28,18,hard
+RAG End-to-End & LLM API Basics,CAND-019,0.379,29,26,hard
+"First AI Project, React Frontend & GitHub",CAND-018,1.0,31,31,easy
+Docker & Kubernetes Deployment,CAND-011,0.357,14,9,hard
+Building the Knowledge Base,CAND-011,0.357,14,9,hard
+Building the Knowledge Base,CAND-016,0.095,21,19,hard
+Embeddings Explained,CAND-019,0.379,29,26,hard
+"Monitoring, Logging & Observability",CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-005,0.71,31,30,easy
+Building the Knowledge Base,CAND-012,0.467,30,27,easy
+Model Context Protocol (MCP),CAND-020,0.704,27,24,easy
+Chatbot Backend & API Integration,CAND-020,0.704,27,24,easy
+Chatbot Evaluation & Testing,CAND-014,0.05,20,17,hard
+"Security, Privacy & Guardrails",CAND-007,0.815,27,26,easy
+"Monitoring, Logging & Observability",CAND-006,0.083,24,19,hard
+Fine-Tuning: Concepts & When to Use It,CAND-006,0.083,24,19,hard
+Chatbot Evaluation & Testing,CAND-006,0.083,24,19,hard
+Docker & Kubernetes Deployment,CAND-018,1.0,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+Building & Populating the Vector Database,CAND-015,0.931,29,29,easy
+Model Context Protocol (MCP),CAND-010,0.043,23,22,hard
+RAG End-to-End & LLM API Basics,CAND-002,0.345,29,22,hard
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-006,0.083,24,19,hard
+Performance Optimization & Cost Management,CAND-007,0.815,27,26,easy
+Reading & Processing Structured Data,CAND-004,0.214,28,18,medium
+"Security, Privacy & Guardrails",CAND-006,0.083,24,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+"Monitoring, Logging & Observability",CAND-006,0.083,24,19,hard
+Chatbot Evaluation & Testing,CAND-018,1.0,31,31,easy
+Vector Databases Overview,CAND-013,0.433,30,27,easy
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-018,1.0,31,31,easy
+Response Formatting & Rich Outputs,CAND-001,0.667,30,28,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-016,0.095,21,19,hard
+Conversation Memory & Context Management,CAND-014,0.05,20,17,medium
+"Monitoring, Logging & Observability",CAND-005,0.71,31,30,easy
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+Chatbot Evaluation & Testing,CAND-011,0.357,14,9,hard
+"Security, Privacy & Guardrails",CAND-010,0.043,23,22,hard
+Fine-Tuning: Concepts & When to Use It,CAND-020,0.704,27,24,easy
+Reading & Processing Structured Data,CAND-011,0.357,14,9,hard
+Fine-Tuning: Concepts & When to Use It,CAND-019,0.379,29,26,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-015,0.931,29,29,easy
+Multi-Agent Orchestration,CAND-003,0.968,31,31,easy
+Building & Populating the Vector Database,CAND-015,0.931,29,29,easy
+Docker & Kubernetes Deployment,CAND-018,1.0,31,31,easy
+Chatbot Evaluation & Testing,CAND-010,0.043,23,22,hard
+Chatbot Frontend Development,CAND-014,0.05,20,17,hard
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+Production Readiness & Final Testing,CAND-004,0.214,28,18,medium
+"First AI Project, React Frontend & GitHub",CAND-018,1.0,31,31,easy
+Capstone Project & Final Demo,CAND-012,0.467,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-015,0.931,29,29,easy
+Reading & Processing Structured Data,CAND-004,0.214,28,18,hard
+Agentic Chatbot Integration,CAND-006,0.083,24,19,hard
+"Security, Privacy & Guardrails",CAND-007,0.815,27,26,easy
+Chatbot Evaluation & Testing,CAND-017,0.032,31,30,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-002,0.345,29,22,hard
+Building & Populating the Vector Database,CAND-009,0.935,31,31,easy
+Agentic Chatbot Integration,CAND-003,0.968,31,31,easy
+Response Formatting & Rich Outputs,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+"First AI Project, React Frontend & GitHub",CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-004,0.214,28,18,hard
+Performance Optimization & Cost Management,CAND-008,0.556,27,25,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+Full-Stack Integration & Streaming Responses,CAND-019,0.379,29,26,hard
+Production Readiness & Final Testing,CAND-020,0.704,27,24,easy
+Building the Knowledge Base,CAND-011,0.357,14,9,hard
+Reading & Processing Structured Data,CAND-008,0.556,27,25,medium
+Agentic Chatbot Integration,CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-005,0.71,31,30,easy
+Performance Optimization & Cost Management,CAND-018,1.0,31,31,easy
+Response Formatting & Rich Outputs,CAND-013,0.433,30,27,medium
+Building the Knowledge Base,CAND-018,1.0,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-013,0.433,30,27,medium
+Reading & Processing Structured Data,CAND-019,0.379,29,26,easy
+Full-Stack Integration & Streaming Responses,CAND-008,0.556,27,25,medium
+Prompt Engineering Fundamentals,CAND-020,0.704,27,24,easy
+Multi-Agent Orchestration,CAND-010,0.043,23,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-015,0.931,29,29,easy
+Model Context Protocol (MCP),CAND-009,0.935,31,31,easy
+Prompt Engineering Fundamentals,CAND-009,0.935,31,31,easy
+Reading & Processing Structured Data,CAND-015,0.931,29,29,easy
+Capstone Project & Final Demo,CAND-006,0.083,24,19,hard
+Embeddings Explained,CAND-013,0.433,30,27,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-010,0.043,23,22,hard
+Prompt Engineering Fundamentals,CAND-015,0.931,29,29,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+"First AI Project, React Frontend & GitHub",CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-017,0.032,31,30,hard
+Multi-Agent Orchestration,CAND-017,0.032,31,30,hard
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Chatbot Frontend Development,CAND-020,0.704,27,24,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+Production Readiness & Final Testing,CAND-011,0.357,14,9,hard
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+Full-Stack Integration & Streaming Responses,CAND-011,0.357,14,9,hard
+Docker & Kubernetes Deployment,CAND-018,1.0,31,31,medium
+Response Formatting & Rich Outputs,CAND-010,0.043,23,22,hard
+Building & Populating the Vector Database,CAND-010,0.043,23,22,hard
+Full-Stack Integration & Streaming Responses,CAND-007,0.815,27,26,medium
+Model Context Protocol (MCP),CAND-004,0.214,28,18,hard
+"Monitoring, Logging & Observability",CAND-015,0.931,29,29,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-004,0.214,28,18,hard
+Agentic Chatbot Integration,CAND-007,0.815,27,26,easy
+"First AI Project, React Frontend & GitHub",CAND-001,0.667,30,28,medium
+Conversation Memory & Context Management,CAND-007,0.815,27,26,easy
+Vector Databases Overview,CAND-005,0.71,31,30,easy
+Chatbot Evaluation & Testing,CAND-017,0.032,31,30,hard
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Chatbot Backend & API Integration,CAND-019,0.379,29,26,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-005,0.71,31,30,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-002,0.345,29,22,hard
+The Retrieval & Matching Engine,CAND-003,0.968,31,31,easy
+Embeddings Explained,CAND-013,0.433,30,27,medium
+Vector Databases Overview,CAND-015,0.931,29,29,easy
+Chatbot Evaluation & Testing,CAND-011,0.357,14,9,hard
+Prompt Engineering Fundamentals,CAND-020,0.704,27,24,easy
+RAG End-to-End & LLM API Basics,CAND-020,0.704,27,24,easy
+Building & Populating the Vector Database,CAND-005,0.71,31,30,easy
+The Retrieval & Matching Engine,CAND-009,0.935,31,31,easy
+Reading & Processing Unstructured Data,CAND-010,0.043,23,22,hard
+Multi-Agent Orchestration,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-008,0.556,27,25,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-012,0.467,30,27,medium
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-002,0.345,29,22,easy
+Full-Stack Integration & Streaming Responses,CAND-009,0.935,31,31,medium
+Prompt Engineering Fundamentals,CAND-009,0.935,31,31,easy
+Docker & Kubernetes Deployment,CAND-012,0.467,30,27,medium
+Docker & Kubernetes Deployment,CAND-016,0.095,21,19,hard
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-008,0.556,27,25,medium
+Multi-Agent Orchestration,CAND-003,0.968,31,31,easy
+Embeddings Explained,CAND-016,0.095,21,19,hard
+"Security, Privacy & Guardrails",CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-004,0.214,28,18,hard
+Vector Databases Overview,CAND-005,0.71,31,30,easy
+Conversation Memory & Context Management,CAND-008,0.556,27,25,medium
+Model Context Protocol (MCP),CAND-001,0.667,30,28,medium
+Prompt Engineering Fundamentals,CAND-010,0.043,23,22,hard
+Chatbot Evaluation & Testing,CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-009,0.935,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-011,0.357,14,9,hard
+Reading & Processing Structured Data,CAND-005,0.71,31,30,easy
+Building & Populating the Vector Database,CAND-011,0.357,14,9,hard
+Full-Stack Integration & Streaming Responses,CAND-016,0.095,21,19,hard
+Conversation Memory & Context Management,CAND-020,0.704,27,24,easy
+Prompt Engineering Fundamentals,CAND-007,0.815,27,26,easy
+Embeddings Explained,CAND-016,0.095,21,19,hard
+Building & Populating the Vector Database,CAND-019,0.379,29,26,hard
+Reading & Processing Structured Data,CAND-009,0.935,31,31,easy
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,easy
+Chatbot Evaluation & Testing,CAND-008,0.556,27,25,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-005,0.71,31,30,easy
+Chatbot Backend & API Integration,CAND-019,0.379,29,26,hard
+Vector Databases Overview,CAND-005,0.71,31,30,medium
+Fine-Tuning: Concepts & When to Use It,CAND-011,0.357,14,9,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-004,0.214,28,18,hard
+Multi-Agent Orchestration,CAND-002,0.345,29,22,hard
+Chatbot Frontend Development,CAND-001,0.667,30,28,medium
+Reading & Processing Unstructured Data,CAND-011,0.357,14,9,hard
+Vector Databases Overview,CAND-002,0.345,29,22,hard
+Production Readiness & Final Testing,CAND-007,0.815,27,26,easy
+Multi-Agent Orchestration,CAND-002,0.345,29,22,hard
+Multi-Agent Orchestration,CAND-016,0.095,21,19,hard
+Building the Knowledge Base,CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,easy
+Agentic Chatbot Integration,CAND-008,0.556,27,25,medium
+"Monitoring, Logging & Observability",CAND-008,0.556,27,25,medium
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+Vector Databases Overview,CAND-019,0.379,29,26,hard
+Docker & Kubernetes Deployment,CAND-020,0.704,27,24,easy
+"First AI Project, React Frontend & GitHub",CAND-011,0.357,14,9,hard
+Full-Stack Integration & Streaming Responses,CAND-003,0.968,31,31,easy
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,hard
+Capstone Project & Final Demo,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-017,0.032,31,30,hard
+Chatbot Frontend Development,CAND-015,0.931,29,29,easy
+Vector Databases Overview,CAND-015,0.931,29,29,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-010,0.043,23,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-016,0.095,21,19,hard
+Conversation Memory & Context Management,CAND-015,0.931,29,29,easy
+Capstone Project & Final Demo,CAND-018,1.0,31,31,easy
+Reading & Processing Structured Data,CAND-013,0.433,30,27,medium
+Vector Databases Overview,CAND-017,0.032,31,30,hard
+Performance Optimization & Cost Management,CAND-001,0.667,30,28,medium
+Vector Databases Overview,CAND-014,0.05,20,17,hard
+Conversation Memory & Context Management,CAND-002,0.345,29,22,hard
+RAG End-to-End & LLM API Basics,CAND-014,0.05,20,17,hard
+Fine-Tuning: Concepts & When to Use It,CAND-017,0.032,31,30,hard
+Embeddings Explained,CAND-009,0.935,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-019,0.379,29,26,hard
+Chatbot Evaluation & Testing,CAND-001,0.667,30,28,medium
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Chatbot Evaluation & Testing,CAND-009,0.935,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-006,0.083,24,19,hard
+Building & Populating the Vector Database,CAND-015,0.931,29,29,easy
+Chatbot Evaluation & Testing,CAND-009,0.935,31,31,easy
+Conversation Memory & Context Management,CAND-018,1.0,31,31,easy
+Chatbot Frontend Development,CAND-001,0.667,30,28,medium
+Chatbot Evaluation & Testing,CAND-020,0.704,27,24,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-016,0.095,21,19,hard
+"Security, Privacy & Guardrails",CAND-002,0.345,29,22,hard
+Reading & Processing Unstructured Data,CAND-005,0.71,31,30,easy
+Response Formatting & Rich Outputs,CAND-017,0.032,31,30,hard
+Embeddings Explained,CAND-018,1.0,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-017,0.032,31,30,hard
+Embeddings Explained,CAND-017,0.032,31,30,hard
+Embeddings Explained,CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-013,0.433,30,27,medium
+Chatbot Frontend Development,CAND-001,0.667,30,28,easy
+Production Readiness & Final Testing,CAND-016,0.095,21,19,hard
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,hard
+Performance Optimization & Cost Management,CAND-013,0.433,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-007,0.815,27,26,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-019,0.379,29,26,hard
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-017,0.032,31,30,hard
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+RAG End-to-End & LLM API Basics,CAND-005,0.71,31,30,easy
+Fine-Tuning: Concepts & When to Use It,CAND-008,0.556,27,25,medium
+Agentic Chatbot Integration,CAND-009,0.935,31,31,medium
+Docker & Kubernetes Deployment,CAND-001,0.667,30,28,hard
+Reading & Processing Unstructured Data,CAND-020,0.704,27,24,easy
+RAG End-to-End & LLM API Basics,CAND-018,1.0,31,31,medium
+"First AI Project, React Frontend & GitHub",CAND-004,0.214,28,18,hard
+Chatbot Evaluation & Testing,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-013,0.433,30,27,medium
+Capstone Project & Final Demo,CAND-004,0.214,28,18,hard
+Reading & Processing Structured Data,CAND-016,0.095,21,19,hard
+Building the Knowledge Base,CAND-002,0.345,29,22,hard
+Prompt Engineering Fundamentals,CAND-002,0.345,29,22,hard
+The Retrieval & Matching Engine,CAND-014,0.05,20,17,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-012,0.467,30,27,medium
+Multi-Agent Orchestration,CAND-013,0.433,30,27,medium
+Embeddings Explained,CAND-010,0.043,23,22,hard
+Agentic Chatbot Integration,CAND-002,0.345,29,22,hard
+Reading & Processing Unstructured Data,CAND-003,0.968,31,31,hard
+"First AI Project, React Frontend & GitHub",CAND-002,0.345,29,22,hard
+Reading & Processing Structured Data,CAND-004,0.214,28,18,hard
+Performance Optimization & Cost Management,CAND-012,0.467,30,27,easy
+"First AI Project, React Frontend & GitHub",CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-010,0.043,23,22,hard
+Vector Databases Overview,CAND-008,0.556,27,25,medium
+Multi-Agent Orchestration,CAND-006,0.083,24,19,easy
+Agentic Chatbot Integration,CAND-006,0.083,24,19,hard
+Capstone Project & Final Demo,CAND-016,0.095,21,19,hard
+Multi-Agent Orchestration,CAND-020,0.704,27,24,easy
+Model Context Protocol (MCP),CAND-015,0.931,29,29,easy
+Model Context Protocol (MCP),CAND-011,0.357,14,9,hard
+Production Readiness & Final Testing,CAND-020,0.704,27,24,easy
+Multi-Agent Orchestration,CAND-015,0.931,29,29,easy
+RAG End-to-End & LLM API Basics,CAND-006,0.083,24,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-020,0.704,27,24,easy
+RAG End-to-End & LLM API Basics,CAND-006,0.083,24,19,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-010,0.043,23,22,hard
+"Security, Privacy & Guardrails",CAND-007,0.815,27,26,easy
+Reading & Processing Structured Data,CAND-012,0.467,30,27,easy
+The Retrieval & Matching Engine,CAND-015,0.931,29,29,easy
+Multi-Agent Orchestration,CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-014,0.05,20,17,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-019,0.379,29,26,hard
+Agentic Chatbot Integration,CAND-020,0.704,27,24,easy
+Conversation Memory & Context Management,CAND-004,0.214,28,18,hard
+Capstone Project & Final Demo,CAND-013,0.433,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-017,0.032,31,30,hard
+Full-Stack Integration & Streaming Responses,CAND-003,0.968,31,31,easy
+Chatbot Frontend Development,CAND-010,0.043,23,22,hard
+Reading & Processing Structured Data,CAND-012,0.467,30,27,medium
+Multi-Agent Orchestration,CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-009,0.935,31,31,easy
+Multi-Agent Orchestration,CAND-002,0.345,29,22,hard
+Building & Populating the Vector Database,CAND-011,0.357,14,9,hard
+Vector Databases Overview,CAND-010,0.043,23,22,hard
+Agentic Chatbot Integration,CAND-012,0.467,30,27,medium
+RAG End-to-End & LLM API Basics,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-018,1.0,31,31,easy
+Vector Databases Overview,CAND-009,0.935,31,31,easy
+The Retrieval & Matching Engine,CAND-011,0.357,14,9,hard
+Chatbot Frontend Development,CAND-019,0.379,29,26,hard
+Capstone Project & Final Demo,CAND-004,0.214,28,18,easy
+Chatbot Evaluation & Testing,CAND-017,0.032,31,30,hard
+Chatbot Evaluation & Testing,CAND-003,0.968,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-011,0.357,14,9,hard
+"Monitoring, Logging & Observability",CAND-006,0.083,24,19,medium
+"Monitoring, Logging & Observability",CAND-019,0.379,29,26,hard
+Response Formatting & Rich Outputs,CAND-007,0.815,27,26,hard
+Chatbot Frontend Development,CAND-007,0.815,27,26,easy
+Chatbot Evaluation & Testing,CAND-018,1.0,31,31,easy
+Capstone Project & Final Demo,CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+Fine-Tuning: Concepts & When to Use It,CAND-020,0.704,27,24,easy
+Full-Stack Integration & Streaming Responses,CAND-005,0.71,31,30,medium
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,easy
+"Monitoring, Logging & Observability",CAND-019,0.379,29,26,hard
+Capstone Project & Final Demo,CAND-016,0.095,21,19,hard
+Conversation Memory & Context Management,CAND-004,0.214,28,18,hard
+Embeddings Explained,CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-010,0.043,23,22,hard
+Agentic Chatbot Integration,CAND-009,0.935,31,31,easy
+Conversation Memory & Context Management,CAND-009,0.935,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-001,0.667,30,28,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-008,0.556,27,25,medium
+Building the Knowledge Base,CAND-016,0.095,21,19,hard
+RAG End-to-End & LLM API Basics,CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-006,0.083,24,19,medium
+Reading & Processing Unstructured Data,CAND-015,0.931,29,29,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-018,1.0,31,31,medium
+Fine-Tuning: Concepts & When to Use It,CAND-005,0.71,31,30,easy
+Capstone Project & Final Demo,CAND-006,0.083,24,19,hard
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+Response Formatting & Rich Outputs,CAND-017,0.032,31,30,hard
+Chatbot Frontend Development,CAND-019,0.379,29,26,hard
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-010,0.043,23,22,hard
+Response Formatting & Rich Outputs,CAND-009,0.935,31,31,easy
+"Security, Privacy & Guardrails",CAND-010,0.043,23,22,hard
+The Retrieval & Matching Engine,CAND-009,0.935,31,31,hard
+Embeddings Explained,CAND-019,0.379,29,26,hard
+Building & Populating the Vector Database,CAND-014,0.05,20,17,hard
+"First AI Project, React Frontend & GitHub",CAND-011,0.357,14,9,hard
+Chatbot Backend & API Integration,CAND-006,0.083,24,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-003,0.968,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-007,0.815,27,26,easy
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+"First AI Project, React Frontend & GitHub",CAND-004,0.214,28,18,hard
+RAG End-to-End & LLM API Basics,CAND-017,0.032,31,30,hard
+Prompt Engineering Fundamentals,CAND-016,0.095,21,19,hard
+Chatbot Backend & API Integration,CAND-012,0.467,30,27,medium
+Capstone Project & Final Demo,CAND-003,0.968,31,31,easy
+Chatbot Backend & API Integration,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-005,0.71,31,30,easy
+The Retrieval & Matching Engine,CAND-002,0.345,29,22,hard
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-020,0.704,27,24,easy
+"First AI Project, React Frontend & GitHub",CAND-011,0.357,14,9,hard
+Building the Knowledge Base,CAND-013,0.433,30,27,hard
+Embeddings Explained,CAND-015,0.931,29,29,easy
+Prompt Engineering Fundamentals,CAND-008,0.556,27,25,medium
+Building & Populating the Vector Database,CAND-015,0.931,29,29,easy
+Vector Databases Overview,CAND-016,0.095,21,19,medium
+Model Context Protocol (MCP),CAND-006,0.083,24,19,hard
+Chatbot Frontend Development,CAND-012,0.467,30,27,medium
+Production Readiness & Final Testing,CAND-003,0.968,31,31,easy
+Building the Knowledge Base,CAND-005,0.71,31,30,easy
+Building & Populating the Vector Database,CAND-018,1.0,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-016,0.095,21,19,hard
+Docker & Kubernetes Deployment,CAND-002,0.345,29,22,hard
+Chatbot Backend & API Integration,CAND-003,0.968,31,31,easy
+Capstone Project & Final Demo,CAND-010,0.043,23,22,hard
+Production Readiness & Final Testing,CAND-017,0.032,31,30,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Chatbot Backend & API Integration,CAND-011,0.357,14,9,hard
+Prompt Engineering Fundamentals,CAND-003,0.968,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-006,0.083,24,19,hard
+Conversation Memory & Context Management,CAND-017,0.032,31,30,hard
+Embeddings Explained,CAND-003,0.968,31,31,easy
+Agentic Chatbot Integration,CAND-017,0.032,31,30,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-014,0.05,20,17,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-020,0.704,27,24,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+Prompt Engineering Fundamentals,CAND-006,0.083,24,19,hard
+Capstone Project & Final Demo,CAND-006,0.083,24,19,hard
+"Monitoring, Logging & Observability",CAND-018,1.0,31,31,easy
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Reading & Processing Structured Data,CAND-008,0.556,27,25,easy
+"Monitoring, Logging & Observability",CAND-006,0.083,24,19,hard
+Conversation Memory & Context Management,CAND-018,1.0,31,31,easy
+Chatbot Frontend Development,CAND-003,0.968,31,31,easy
+"Security, Privacy & Guardrails",CAND-006,0.083,24,19,hard
+Vector Databases Overview,CAND-001,0.667,30,28,medium
+Chatbot Backend & API Integration,CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-016,0.095,21,19,hard
+Embeddings Explained,CAND-014,0.05,20,17,hard
+Chatbot Evaluation & Testing,CAND-011,0.357,14,9,hard
+Embeddings Explained,CAND-017,0.032,31,30,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-001,0.667,30,28,medium
+Embeddings Explained,CAND-001,0.667,30,28,medium
+Full-Stack Integration & Streaming Responses,CAND-015,0.931,29,29,easy
+"Monitoring, Logging & Observability",CAND-009,0.935,31,31,easy
+Reading & Processing Unstructured Data,CAND-001,0.667,30,28,medium
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+The Retrieval & Matching Engine,CAND-009,0.935,31,31,easy
+Fine-Tuning: Concepts & When to Use It,CAND-012,0.467,30,27,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-014,0.05,20,17,hard
+Model Context Protocol (MCP),CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-015,0.931,29,29,easy
+Chatbot Evaluation & Testing,CAND-002,0.345,29,22,medium
+Building & Populating the Vector Database,CAND-011,0.357,14,9,hard
+Chatbot Evaluation & Testing,CAND-019,0.379,29,26,hard
+Reading & Processing Structured Data,CAND-005,0.71,31,30,easy
+The Retrieval & Matching Engine,CAND-005,0.71,31,30,easy
+Fine-Tuning: Concepts & When to Use It,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-010,0.043,23,22,hard
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,hard
+Embeddings Explained,CAND-011,0.357,14,9,hard
+Prompt Engineering Fundamentals,CAND-014,0.05,20,17,hard
+Performance Optimization & Cost Management,CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,easy
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Building the Knowledge Base,CAND-014,0.05,20,17,hard
+Conversation Memory & Context Management,CAND-018,1.0,31,31,easy
+Reading & Processing Unstructured Data,CAND-012,0.467,30,27,medium
+Chatbot Backend & API Integration,CAND-010,0.043,23,22,hard
+Model Context Protocol (MCP),CAND-015,0.931,29,29,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+"First AI Project, React Frontend & GitHub",CAND-010,0.043,23,22,hard
+RAG End-to-End & LLM API Basics,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Chatbot Backend & API Integration,CAND-016,0.095,21,19,hard
+Building & Populating the Vector Database,CAND-006,0.083,24,19,hard
+Multi-Agent Orchestration,CAND-003,0.968,31,31,easy
+Vector Databases Overview,CAND-010,0.043,23,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-012,0.467,30,27,medium
+Chatbot Evaluation & Testing,CAND-015,0.931,29,29,hard
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+The Retrieval & Matching Engine,CAND-020,0.704,27,24,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-019,0.379,29,26,hard
+Agentic Chatbot Integration,CAND-009,0.935,31,31,easy
+Chatbot Backend & API Integration,CAND-009,0.935,31,31,medium
+"First AI Project, React Frontend & GitHub",CAND-018,1.0,31,31,easy
+Building & Populating the Vector Database,CAND-002,0.345,29,22,hard
+Reading & Processing Structured Data,CAND-008,0.556,27,25,medium
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Chatbot Evaluation & Testing,CAND-004,0.214,28,18,hard
+Response Formatting & Rich Outputs,CAND-016,0.095,21,19,medium
+Embeddings Explained,CAND-018,1.0,31,31,easy
+Fine-Tuning: Concepts & When to Use It,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-011,0.357,14,9,hard
+Conversation Memory & Context Management,CAND-003,0.968,31,31,hard
+"First AI Project, React Frontend & GitHub",CAND-004,0.214,28,18,hard
+Building & Populating the Vector Database,CAND-007,0.815,27,26,easy
+"Monitoring, Logging & Observability",CAND-007,0.815,27,26,easy
+Chatbot Frontend Development,CAND-001,0.667,30,28,medium
+Model Context Protocol (MCP),CAND-015,0.931,29,29,easy
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-020,0.704,27,24,easy
+Chatbot Evaluation & Testing,CAND-019,0.379,29,26,hard
+Prompt Engineering Fundamentals,CAND-012,0.467,30,27,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-011,0.357,14,9,hard
+Model Context Protocol (MCP),CAND-008,0.556,27,25,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-005,0.71,31,30,easy
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+Prompt Engineering Fundamentals,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-010,0.043,23,22,hard
+Conversation Memory & Context Management,CAND-008,0.556,27,25,medium
+Vector Databases Overview,CAND-011,0.357,14,9,hard
+Production Readiness & Final Testing,CAND-012,0.467,30,27,medium
+Reading & Processing Structured Data,CAND-015,0.931,29,29,easy
+"Security, Privacy & Guardrails",CAND-017,0.032,31,30,hard
+Response Formatting & Rich Outputs,CAND-006,0.083,24,19,hard
+Reading & Processing Unstructured Data,CAND-013,0.433,30,27,medium
+Building the Knowledge Base,CAND-003,0.968,31,31,easy
+Chatbot Evaluation & Testing,CAND-006,0.083,24,19,medium
+Full-Stack Integration & Streaming Responses,CAND-010,0.043,23,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-005,0.71,31,30,easy
+Reading & Processing Structured Data,CAND-005,0.71,31,30,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-020,0.704,27,24,easy
+Chatbot Frontend Development,CAND-007,0.815,27,26,hard
+"Security, Privacy & Guardrails",CAND-018,1.0,31,31,easy
+Reading & Processing Structured Data,CAND-007,0.815,27,26,easy
+Fine-Tuning: Concepts & When to Use It,CAND-008,0.556,27,25,medium
+Reading & Processing Unstructured Data,CAND-006,0.083,24,19,hard
+Prompt Engineering Fundamentals,CAND-010,0.043,23,22,hard
+Vector Databases Overview,CAND-019,0.379,29,26,hard
+"Security, Privacy & Guardrails",CAND-014,0.05,20,17,hard
+Model Context Protocol (MCP),CAND-001,0.667,30,28,medium
+Reading & Processing Unstructured Data,CAND-006,0.083,24,19,hard
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,easy
+Fine-Tuning: Concepts & When to Use It,CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-011,0.357,14,9,hard
+Reading & Processing Structured Data,CAND-001,0.667,30,28,medium
+"Monitoring, Logging & Observability",CAND-016,0.095,21,19,hard
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,easy
+Model Context Protocol (MCP),CAND-008,0.556,27,25,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-010,0.043,23,22,hard
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,easy
+Reading & Processing Unstructured Data,CAND-004,0.214,28,18,hard
+Prompt Engineering Fundamentals,CAND-008,0.556,27,25,medium
+Response Formatting & Rich Outputs,CAND-012,0.467,30,27,medium
+Building & Populating the Vector Database,CAND-007,0.815,27,26,easy
+Agentic Chatbot Integration,CAND-020,0.704,27,24,easy
+Vector Databases Overview,CAND-015,0.931,29,29,easy
+Chatbot Backend & API Integration,CAND-003,0.968,31,31,easy
+The Retrieval & Matching Engine,CAND-010,0.043,23,22,hard
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+"Security, Privacy & Guardrails",CAND-006,0.083,24,19,hard
+Capstone Project & Final Demo,CAND-007,0.815,27,26,easy
+The Retrieval & Matching Engine,CAND-002,0.345,29,22,hard
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+Multi-Agent Orchestration,CAND-002,0.345,29,22,hard
+Model Context Protocol (MCP),CAND-017,0.032,31,30,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-012,0.467,30,27,medium
+Building the Knowledge Base,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-019,0.379,29,26,easy
+Reading & Processing Unstructured Data,CAND-007,0.815,27,26,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-018,1.0,31,31,easy
+Chatbot Evaluation & Testing,CAND-007,0.815,27,26,easy
+The Retrieval & Matching Engine,CAND-014,0.05,20,17,hard
+Model Context Protocol (MCP),CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-003,0.968,31,31,easy
+Reading & Processing Unstructured Data,CAND-001,0.667,30,28,medium
+Building & Populating the Vector Database,CAND-018,1.0,31,31,easy
+Reading & Processing Unstructured Data,CAND-020,0.704,27,24,easy
+Response Formatting & Rich Outputs,CAND-016,0.095,21,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,medium
+Performance Optimization & Cost Management,CAND-007,0.815,27,26,easy
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Chatbot Backend & API Integration,CAND-001,0.667,30,28,medium
+Reading & Processing Unstructured Data,CAND-009,0.935,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-013,0.433,30,27,medium
+"Monitoring, Logging & Observability",CAND-016,0.095,21,19,hard
+"Security, Privacy & Guardrails",CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-015,0.931,29,29,easy
+Reading & Processing Unstructured Data,CAND-013,0.433,30,27,medium
+Building & Populating the Vector Database,CAND-004,0.214,28,18,hard
+"Monitoring, Logging & Observability",CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-017,0.032,31,30,hard
+Reading & Processing Unstructured Data,CAND-002,0.345,29,22,hard
+Capstone Project & Final Demo,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-007,0.815,27,26,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+"Security, Privacy & Guardrails",CAND-007,0.815,27,26,medium
+Production Readiness & Final Testing,CAND-015,0.931,29,29,medium
+Multi-Agent Orchestration,CAND-020,0.704,27,24,easy
+Multi-Agent Orchestration,CAND-013,0.433,30,27,medium
+Multi-Agent Orchestration,CAND-008,0.556,27,25,medium
+Embeddings Explained,CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-002,0.345,29,22,easy
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,hard
+"First AI Project, React Frontend & GitHub",CAND-001,0.667,30,28,medium
+Production Readiness & Final Testing,CAND-003,0.968,31,31,easy
+Reading & Processing Structured Data,CAND-018,1.0,31,31,easy
+The Retrieval & Matching Engine,CAND-006,0.083,24,19,hard
+Building & Populating the Vector Database,CAND-001,0.667,30,28,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+"Security, Privacy & Guardrails",CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-006,0.083,24,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-020,0.704,27,24,easy
+"Monitoring, Logging & Observability",CAND-019,0.379,29,26,hard
+Embeddings Explained,CAND-017,0.032,31,30,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-012,0.467,30,27,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-009,0.935,31,31,easy
+Production Readiness & Final Testing,CAND-004,0.214,28,18,hard
+"Security, Privacy & Guardrails",CAND-004,0.214,28,18,hard
+Chatbot Backend & API Integration,CAND-001,0.667,30,28,medium
+Prompt Engineering Fundamentals,CAND-017,0.032,31,30,hard
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+Conversation Memory & Context Management,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-019,0.379,29,26,hard
+Building & Populating the Vector Database,CAND-005,0.71,31,30,easy
+Conversation Memory & Context Management,CAND-001,0.667,30,28,hard
+The Retrieval & Matching Engine,CAND-014,0.05,20,17,hard
+Fine-Tuning: Concepts & When to Use It,CAND-017,0.032,31,30,hard
+Chatbot Backend & API Integration,CAND-009,0.935,31,31,easy
+Performance Optimization & Cost Management,CAND-016,0.095,21,19,hard
+RAG End-to-End & LLM API Basics,CAND-004,0.214,28,18,hard
+Full-Stack Integration & Streaming Responses,CAND-003,0.968,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-008,0.556,27,25,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-012,0.467,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-015,0.931,29,29,easy
+Reading & Processing Structured Data,CAND-004,0.214,28,18,hard
+Response Formatting & Rich Outputs,CAND-010,0.043,23,22,easy
+Building the Knowledge Base,CAND-009,0.935,31,31,easy
+Reading & Processing Unstructured Data,CAND-012,0.467,30,27,medium
+Conversation Memory & Context Management,CAND-004,0.214,28,18,hard
+Chatbot Evaluation & Testing,CAND-007,0.815,27,26,easy
+Capstone Project & Final Demo,CAND-003,0.968,31,31,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-001,0.667,30,28,medium
+Capstone Project & Final Demo,CAND-013,0.433,30,27,hard
+Multi-Agent Orchestration,CAND-006,0.083,24,19,hard
+Performance Optimization & Cost Management,CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-011,0.357,14,9,hard
+RAG End-to-End & LLM API Basics,CAND-013,0.433,30,27,medium
+RAG End-to-End & LLM API Basics,CAND-006,0.083,24,19,hard
+Response Formatting & Rich Outputs,CAND-008,0.556,27,25,medium
+"Security, Privacy & Guardrails",CAND-009,0.935,31,31,easy
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+Reading & Processing Unstructured Data,CAND-009,0.935,31,31,easy
+Building & Populating the Vector Database,CAND-010,0.043,23,22,hard
+Agentic Chatbot Integration,CAND-009,0.935,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-009,0.935,31,31,easy
+Production Readiness & Final Testing,CAND-019,0.379,29,26,hard
+Chatbot Backend & API Integration,CAND-014,0.05,20,17,easy
+"First AI Project, React Frontend & GitHub",CAND-003,0.968,31,31,medium
+Model Context Protocol (MCP),CAND-005,0.71,31,30,easy
+"Security, Privacy & Guardrails",CAND-005,0.71,31,30,easy
+Response Formatting & Rich Outputs,CAND-013,0.433,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-009,0.935,31,31,easy
+Chatbot Evaluation & Testing,CAND-004,0.214,28,18,hard
+Performance Optimization & Cost Management,CAND-015,0.931,29,29,easy
+Docker & Kubernetes Deployment,CAND-007,0.815,27,26,easy
+Response Formatting & Rich Outputs,CAND-008,0.556,27,25,medium
+Agentic Chatbot Integration,CAND-002,0.345,29,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-015,0.931,29,29,hard
+Building & Populating the Vector Database,CAND-009,0.935,31,31,hard
+Multi-Agent Orchestration,CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-002,0.345,29,22,hard
+Reading & Processing Unstructured Data,CAND-007,0.815,27,26,easy
+Chatbot Evaluation & Testing,CAND-009,0.935,31,31,easy
+"Security, Privacy & Guardrails",CAND-001,0.667,30,28,medium
+"Monitoring, Logging & Observability",CAND-017,0.032,31,30,hard
+Conversation Memory & Context Management,CAND-009,0.935,31,31,easy
+Performance Optimization & Cost Management,CAND-016,0.095,21,19,hard
+Reading & Processing Structured Data,CAND-001,0.667,30,28,medium
+Vector Databases Overview,CAND-016,0.095,21,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-019,0.379,29,26,hard
+Chatbot Evaluation & Testing,CAND-004,0.214,28,18,hard
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+RAG End-to-End & LLM API Basics,CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-014,0.05,20,17,hard
+Prompt Engineering Fundamentals,CAND-005,0.71,31,30,easy
+Performance Optimization & Cost Management,CAND-016,0.095,21,19,hard
+Chatbot Evaluation & Testing,CAND-012,0.467,30,27,medium
+Embeddings Explained,CAND-016,0.095,21,19,hard
+Response Formatting & Rich Outputs,CAND-001,0.667,30,28,medium
+Building the Knowledge Base,CAND-014,0.05,20,17,hard
+Performance Optimization & Cost Management,CAND-003,0.968,31,31,easy
+Chatbot Frontend Development,CAND-007,0.815,27,26,easy
+Chatbot Frontend Development,CAND-019,0.379,29,26,hard
+Prompt Engineering Fundamentals,CAND-011,0.357,14,9,hard
+The Retrieval & Matching Engine,CAND-011,0.357,14,9,hard
+"Monitoring, Logging & Observability",CAND-014,0.05,20,17,hard
+Conversation Memory & Context Management,CAND-008,0.556,27,25,medium
+Chatbot Backend & API Integration,CAND-009,0.935,31,31,easy
+Response Formatting & Rich Outputs,CAND-020,0.704,27,24,easy
+Reading & Processing Unstructured Data,CAND-002,0.345,29,22,medium
+"First AI Project, React Frontend & GitHub",CAND-015,0.931,29,29,easy
+Building the Knowledge Base,CAND-005,0.71,31,30,easy
+Multi-Agent Orchestration,CAND-010,0.043,23,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-015,0.931,29,29,easy
+Reading & Processing Unstructured Data,CAND-008,0.556,27,25,medium
+Production Readiness & Final Testing,CAND-019,0.379,29,26,hard
+Prompt Engineering Fundamentals,CAND-003,0.968,31,31,easy
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Chatbot Evaluation & Testing,CAND-008,0.556,27,25,medium
+Fine-Tuning: Concepts & When to Use It,CAND-005,0.71,31,30,easy
+Capstone Project & Final Demo,CAND-018,1.0,31,31,easy
+Building & Populating the Vector Database,CAND-016,0.095,21,19,hard
+Conversation Memory & Context Management,CAND-016,0.095,21,19,hard
+Production Readiness & Final Testing,CAND-013,0.433,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-018,1.0,31,31,easy
+Building & Populating the Vector Database,CAND-002,0.345,29,22,hard
+Chatbot Backend & API Integration,CAND-011,0.357,14,9,hard
+Model Context Protocol (MCP),CAND-015,0.931,29,29,easy
+Full-Stack Integration & Streaming Responses,CAND-004,0.214,28,18,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-003,0.968,31,31,easy
+Production Readiness & Final Testing,CAND-015,0.931,29,29,easy
+Agentic Chatbot Integration,CAND-017,0.032,31,30,hard
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-016,0.095,21,19,hard
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+Building the Knowledge Base,CAND-003,0.968,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-009,0.935,31,31,easy
+Chatbot Evaluation & Testing,CAND-003,0.968,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-017,0.032,31,30,hard
+"Security, Privacy & Guardrails",CAND-019,0.379,29,26,hard
+Docker & Kubernetes Deployment,CAND-010,0.043,23,22,hard
+"Security, Privacy & Guardrails",CAND-010,0.043,23,22,hard
+Full-Stack Integration & Streaming Responses,CAND-007,0.815,27,26,easy
+"Monitoring, Logging & Observability",CAND-017,0.032,31,30,hard
+Production Readiness & Final Testing,CAND-011,0.357,14,9,hard
+Vector Databases Overview,CAND-008,0.556,27,25,medium
+Performance Optimization & Cost Management,CAND-016,0.095,21,19,hard
+Conversation Memory & Context Management,CAND-016,0.095,21,19,hard
+Reading & Processing Structured Data,CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-004,0.214,28,18,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-008,0.556,27,25,medium
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+Performance Optimization & Cost Management,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-006,0.083,24,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-016,0.095,21,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-002,0.345,29,22,hard
+Agentic Chatbot Integration,CAND-013,0.433,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-005,0.71,31,30,easy
+Fine-Tuning: Concepts & When to Use It,CAND-007,0.815,27,26,easy
+Building & Populating the Vector Database,CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-015,0.931,29,29,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-017,0.032,31,30,hard
+Building the Knowledge Base,CAND-001,0.667,30,28,medium
+Building & Populating the Vector Database,CAND-016,0.095,21,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-001,0.667,30,28,medium
+Docker & Kubernetes Deployment,CAND-008,0.556,27,25,medium
+"Security, Privacy & Guardrails",CAND-002,0.345,29,22,hard
+Response Formatting & Rich Outputs,CAND-014,0.05,20,17,hard
+Chatbot Evaluation & Testing,CAND-014,0.05,20,17,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-008,0.556,27,25,medium
+Full-Stack Integration & Streaming Responses,CAND-002,0.345,29,22,hard
+Capstone Project & Final Demo,CAND-017,0.032,31,30,hard
+Response Formatting & Rich Outputs,CAND-009,0.935,31,31,easy
+Agentic Chatbot Integration,CAND-014,0.05,20,17,hard
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,easy
+Chatbot Backend & API Integration,CAND-006,0.083,24,19,hard
+Fine-Tuning: Concepts & When to Use It,CAND-002,0.345,29,22,hard
+Docker & Kubernetes Deployment,CAND-010,0.043,23,22,hard
+RAG End-to-End & LLM API Basics,CAND-011,0.357,14,9,hard
+Chatbot Frontend Development,CAND-005,0.71,31,30,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-012,0.467,30,27,medium
+Reading & Processing Unstructured Data,CAND-020,0.704,27,24,easy
+Response Formatting & Rich Outputs,CAND-004,0.214,28,18,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-012,0.467,30,27,easy
+Building & Populating the Vector Database,CAND-010,0.043,23,22,hard
+Embeddings Explained,CAND-005,0.71,31,30,medium
+Vector Databases Overview,CAND-013,0.433,30,27,medium
+The Retrieval & Matching Engine,CAND-002,0.345,29,22,hard
+Production Readiness & Final Testing,CAND-013,0.433,30,27,medium
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Fine-Tuning: Concepts & When to Use It,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-020,0.704,27,24,easy
+"Security, Privacy & Guardrails",CAND-002,0.345,29,22,hard
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+Reading & Processing Structured Data,CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-014,0.05,20,17,hard
+Embeddings Explained,CAND-005,0.71,31,30,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-016,0.095,21,19,hard
+Embeddings Explained,CAND-011,0.357,14,9,hard
+Building & Populating the Vector Database,CAND-016,0.095,21,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-019,0.379,29,26,hard
+Reading & Processing Structured Data,CAND-012,0.467,30,27,medium
+Capstone Project & Final Demo,CAND-007,0.815,27,26,easy
+"Security, Privacy & Guardrails",CAND-014,0.05,20,17,hard
+Building & Populating the Vector Database,CAND-007,0.815,27,26,easy
+Chatbot Backend & API Integration,CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-005,0.71,31,30,easy
+Fine-Tuning: Concepts & When to Use It,CAND-013,0.433,30,27,medium
+"Security, Privacy & Guardrails",CAND-017,0.032,31,30,hard
+Embeddings Explained,CAND-008,0.556,27,25,medium
+Vector Databases Overview,CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-007,0.815,27,26,easy
+The Retrieval & Matching Engine,CAND-008,0.556,27,25,medium
+"Monitoring, Logging & Observability",CAND-002,0.345,29,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-010,0.043,23,22,hard
+Building & Populating the Vector Database,CAND-009,0.935,31,31,easy
+Reading & Processing Structured Data,CAND-007,0.815,27,26,easy
+"First AI Project, React Frontend & GitHub",CAND-009,0.935,31,31,easy
+The Retrieval & Matching Engine,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-018,1.0,31,31,easy
+Response Formatting & Rich Outputs,CAND-007,0.815,27,26,easy
+Fine-Tuning: Concepts & When to Use It,CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-005,0.71,31,30,easy
+Full-Stack Integration & Streaming Responses,CAND-018,1.0,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-009,0.935,31,31,easy
+Chatbot Frontend Development,CAND-004,0.214,28,18,hard
+Docker & Kubernetes Deployment,CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-004,0.214,28,18,hard
+Chatbot Backend & API Integration,CAND-019,0.379,29,26,hard
+Conversation Memory & Context Management,CAND-001,0.667,30,28,medium
+Model Context Protocol (MCP),CAND-013,0.433,30,27,medium
+Production Readiness & Final Testing,CAND-012,0.467,30,27,medium
+Performance Optimization & Cost Management,CAND-005,0.71,31,30,medium
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+Chatbot Frontend Development,CAND-020,0.704,27,24,easy
+Chatbot Backend & API Integration,CAND-010,0.043,23,22,easy
+Chatbot Evaluation & Testing,CAND-005,0.71,31,30,easy
+Chatbot Frontend Development,CAND-007,0.815,27,26,easy
+Multi-Agent Orchestration,CAND-014,0.05,20,17,hard
+Fine-Tuning: Concepts & When to Use It,CAND-020,0.704,27,24,easy
+Performance Optimization & Cost Management,CAND-005,0.71,31,30,easy
+Conversation Memory & Context Management,CAND-007,0.815,27,26,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-002,0.345,29,22,hard
+Chatbot Frontend Development,CAND-020,0.704,27,24,easy
+Chatbot Frontend Development,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-007,0.815,27,26,medium
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Multi-Agent Orchestration,CAND-017,0.032,31,30,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+Docker & Kubernetes Deployment,CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-001,0.667,30,28,medium
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,medium
+Capstone Project & Final Demo,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-002,0.345,29,22,hard
+Chatbot Frontend Development,CAND-008,0.556,27,25,medium
+Full-Stack Integration & Streaming Responses,CAND-014,0.05,20,17,hard
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-018,1.0,31,31,easy
+Performance Optimization & Cost Management,CAND-020,0.704,27,24,hard
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Vector Databases Overview,CAND-010,0.043,23,22,hard
+Full-Stack Integration & Streaming Responses,CAND-013,0.433,30,27,medium
+Building the Knowledge Base,CAND-011,0.357,14,9,hard
+"Security, Privacy & Guardrails",CAND-013,0.433,30,27,medium
+Agentic Chatbot Integration,CAND-015,0.931,29,29,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+Multi-Agent Orchestration,CAND-009,0.935,31,31,easy
+Multi-Agent Orchestration,CAND-010,0.043,23,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-012,0.467,30,27,medium
+Performance Optimization & Cost Management,CAND-010,0.043,23,22,hard
+Chatbot Backend & API Integration,CAND-012,0.467,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-002,0.345,29,22,hard
+Building & Populating the Vector Database,CAND-002,0.345,29,22,hard
+Production Readiness & Final Testing,CAND-003,0.968,31,31,easy
+Performance Optimization & Cost Management,CAND-015,0.931,29,29,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Performance Optimization & Cost Management,CAND-006,0.083,24,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-015,0.931,29,29,easy
+Chatbot Evaluation & Testing,CAND-006,0.083,24,19,hard
+Performance Optimization & Cost Management,CAND-007,0.815,27,26,easy
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,easy
+Building & Populating the Vector Database,CAND-020,0.704,27,24,easy
+Chatbot Backend & API Integration,CAND-013,0.433,30,27,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,easy
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-001,0.667,30,28,medium
+Building & Populating the Vector Database,CAND-005,0.71,31,30,easy
+Prompt Engineering Fundamentals,CAND-015,0.931,29,29,easy
+Conversation Memory & Context Management,CAND-019,0.379,29,26,hard
+Building & Populating the Vector Database,CAND-016,0.095,21,19,hard
+Multi-Agent Orchestration,CAND-012,0.467,30,27,medium
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,easy
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,hard
+Multi-Agent Orchestration,CAND-001,0.667,30,28,medium
+Full-Stack Integration & Streaming Responses,CAND-004,0.214,28,18,hard
+Prompt Engineering Fundamentals,CAND-012,0.467,30,27,medium
+Conversation Memory & Context Management,CAND-004,0.214,28,18,medium
+"Security, Privacy & Guardrails",CAND-016,0.095,21,19,hard
+Chatbot Evaluation & Testing,CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-010,0.043,23,22,hard
+Full-Stack Integration & Streaming Responses,CAND-007,0.815,27,26,easy
+The Retrieval & Matching Engine,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-002,0.345,29,22,hard
+Docker & Kubernetes Deployment,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-001,0.667,30,28,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-014,0.05,20,17,hard
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-010,0.043,23,22,hard
+Chatbot Frontend Development,CAND-003,0.968,31,31,easy
+"Security, Privacy & Guardrails",CAND-018,1.0,31,31,easy
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-012,0.467,30,27,medium
+Response Formatting & Rich Outputs,CAND-011,0.357,14,9,hard
+Response Formatting & Rich Outputs,CAND-002,0.345,29,22,hard
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,easy
+Reading & Processing Structured Data,CAND-017,0.032,31,30,hard
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-009,0.935,31,31,easy
+Multi-Agent Orchestration,CAND-006,0.083,24,19,hard
+The Retrieval & Matching Engine,CAND-010,0.043,23,22,hard
+The Retrieval & Matching Engine,CAND-012,0.467,30,27,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-020,0.704,27,24,easy
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+Agentic Chatbot Integration,CAND-012,0.467,30,27,medium
+"Monitoring, Logging & Observability",CAND-008,0.556,27,25,medium
+Reading & Processing Unstructured Data,CAND-001,0.667,30,28,medium
+Reading & Processing Structured Data,CAND-007,0.815,27,26,easy
+Prompt Engineering Fundamentals,CAND-014,0.05,20,17,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-014,0.05,20,17,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-002,0.345,29,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-009,0.935,31,31,easy
+Chatbot Frontend Development,CAND-014,0.05,20,17,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+Capstone Project & Final Demo,CAND-003,0.968,31,31,easy
+Vector Databases Overview,CAND-006,0.083,24,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-002,0.345,29,22,hard
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+Conversation Memory & Context Management,CAND-014,0.05,20,17,hard
+Chatbot Evaluation & Testing,CAND-003,0.968,31,31,easy
+Capstone Project & Final Demo,CAND-002,0.345,29,22,medium
+Building the Knowledge Base,CAND-011,0.357,14,9,hard
+The Retrieval & Matching Engine,CAND-007,0.815,27,26,easy
+Embeddings Explained,CAND-018,1.0,31,31,easy
+Chatbot Evaluation & Testing,CAND-013,0.433,30,27,easy
+Response Formatting & Rich Outputs,CAND-011,0.357,14,9,hard
+"First AI Project, React Frontend & GitHub",CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-016,0.095,21,19,hard
+Response Formatting & Rich Outputs,CAND-001,0.667,30,28,medium
+Capstone Project & Final Demo,CAND-001,0.667,30,28,medium
+Docker & Kubernetes Deployment,CAND-012,0.467,30,27,medium
+Building the Knowledge Base,CAND-018,1.0,31,31,medium
+Conversation Memory & Context Management,CAND-002,0.345,29,22,hard
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+Multi-Agent Orchestration,CAND-019,0.379,29,26,hard
+Building the Knowledge Base,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-012,0.467,30,27,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-004,0.214,28,18,hard
+Agentic Chatbot Integration,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+Reading & Processing Unstructured Data,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-016,0.095,21,19,easy
+Conversation Memory & Context Management,CAND-001,0.667,30,28,medium
+Multi-Agent Orchestration,CAND-005,0.71,31,30,easy
+Building & Populating the Vector Database,CAND-006,0.083,24,19,hard
+Production Readiness & Final Testing,CAND-018,1.0,31,31,easy
+Docker & Kubernetes Deployment,CAND-012,0.467,30,27,hard
+Building the Knowledge Base,CAND-020,0.704,27,24,easy
+Embeddings Explained,CAND-019,0.379,29,26,hard
+"Monitoring, Logging & Observability",CAND-005,0.71,31,30,easy
+RAG End-to-End & LLM API Basics,CAND-019,0.379,29,26,hard
+Embeddings Explained,CAND-002,0.345,29,22,hard
+Production Readiness & Final Testing,CAND-009,0.935,31,31,easy
+"Monitoring, Logging & Observability",CAND-007,0.815,27,26,easy
+Agentic Chatbot Integration,CAND-003,0.968,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-016,0.095,21,19,hard
+Conversation Memory & Context Management,CAND-012,0.467,30,27,medium
+Chatbot Evaluation & Testing,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-006,0.083,24,19,hard
+Docker & Kubernetes Deployment,CAND-005,0.71,31,30,easy
+Model Context Protocol (MCP),CAND-008,0.556,27,25,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-003,0.968,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-003,0.968,31,31,easy
+Building the Knowledge Base,CAND-018,1.0,31,31,easy
+"Monitoring, Logging & Observability",CAND-003,0.968,31,31,easy
+Capstone Project & Final Demo,CAND-004,0.214,28,18,hard
+Embeddings Explained,CAND-008,0.556,27,25,medium
+Multi-Agent Orchestration,CAND-020,0.704,27,24,easy
+Building & Populating the Vector Database,CAND-002,0.345,29,22,hard
+Fine-Tuning: Concepts & When to Use It,CAND-019,0.379,29,26,hard
+Response Formatting & Rich Outputs,CAND-016,0.095,21,19,hard
+Embeddings Explained,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-008,0.556,27,25,medium
+Prompt Engineering Fundamentals,CAND-011,0.357,14,9,hard
+Conversation Memory & Context Management,CAND-017,0.032,31,30,hard
+Production Readiness & Final Testing,CAND-004,0.214,28,18,hard
+Capstone Project & Final Demo,CAND-019,0.379,29,26,hard
+Model Context Protocol (MCP),CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-018,1.0,31,31,medium
+Fine-Tuning: Concepts & When to Use It,CAND-001,0.667,30,28,medium
+Reading & Processing Unstructured Data,CAND-003,0.968,31,31,easy
+Reading & Processing Structured Data,CAND-007,0.815,27,26,easy
+"First AI Project, React Frontend & GitHub",CAND-017,0.032,31,30,hard
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Chatbot Evaluation & Testing,CAND-018,1.0,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-009,0.935,31,31,easy
+Docker & Kubernetes Deployment,CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-018,1.0,31,31,easy
+Chatbot Evaluation & Testing,CAND-020,0.704,27,24,easy
+Building the Knowledge Base,CAND-009,0.935,31,31,hard
+"Monitoring, Logging & Observability",CAND-008,0.556,27,25,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-019,0.379,29,26,hard
+Production Readiness & Final Testing,CAND-011,0.357,14,9,hard
+Response Formatting & Rich Outputs,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-015,0.931,29,29,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-014,0.05,20,17,hard
+The Retrieval & Matching Engine,CAND-020,0.704,27,24,easy
+"Monitoring, Logging & Observability",CAND-012,0.467,30,27,medium
+Reading & Processing Structured Data,CAND-016,0.095,21,19,hard
+Multi-Agent Orchestration,CAND-009,0.935,31,31,easy
+Agentic Chatbot Integration,CAND-020,0.704,27,24,easy
+Prompt Engineering Fundamentals,CAND-020,0.704,27,24,easy
+Production Readiness & Final Testing,CAND-015,0.931,29,29,easy
+Vector Databases Overview,CAND-011,0.357,14,9,hard
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Capstone Project & Final Demo,CAND-020,0.704,27,24,easy
+Building & Populating the Vector Database,CAND-002,0.345,29,22,medium
+Full-Stack Integration & Streaming Responses,CAND-005,0.71,31,30,easy
+Model Context Protocol (MCP),CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-013,0.433,30,27,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-019,0.379,29,26,hard
+Embeddings Explained,CAND-013,0.433,30,27,medium
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,easy
+Reading & Processing Unstructured Data,CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-005,0.71,31,30,easy
+Conversation Memory & Context Management,CAND-013,0.433,30,27,medium
+"Security, Privacy & Guardrails",CAND-007,0.815,27,26,easy
+Response Formatting & Rich Outputs,CAND-005,0.71,31,30,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-018,1.0,31,31,easy
+Model Context Protocol (MCP),CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-006,0.083,24,19,hard
+Performance Optimization & Cost Management,CAND-016,0.095,21,19,hard
+Prompt Engineering Fundamentals,CAND-002,0.345,29,22,hard
+Capstone Project & Final Demo,CAND-012,0.467,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-005,0.71,31,30,easy
+Chatbot Evaluation & Testing,CAND-005,0.71,31,30,easy
+RAG End-to-End & LLM API Basics,CAND-006,0.083,24,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-005,0.71,31,30,easy
+Performance Optimization & Cost Management,CAND-013,0.433,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-017,0.032,31,30,hard
+"Monitoring, Logging & Observability",CAND-017,0.032,31,30,hard
+Prompt Engineering Fundamentals,CAND-020,0.704,27,24,easy
+Reading & Processing Unstructured Data,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-001,0.667,30,28,medium
+Performance Optimization & Cost Management,CAND-008,0.556,27,25,medium
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Building the Knowledge Base,CAND-017,0.032,31,30,hard
+Chatbot Backend & API Integration,CAND-001,0.667,30,28,medium
+"Monitoring, Logging & Observability",CAND-020,0.704,27,24,easy
+Agentic Chatbot Integration,CAND-005,0.71,31,30,easy
+Embeddings Explained,CAND-004,0.214,28,18,easy
+Capstone Project & Final Demo,CAND-005,0.71,31,30,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-009,0.935,31,31,easy
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-018,1.0,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-017,0.032,31,30,hard
+Chatbot Evaluation & Testing,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-015,0.931,29,29,easy
+Full-Stack Integration & Streaming Responses,CAND-019,0.379,29,26,hard
+Embeddings Explained,CAND-010,0.043,23,22,easy
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+Response Formatting & Rich Outputs,CAND-005,0.71,31,30,easy
+Building & Populating the Vector Database,CAND-016,0.095,21,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-017,0.032,31,30,easy
+Model Context Protocol (MCP),CAND-001,0.667,30,28,medium
+Docker & Kubernetes Deployment,CAND-019,0.379,29,26,hard
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Chatbot Backend & API Integration,CAND-012,0.467,30,27,medium
+Response Formatting & Rich Outputs,CAND-020,0.704,27,24,easy
+Chatbot Backend & API Integration,CAND-007,0.815,27,26,easy
+Fine-Tuning: Concepts & When to Use It,CAND-017,0.032,31,30,hard
+Prompt Engineering Fundamentals,CAND-012,0.467,30,27,medium
+Chatbot Backend & API Integration,CAND-007,0.815,27,26,easy
+Prompt Engineering Fundamentals,CAND-017,0.032,31,30,hard
+Conversation Memory & Context Management,CAND-005,0.71,31,30,easy
+"Security, Privacy & Guardrails",CAND-016,0.095,21,19,hard
+Embeddings Explained,CAND-011,0.357,14,9,hard
+Performance Optimization & Cost Management,CAND-006,0.083,24,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-007,0.815,27,26,easy
+Reading & Processing Unstructured Data,CAND-015,0.931,29,29,easy
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-001,0.667,30,28,medium
+The Retrieval & Matching Engine,CAND-009,0.935,31,31,easy
+The Retrieval & Matching Engine,CAND-018,1.0,31,31,easy
+Vector Databases Overview,CAND-017,0.032,31,30,hard
+Vector Databases Overview,CAND-001,0.667,30,28,medium
+Chatbot Frontend Development,CAND-013,0.433,30,27,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Conversation Memory & Context Management,CAND-005,0.71,31,30,easy
+Full-Stack Integration & Streaming Responses,CAND-010,0.043,23,22,hard
+Chatbot Evaluation & Testing,CAND-017,0.032,31,30,hard
+Performance Optimization & Cost Management,CAND-005,0.71,31,30,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-007,0.815,27,26,easy
+Chatbot Evaluation & Testing,CAND-013,0.433,30,27,medium
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+"Security, Privacy & Guardrails",CAND-005,0.71,31,30,easy
+Building the Knowledge Base,CAND-002,0.345,29,22,hard
+Prompt Engineering Fundamentals,CAND-003,0.968,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-008,0.556,27,25,easy
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-020,0.704,27,24,easy
+Prompt Engineering Fundamentals,CAND-012,0.467,30,27,medium
+Prompt Engineering Fundamentals,CAND-009,0.935,31,31,easy
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+Multi-Agent Orchestration,CAND-016,0.095,21,19,easy
+Agentic Chatbot Integration,CAND-012,0.467,30,27,medium
+"Monitoring, Logging & Observability",CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-019,0.379,29,26,hard
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+Multi-Agent Orchestration,CAND-015,0.931,29,29,easy
+"Security, Privacy & Guardrails",CAND-002,0.345,29,22,hard
+Docker & Kubernetes Deployment,CAND-010,0.043,23,22,hard
+Prompt Engineering Fundamentals,CAND-020,0.704,27,24,easy
+Fine-Tuning: Concepts & When to Use It,CAND-018,1.0,31,31,easy
+"Monitoring, Logging & Observability",CAND-018,1.0,31,31,easy
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+Response Formatting & Rich Outputs,CAND-017,0.032,31,30,medium
+Response Formatting & Rich Outputs,CAND-013,0.433,30,27,hard
+Docker & Kubernetes Deployment,CAND-005,0.71,31,30,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-019,0.379,29,26,hard
+Multi-Agent Orchestration,CAND-009,0.935,31,31,easy
+Chatbot Backend & API Integration,CAND-008,0.556,27,25,medium
+Full-Stack Integration & Streaming Responses,CAND-010,0.043,23,22,hard
+Reading & Processing Structured Data,CAND-007,0.815,27,26,easy
+Vector Databases Overview,CAND-006,0.083,24,19,hard
+Production Readiness & Final Testing,CAND-020,0.704,27,24,easy
+Conversation Memory & Context Management,CAND-002,0.345,29,22,hard
+Chatbot Frontend Development,CAND-001,0.667,30,28,medium
+Building & Populating the Vector Database,CAND-004,0.214,28,18,hard
+Performance Optimization & Cost Management,CAND-017,0.032,31,30,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-018,1.0,31,31,easy
+Chatbot Frontend Development,CAND-016,0.095,21,19,hard
+Full-Stack Integration & Streaming Responses,CAND-009,0.935,31,31,easy
+The Retrieval & Matching Engine,CAND-013,0.433,30,27,medium
+Production Readiness & Final Testing,CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-015,0.931,29,29,easy
+Chatbot Evaluation & Testing,CAND-005,0.71,31,30,easy
+Conversation Memory & Context Management,CAND-005,0.71,31,30,easy
+Vector Databases Overview,CAND-018,1.0,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-007,0.815,27,26,easy
+Response Formatting & Rich Outputs,CAND-014,0.05,20,17,hard
+Conversation Memory & Context Management,CAND-006,0.083,24,19,hard
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Embeddings Explained,CAND-014,0.05,20,17,hard
+Docker & Kubernetes Deployment,CAND-007,0.815,27,26,easy
+Building & Populating the Vector Database,CAND-001,0.667,30,28,medium
+Performance Optimization & Cost Management,CAND-012,0.467,30,27,medium
+"Monitoring, Logging & Observability",CAND-014,0.05,20,17,hard
+Agentic Chatbot Integration,CAND-002,0.345,29,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Conversation Memory & Context Management,CAND-012,0.467,30,27,medium
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+Model Context Protocol (MCP),CAND-009,0.935,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+RAG End-to-End & LLM API Basics,CAND-019,0.379,29,26,hard
+Conversation Memory & Context Management,CAND-003,0.968,31,31,easy
+Response Formatting & Rich Outputs,CAND-010,0.043,23,22,hard
+Docker & Kubernetes Deployment,CAND-014,0.05,20,17,hard
+Embeddings Explained,CAND-009,0.935,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,medium
+Chatbot Frontend Development,CAND-018,1.0,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-001,0.667,30,28,medium
+Chatbot Evaluation & Testing,CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-017,0.032,31,30,hard
+Chatbot Backend & API Integration,CAND-011,0.357,14,9,hard
+Fine-Tuning: Concepts & When to Use It,CAND-018,1.0,31,31,easy
+Chatbot Evaluation & Testing,CAND-012,0.467,30,27,medium
+RAG End-to-End & LLM API Basics,CAND-006,0.083,24,19,easy
+Full-Stack Integration & Streaming Responses,CAND-019,0.379,29,26,hard
+Building the Knowledge Base,CAND-007,0.815,27,26,easy
+Chatbot Backend & API Integration,CAND-007,0.815,27,26,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+Vector Databases Overview,CAND-016,0.095,21,19,hard
+Chatbot Backend & API Integration,CAND-017,0.032,31,30,hard
+Full-Stack Integration & Streaming Responses,CAND-012,0.467,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-018,1.0,31,31,easy
+Building & Populating the Vector Database,CAND-010,0.043,23,22,medium
+Multi-Agent Orchestration,CAND-003,0.968,31,31,easy
+The Retrieval & Matching Engine,CAND-018,1.0,31,31,hard
+Model Context Protocol (MCP),CAND-018,1.0,31,31,easy
+Vector Databases Overview,CAND-014,0.05,20,17,hard
+Production Readiness & Final Testing,CAND-005,0.71,31,30,easy
+Multi-Agent Orchestration,CAND-020,0.704,27,24,medium
+Production Readiness & Final Testing,CAND-013,0.433,30,27,medium
+Production Readiness & Final Testing,CAND-001,0.667,30,28,easy
+Reading & Processing Unstructured Data,CAND-008,0.556,27,25,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-010,0.043,23,22,hard
+"First AI Project, React Frontend & GitHub",CAND-010,0.043,23,22,hard
+Performance Optimization & Cost Management,CAND-007,0.815,27,26,easy
+RAG End-to-End & LLM API Basics,CAND-016,0.095,21,19,hard
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+Production Readiness & Final Testing,CAND-017,0.032,31,30,hard
+Building the Knowledge Base,CAND-013,0.433,30,27,medium
+"Monitoring, Logging & Observability",CAND-009,0.935,31,31,easy
+Chatbot Evaluation & Testing,CAND-020,0.704,27,24,hard
+Docker & Kubernetes Deployment,CAND-020,0.704,27,24,easy
+Reading & Processing Unstructured Data,CAND-011,0.357,14,9,hard
+Full-Stack Integration & Streaming Responses,CAND-008,0.556,27,25,medium
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-013,0.433,30,27,medium
+The Retrieval & Matching Engine,CAND-013,0.433,30,27,medium
+Reading & Processing Structured Data,CAND-019,0.379,29,26,hard
+Building the Knowledge Base,CAND-002,0.345,29,22,hard
+"Security, Privacy & Guardrails",CAND-007,0.815,27,26,easy
+Chatbot Backend & API Integration,CAND-010,0.043,23,22,hard
+Vector Databases Overview,CAND-002,0.345,29,22,hard
+Docker & Kubernetes Deployment,CAND-013,0.433,30,27,medium
+Chatbot Frontend Development,CAND-006,0.083,24,19,hard
+Fine-Tuning: Concepts & When to Use It,CAND-020,0.704,27,24,easy
+Building the Knowledge Base,CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-015,0.931,29,29,easy
+Vector Databases Overview,CAND-016,0.095,21,19,hard
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+Prompt Engineering Fundamentals,CAND-020,0.704,27,24,medium
+Agentic Chatbot Integration,CAND-016,0.095,21,19,hard
+Docker & Kubernetes Deployment,CAND-006,0.083,24,19,hard
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+Chatbot Backend & API Integration,CAND-017,0.032,31,30,hard
+Response Formatting & Rich Outputs,CAND-018,1.0,31,31,easy
+Production Readiness & Final Testing,CAND-018,1.0,31,31,easy
+Reading & Processing Unstructured Data,CAND-002,0.345,29,22,hard
+Response Formatting & Rich Outputs,CAND-011,0.357,14,9,hard
+Full-Stack Integration & Streaming Responses,CAND-007,0.815,27,26,easy
+Response Formatting & Rich Outputs,CAND-013,0.433,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-019,0.379,29,26,hard
+Building & Populating the Vector Database,CAND-007,0.815,27,26,easy
+Chatbot Backend & API Integration,CAND-009,0.935,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-002,0.345,29,22,hard
+Building & Populating the Vector Database,CAND-005,0.71,31,30,easy
+"Monitoring, Logging & Observability",CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-012,0.467,30,27,medium
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+"Monitoring, Logging & Observability",CAND-019,0.379,29,26,hard
+Chatbot Frontend Development,CAND-003,0.968,31,31,easy
+"Monitoring, Logging & Observability",CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+Model Context Protocol (MCP),CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-009,0.935,31,31,medium
+The Retrieval & Matching Engine,CAND-015,0.931,29,29,easy
+Multi-Agent Orchestration,CAND-001,0.667,30,28,medium
+RAG End-to-End & LLM API Basics,CAND-017,0.032,31,30,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-011,0.357,14,9,hard
+The Retrieval & Matching Engine,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-009,0.935,31,31,easy
+Reading & Processing Structured Data,CAND-016,0.095,21,19,hard
+Fine-Tuning: Concepts & When to Use It,CAND-008,0.556,27,25,medium
+Building & Populating the Vector Database,CAND-018,1.0,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-019,0.379,29,26,hard
+Performance Optimization & Cost Management,CAND-020,0.704,27,24,easy
+Chatbot Backend & API Integration,CAND-020,0.704,27,24,easy
+Performance Optimization & Cost Management,CAND-017,0.032,31,30,medium
+Docker & Kubernetes Deployment,CAND-001,0.667,30,28,medium
+Chatbot Frontend Development,CAND-007,0.815,27,26,medium
+Reading & Processing Unstructured Data,CAND-012,0.467,30,27,medium
+Building & Populating the Vector Database,CAND-006,0.083,24,19,hard
+Chatbot Evaluation & Testing,CAND-009,0.935,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-004,0.214,28,18,hard
+Capstone Project & Final Demo,CAND-005,0.71,31,30,easy
+Response Formatting & Rich Outputs,CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-019,0.379,29,26,hard
+Building & Populating the Vector Database,CAND-010,0.043,23,22,hard
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-013,0.433,30,27,medium
+Performance Optimization & Cost Management,CAND-002,0.345,29,22,hard
+Production Readiness & Final Testing,CAND-005,0.71,31,30,easy
+Building & Populating the Vector Database,CAND-019,0.379,29,26,hard
+RAG End-to-End & LLM API Basics,CAND-004,0.214,28,18,hard
+Embeddings Explained,CAND-002,0.345,29,22,hard
+"Security, Privacy & Guardrails",CAND-019,0.379,29,26,hard
+"Monitoring, Logging & Observability",CAND-003,0.968,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-006,0.083,24,19,hard
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,hard
+Conversation Memory & Context Management,CAND-004,0.214,28,18,hard
+Multi-Agent Orchestration,CAND-011,0.357,14,9,hard
+Prompt Engineering Fundamentals,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-015,0.931,29,29,easy
+Model Context Protocol (MCP),CAND-016,0.095,21,19,hard
+Building & Populating the Vector Database,CAND-008,0.556,27,25,medium
+"First AI Project, React Frontend & GitHub",CAND-014,0.05,20,17,medium
+Building & Populating the Vector Database,CAND-011,0.357,14,9,hard
+Model Context Protocol (MCP),CAND-012,0.467,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-017,0.032,31,30,hard
+Production Readiness & Final Testing,CAND-011,0.357,14,9,medium
+Agentic Chatbot Integration,CAND-006,0.083,24,19,hard
+Vector Databases Overview,CAND-015,0.931,29,29,medium
+Production Readiness & Final Testing,CAND-017,0.032,31,30,hard
+Chatbot Backend & API Integration,CAND-016,0.095,21,19,easy
+Model Context Protocol (MCP),CAND-018,1.0,31,31,easy
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+The Retrieval & Matching Engine,CAND-013,0.433,30,27,medium
+Production Readiness & Final Testing,CAND-007,0.815,27,26,easy
+Embeddings Explained,CAND-007,0.815,27,26,easy
+RAG End-to-End & LLM API Basics,CAND-012,0.467,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-004,0.214,28,18,hard
+Building & Populating the Vector Database,CAND-008,0.556,27,25,medium
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,hard
+Response Formatting & Rich Outputs,CAND-001,0.667,30,28,medium
+Reading & Processing Unstructured Data,CAND-002,0.345,29,22,hard
+"Security, Privacy & Guardrails",CAND-013,0.433,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-004,0.214,28,18,hard
+"Monitoring, Logging & Observability",CAND-014,0.05,20,17,hard
+Full-Stack Integration & Streaming Responses,CAND-002,0.345,29,22,hard
+Response Formatting & Rich Outputs,CAND-007,0.815,27,26,easy
+Agentic Chatbot Integration,CAND-010,0.043,23,22,hard
+Performance Optimization & Cost Management,CAND-009,0.935,31,31,easy
+Building & Populating the Vector Database,CAND-001,0.667,30,28,medium
+Response Formatting & Rich Outputs,CAND-012,0.467,30,27,medium
+Chatbot Backend & API Integration,CAND-011,0.357,14,9,hard
+Chatbot Evaluation & Testing,CAND-001,0.667,30,28,medium
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-006,0.083,24,19,hard
+Multi-Agent Orchestration,CAND-001,0.667,30,28,medium
+Production Readiness & Final Testing,CAND-015,0.931,29,29,easy
+"Monitoring, Logging & Observability",CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-013,0.433,30,27,medium
+RAG End-to-End & LLM API Basics,CAND-008,0.556,27,25,medium
+Reading & Processing Unstructured Data,CAND-014,0.05,20,17,hard
+Response Formatting & Rich Outputs,CAND-011,0.357,14,9,hard
+Response Formatting & Rich Outputs,CAND-009,0.935,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-002,0.345,29,22,hard
+Agentic Chatbot Integration,CAND-019,0.379,29,26,hard
+Performance Optimization & Cost Management,CAND-019,0.379,29,26,hard
+Building & Populating the Vector Database,CAND-006,0.083,24,19,hard
+Reading & Processing Structured Data,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-014,0.05,20,17,hard
+"Monitoring, Logging & Observability",CAND-011,0.357,14,9,hard
+Multi-Agent Orchestration,CAND-020,0.704,27,24,easy
+Building the Knowledge Base,CAND-012,0.467,30,27,medium
+"Monitoring, Logging & Observability",CAND-002,0.345,29,22,hard
+Multi-Agent Orchestration,CAND-020,0.704,27,24,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-020,0.704,27,24,easy
+Vector Databases Overview,CAND-008,0.556,27,25,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,hard
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-009,0.935,31,31,easy
+"Monitoring, Logging & Observability",CAND-002,0.345,29,22,hard
+Agentic Chatbot Integration,CAND-015,0.931,29,29,easy
+Vector Databases Overview,CAND-001,0.667,30,28,medium
+Production Readiness & Final Testing,CAND-020,0.704,27,24,easy
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,easy
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+Conversation Memory & Context Management,CAND-005,0.71,31,30,easy
+"Security, Privacy & Guardrails",CAND-013,0.433,30,27,medium
+Embeddings Explained,CAND-002,0.345,29,22,hard
+Production Readiness & Final Testing,CAND-004,0.214,28,18,hard
+Reading & Processing Structured Data,CAND-019,0.379,29,26,hard
+Reading & Processing Structured Data,CAND-012,0.467,30,27,medium
+Prompt Engineering Fundamentals,CAND-015,0.931,29,29,easy
+Response Formatting & Rich Outputs,CAND-012,0.467,30,27,medium
+"Monitoring, Logging & Observability",CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-007,0.815,27,26,easy
+Response Formatting & Rich Outputs,CAND-005,0.71,31,30,easy
+Chatbot Evaluation & Testing,CAND-011,0.357,14,9,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-008,0.556,27,25,medium
+Building the Knowledge Base,CAND-012,0.467,30,27,medium
+Conversation Memory & Context Management,CAND-006,0.083,24,19,hard
+Production Readiness & Final Testing,CAND-007,0.815,27,26,easy
+Production Readiness & Final Testing,CAND-005,0.71,31,30,easy
+RAG End-to-End & LLM API Basics,CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-004,0.214,28,18,hard
+Vector Databases Overview,CAND-012,0.467,30,27,medium
+Chatbot Frontend Development,CAND-014,0.05,20,17,hard
+Docker & Kubernetes Deployment,CAND-017,0.032,31,30,hard
+Reading & Processing Unstructured Data,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-002,0.345,29,22,hard
+Response Formatting & Rich Outputs,CAND-004,0.214,28,18,hard
+Performance Optimization & Cost Management,CAND-020,0.704,27,24,easy
+Prompt Engineering Fundamentals,CAND-009,0.935,31,31,easy
+Chatbot Frontend Development,CAND-013,0.433,30,27,medium
+Docker & Kubernetes Deployment,CAND-011,0.357,14,9,hard
+"Security, Privacy & Guardrails",CAND-010,0.043,23,22,hard
+Prompt Engineering Fundamentals,CAND-019,0.379,29,26,hard
+Capstone Project & Final Demo,CAND-011,0.357,14,9,hard
+Response Formatting & Rich Outputs,CAND-019,0.379,29,26,hard
+RAG End-to-End & LLM API Basics,CAND-010,0.043,23,22,hard
+Prompt Engineering Fundamentals,CAND-002,0.345,29,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,medium
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+Fine-Tuning: Concepts & When to Use It,CAND-012,0.467,30,27,medium
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+Production Readiness & Final Testing,CAND-002,0.345,29,22,hard
+Chatbot Evaluation & Testing,CAND-005,0.71,31,30,easy
+Chatbot Frontend Development,CAND-015,0.931,29,29,easy
+Prompt Engineering Fundamentals,CAND-015,0.931,29,29,easy
+Chatbot Frontend Development,CAND-016,0.095,21,19,hard
+RAG End-to-End & LLM API Basics,CAND-012,0.467,30,27,medium
+Vector Databases Overview,CAND-012,0.467,30,27,medium
+Chatbot Evaluation & Testing,CAND-004,0.214,28,18,hard
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,easy
+Prompt Engineering Fundamentals,CAND-019,0.379,29,26,hard
+The Retrieval & Matching Engine,CAND-016,0.095,21,19,hard
+Multi-Agent Orchestration,CAND-002,0.345,29,22,easy
+Chatbot Evaluation & Testing,CAND-010,0.043,23,22,hard
+Capstone Project & Final Demo,CAND-012,0.467,30,27,medium
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+RAG End-to-End & LLM API Basics,CAND-004,0.214,28,18,hard
+Embeddings Explained,CAND-007,0.815,27,26,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-014,0.05,20,17,hard
+Full-Stack Integration & Streaming Responses,CAND-004,0.214,28,18,hard
+Fine-Tuning: Concepts & When to Use It,CAND-019,0.379,29,26,hard
+Capstone Project & Final Demo,CAND-001,0.667,30,28,medium
+"Security, Privacy & Guardrails",CAND-015,0.931,29,29,easy
+RAG End-to-End & LLM API Basics,CAND-020,0.704,27,24,easy
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,medium
+Docker & Kubernetes Deployment,CAND-005,0.71,31,30,easy
+Embeddings Explained,CAND-016,0.095,21,19,hard
+Full-Stack Integration & Streaming Responses,CAND-013,0.433,30,27,medium
+Docker & Kubernetes Deployment,CAND-003,0.968,31,31,easy
+"Monitoring, Logging & Observability",CAND-012,0.467,30,27,medium
+Chatbot Evaluation & Testing,CAND-007,0.815,27,26,easy
+Full-Stack Integration & Streaming Responses,CAND-002,0.345,29,22,medium
+Fine-Tuning: Concepts & When to Use It,CAND-011,0.357,14,9,hard
+Docker & Kubernetes Deployment,CAND-010,0.043,23,22,hard
+Multi-Agent Orchestration,CAND-011,0.357,14,9,hard
+Fine-Tuning: Concepts & When to Use It,CAND-014,0.05,20,17,hard
+Building the Knowledge Base,CAND-014,0.05,20,17,hard
+Agentic Chatbot Integration,CAND-007,0.815,27,26,easy
+Docker & Kubernetes Deployment,CAND-016,0.095,21,19,hard
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-018,1.0,31,31,easy
+Multi-Agent Orchestration,CAND-012,0.467,30,27,medium
+Prompt Engineering Fundamentals,CAND-019,0.379,29,26,hard
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,hard
+Reading & Processing Unstructured Data,CAND-016,0.095,21,19,medium
+Agentic Chatbot Integration,CAND-016,0.095,21,19,hard
+"Security, Privacy & Guardrails",CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-015,0.931,29,29,easy
+The Retrieval & Matching Engine,CAND-013,0.433,30,27,medium
+Capstone Project & Final Demo,CAND-002,0.345,29,22,hard
+Multi-Agent Orchestration,CAND-008,0.556,27,25,medium
+Agentic Chatbot Integration,CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-017,0.032,31,30,hard
+Conversation Memory & Context Management,CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-003,0.968,31,31,medium
+Docker & Kubernetes Deployment,CAND-018,1.0,31,31,easy
+Reading & Processing Unstructured Data,CAND-003,0.968,31,31,easy
+"Monitoring, Logging & Observability",CAND-007,0.815,27,26,easy
+Vector Databases Overview,CAND-013,0.433,30,27,medium
+Reading & Processing Structured Data,CAND-020,0.704,27,24,easy
+Agentic Chatbot Integration,CAND-008,0.556,27,25,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-002,0.345,29,22,hard
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Model Context Protocol (MCP),CAND-015,0.931,29,29,easy
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+Prompt Engineering Fundamentals,CAND-015,0.931,29,29,easy
+"Security, Privacy & Guardrails",CAND-014,0.05,20,17,hard
+Chatbot Backend & API Integration,CAND-013,0.433,30,27,medium
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Docker & Kubernetes Deployment,CAND-005,0.71,31,30,easy
+Conversation Memory & Context Management,CAND-008,0.556,27,25,medium
+Chatbot Evaluation & Testing,CAND-003,0.968,31,31,easy
+Vector Databases Overview,CAND-013,0.433,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-009,0.935,31,31,easy
+"Monitoring, Logging & Observability",CAND-014,0.05,20,17,hard
+Production Readiness & Final Testing,CAND-001,0.667,30,28,medium
+Model Context Protocol (MCP),CAND-018,1.0,31,31,easy
+Agentic Chatbot Integration,CAND-006,0.083,24,19,hard
+Multi-Agent Orchestration,CAND-014,0.05,20,17,hard
+Chatbot Frontend Development,CAND-020,0.704,27,24,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+Conversation Memory & Context Management,CAND-016,0.095,21,19,hard
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-006,0.083,24,19,hard
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,easy
+Prompt Engineering Fundamentals,CAND-009,0.935,31,31,easy
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+The Retrieval & Matching Engine,CAND-003,0.968,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-014,0.05,20,17,hard
+Model Context Protocol (MCP),CAND-005,0.71,31,30,easy
+RAG End-to-End & LLM API Basics,CAND-001,0.667,30,28,medium
+Model Context Protocol (MCP),CAND-013,0.433,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-001,0.667,30,28,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-013,0.433,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-013,0.433,30,27,medium
+Agentic Chatbot Integration,CAND-017,0.032,31,30,easy
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-019,0.379,29,26,hard
+Embeddings Explained,CAND-008,0.556,27,25,medium
+Model Context Protocol (MCP),CAND-005,0.71,31,30,easy
+Conversation Memory & Context Management,CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-002,0.345,29,22,hard
+Building & Populating the Vector Database,CAND-008,0.556,27,25,medium
+Conversation Memory & Context Management,CAND-009,0.935,31,31,medium
+Agentic Chatbot Integration,CAND-003,0.968,31,31,easy
+Chatbot Backend & API Integration,CAND-016,0.095,21,19,hard
+Chatbot Evaluation & Testing,CAND-017,0.032,31,30,hard
+Full-Stack Integration & Streaming Responses,CAND-017,0.032,31,30,hard
+RAG End-to-End & LLM API Basics,CAND-011,0.357,14,9,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+Chatbot Frontend Development,CAND-013,0.433,30,27,medium
+Agentic Chatbot Integration,CAND-012,0.467,30,27,medium
+Chatbot Frontend Development,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-003,0.968,31,31,easy
+Embeddings Explained,CAND-013,0.433,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-014,0.05,20,17,hard
+RAG End-to-End & LLM API Basics,CAND-020,0.704,27,24,easy
+Chatbot Backend & API Integration,CAND-008,0.556,27,25,medium
+Reading & Processing Structured Data,CAND-012,0.467,30,27,medium
+RAG End-to-End & LLM API Basics,CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Vector Databases Overview,CAND-002,0.345,29,22,easy
+Reading & Processing Unstructured Data,CAND-017,0.032,31,30,hard
+RAG End-to-End & LLM API Basics,CAND-015,0.931,29,29,easy
+Production Readiness & Final Testing,CAND-012,0.467,30,27,medium
+The Retrieval & Matching Engine,CAND-011,0.357,14,9,hard
+Reading & Processing Unstructured Data,CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-001,0.667,30,28,medium
+Chatbot Backend & API Integration,CAND-012,0.467,30,27,medium
+The Retrieval & Matching Engine,CAND-008,0.556,27,25,medium
+Production Readiness & Final Testing,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-003,0.968,31,31,easy
+Building & Populating the Vector Database,CAND-006,0.083,24,19,hard
+Chatbot Evaluation & Testing,CAND-019,0.379,29,26,hard
+Full-Stack Integration & Streaming Responses,CAND-014,0.05,20,17,hard
+Building & Populating the Vector Database,CAND-006,0.083,24,19,hard
+Agentic Chatbot Integration,CAND-019,0.379,29,26,hard
+Reading & Processing Structured Data,CAND-009,0.935,31,31,easy
+Building & Populating the Vector Database,CAND-018,1.0,31,31,medium
+Reading & Processing Structured Data,CAND-017,0.032,31,30,hard
+Reading & Processing Unstructured Data,CAND-016,0.095,21,19,medium
+Embeddings Explained,CAND-005,0.71,31,30,easy
+Response Formatting & Rich Outputs,CAND-009,0.935,31,31,easy
+Capstone Project & Final Demo,CAND-010,0.043,23,22,hard
+"Security, Privacy & Guardrails",CAND-014,0.05,20,17,hard
+Multi-Agent Orchestration,CAND-001,0.667,30,28,medium
+Embeddings Explained,CAND-016,0.095,21,19,easy
+Fine-Tuning: Concepts & When to Use It,CAND-020,0.704,27,24,easy
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+Building & Populating the Vector Database,CAND-011,0.357,14,9,hard
+Response Formatting & Rich Outputs,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-012,0.467,30,27,medium
+Reading & Processing Structured Data,CAND-014,0.05,20,17,hard
+"Security, Privacy & Guardrails",CAND-005,0.71,31,30,easy
+Embeddings Explained,CAND-004,0.214,28,18,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-015,0.931,29,29,easy
+Docker & Kubernetes Deployment,CAND-007,0.815,27,26,easy
+Building the Knowledge Base,CAND-010,0.043,23,22,hard
+The Retrieval & Matching Engine,CAND-005,0.71,31,30,easy
+Reading & Processing Unstructured Data,CAND-020,0.704,27,24,easy
+Prompt Engineering Fundamentals,CAND-008,0.556,27,25,medium
+Vector Databases Overview,CAND-014,0.05,20,17,hard
+Fine-Tuning: Concepts & When to Use It,CAND-013,0.433,30,27,medium
+Vector Databases Overview,CAND-008,0.556,27,25,medium
+Reading & Processing Unstructured Data,CAND-014,0.05,20,17,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,easy
+RAG End-to-End & LLM API Basics,CAND-015,0.931,29,29,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-005,0.71,31,30,easy
+Embeddings Explained,CAND-002,0.345,29,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-016,0.095,21,19,hard
+Embeddings Explained,CAND-015,0.931,29,29,easy
+Building the Knowledge Base,CAND-001,0.667,30,28,medium
+Capstone Project & Final Demo,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-014,0.05,20,17,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-015,0.931,29,29,easy
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Reading & Processing Unstructured Data,CAND-017,0.032,31,30,medium
+Chatbot Frontend Development,CAND-020,0.704,27,24,easy
+Vector Databases Overview,CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-007,0.815,27,26,easy
+The Retrieval & Matching Engine,CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-017,0.032,31,30,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-011,0.357,14,9,hard
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+"Monitoring, Logging & Observability",CAND-002,0.345,29,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-010,0.043,23,22,hard
+Production Readiness & Final Testing,CAND-004,0.214,28,18,hard
+The Retrieval & Matching Engine,CAND-002,0.345,29,22,hard
+Vector Databases Overview,CAND-013,0.433,30,27,medium
+Chatbot Backend & API Integration,CAND-017,0.032,31,30,hard
+Model Context Protocol (MCP),CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-001,0.667,30,28,medium
+Reading & Processing Structured Data,CAND-010,0.043,23,22,hard
+Capstone Project & Final Demo,CAND-003,0.968,31,31,easy
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,easy
+"Security, Privacy & Guardrails",CAND-011,0.357,14,9,hard
+The Retrieval & Matching Engine,CAND-007,0.815,27,26,easy
+"Security, Privacy & Guardrails",CAND-012,0.467,30,27,medium
+The Retrieval & Matching Engine,CAND-014,0.05,20,17,hard
+The Retrieval & Matching Engine,CAND-001,0.667,30,28,medium
+Chatbot Evaluation & Testing,CAND-012,0.467,30,27,medium
+Building & Populating the Vector Database,CAND-015,0.931,29,29,easy
+Reading & Processing Structured Data,CAND-001,0.667,30,28,medium
+Conversation Memory & Context Management,CAND-010,0.043,23,22,hard
+"Security, Privacy & Guardrails",CAND-009,0.935,31,31,easy
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-004,0.214,28,18,hard
+"First AI Project, React Frontend & GitHub",CAND-009,0.935,31,31,easy
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+Chatbot Evaluation & Testing,CAND-020,0.704,27,24,easy
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Reading & Processing Unstructured Data,CAND-015,0.931,29,29,easy
+Production Readiness & Final Testing,CAND-018,1.0,31,31,easy
+Response Formatting & Rich Outputs,CAND-004,0.214,28,18,hard
+Multi-Agent Orchestration,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-020,0.704,27,24,hard
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Agentic Chatbot Integration,CAND-012,0.467,30,27,medium
+Capstone Project & Final Demo,CAND-019,0.379,29,26,medium
+Multi-Agent Orchestration,CAND-018,1.0,31,31,easy
+Chatbot Evaluation & Testing,CAND-003,0.968,31,31,easy
+Building & Populating the Vector Database,CAND-013,0.433,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-001,0.667,30,28,medium
+Chatbot Evaluation & Testing,CAND-009,0.935,31,31,easy
+Reading & Processing Structured Data,CAND-013,0.433,30,27,medium
+Chatbot Evaluation & Testing,CAND-010,0.043,23,22,hard
+Production Readiness & Final Testing,CAND-012,0.467,30,27,medium
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,hard
+"Monitoring, Logging & Observability",CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-016,0.095,21,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-012,0.467,30,27,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-006,0.083,24,19,hard
+Full-Stack Integration & Streaming Responses,CAND-018,1.0,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-014,0.05,20,17,hard
+Performance Optimization & Cost Management,CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-006,0.083,24,19,hard
+"Security, Privacy & Guardrails",CAND-005,0.71,31,30,easy
+"Monitoring, Logging & Observability",CAND-013,0.433,30,27,medium
+"Monitoring, Logging & Observability",CAND-003,0.968,31,31,easy
+Chatbot Backend & API Integration,CAND-017,0.032,31,30,hard
+"First AI Project, React Frontend & GitHub",CAND-004,0.214,28,18,hard
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+"First AI Project, React Frontend & GitHub",CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-009,0.935,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-018,1.0,31,31,medium
+Reading & Processing Structured Data,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-016,0.095,21,19,hard
+Agentic Chatbot Integration,CAND-006,0.083,24,19,hard
+Fine-Tuning: Concepts & When to Use It,CAND-017,0.032,31,30,hard
+"Monitoring, Logging & Observability",CAND-016,0.095,21,19,hard
+Docker & Kubernetes Deployment,CAND-002,0.345,29,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-015,0.931,29,29,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-017,0.032,31,30,hard
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+Chatbot Backend & API Integration,CAND-020,0.704,27,24,easy
+Prompt Engineering Fundamentals,CAND-014,0.05,20,17,medium
+Chatbot Frontend Development,CAND-007,0.815,27,26,easy
+Multi-Agent Orchestration,CAND-012,0.467,30,27,medium
+Docker & Kubernetes Deployment,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-006,0.083,24,19,hard
+Fine-Tuning: Concepts & When to Use It,CAND-004,0.214,28,18,hard
+Fine-Tuning: Concepts & When to Use It,CAND-013,0.433,30,27,medium
+Performance Optimization & Cost Management,CAND-019,0.379,29,26,hard
+Agentic Chatbot Integration,CAND-015,0.931,29,29,easy
+Performance Optimization & Cost Management,CAND-017,0.032,31,30,hard
+Multi-Agent Orchestration,CAND-006,0.083,24,19,hard
+Reading & Processing Structured Data,CAND-016,0.095,21,19,hard
+Chatbot Backend & API Integration,CAND-015,0.931,29,29,easy
+Capstone Project & Final Demo,CAND-017,0.032,31,30,hard
+Full-Stack Integration & Streaming Responses,CAND-007,0.815,27,26,easy
+Building the Knowledge Base,CAND-018,1.0,31,31,easy
+Building the Knowledge Base,CAND-016,0.095,21,19,hard
+RAG End-to-End & LLM API Basics,CAND-017,0.032,31,30,hard
+Prompt Engineering Fundamentals,CAND-016,0.095,21,19,hard
+The Retrieval & Matching Engine,CAND-012,0.467,30,27,medium
+Multi-Agent Orchestration,CAND-020,0.704,27,24,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-018,1.0,31,31,easy
+Conversation Memory & Context Management,CAND-008,0.556,27,25,medium
+Multi-Agent Orchestration,CAND-019,0.379,29,26,hard
+"Security, Privacy & Guardrails",CAND-004,0.214,28,18,hard
+Embeddings Explained,CAND-002,0.345,29,22,hard
+Multi-Agent Orchestration,CAND-007,0.815,27,26,medium
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+Docker & Kubernetes Deployment,CAND-016,0.095,21,19,hard
+Reading & Processing Unstructured Data,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-008,0.556,27,25,medium
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+Conversation Memory & Context Management,CAND-016,0.095,21,19,hard
+Reading & Processing Structured Data,CAND-011,0.357,14,9,hard
+Response Formatting & Rich Outputs,CAND-005,0.71,31,30,easy
+Performance Optimization & Cost Management,CAND-016,0.095,21,19,hard
+The Retrieval & Matching Engine,CAND-011,0.357,14,9,hard
+Vector Databases Overview,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-005,0.71,31,30,easy
+RAG End-to-End & LLM API Basics,CAND-018,1.0,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-016,0.095,21,19,hard
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-007,0.815,27,26,easy
+Fine-Tuning: Concepts & When to Use It,CAND-004,0.214,28,18,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-006,0.083,24,19,hard
+Embeddings Explained,CAND-019,0.379,29,26,hard
+Chatbot Frontend Development,CAND-015,0.931,29,29,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-009,0.935,31,31,easy
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,easy
+"Security, Privacy & Guardrails",CAND-002,0.345,29,22,hard
+Full-Stack Integration & Streaming Responses,CAND-016,0.095,21,19,hard
+"Security, Privacy & Guardrails",CAND-019,0.379,29,26,medium
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+Agentic Chatbot Integration,CAND-010,0.043,23,22,hard
+Model Context Protocol (MCP),CAND-011,0.357,14,9,hard
+The Retrieval & Matching Engine,CAND-017,0.032,31,30,hard
+Reading & Processing Unstructured Data,CAND-003,0.968,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-012,0.467,30,27,hard
+Embeddings Explained,CAND-015,0.931,29,29,easy
+Multi-Agent Orchestration,CAND-009,0.935,31,31,easy
+Performance Optimization & Cost Management,CAND-007,0.815,27,26,easy
+Chatbot Evaluation & Testing,CAND-012,0.467,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-014,0.05,20,17,hard
+Multi-Agent Orchestration,CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-015,0.931,29,29,easy
+Docker & Kubernetes Deployment,CAND-017,0.032,31,30,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,medium
+"Security, Privacy & Guardrails",CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-009,0.935,31,31,easy
+Building the Knowledge Base,CAND-002,0.345,29,22,hard
+Reading & Processing Unstructured Data,CAND-001,0.667,30,28,medium
+Production Readiness & Final Testing,CAND-016,0.095,21,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-016,0.095,21,19,hard
+Building & Populating the Vector Database,CAND-012,0.467,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-005,0.71,31,30,easy
+"First AI Project, React Frontend & GitHub",CAND-004,0.214,28,18,hard
+Docker & Kubernetes Deployment,CAND-003,0.968,31,31,easy
+Capstone Project & Final Demo,CAND-020,0.704,27,24,easy
+Capstone Project & Final Demo,CAND-020,0.704,27,24,easy
+Building & Populating the Vector Database,CAND-005,0.71,31,30,easy
+Production Readiness & Final Testing,CAND-019,0.379,29,26,hard
+Chatbot Frontend Development,CAND-011,0.357,14,9,hard
+Prompt Engineering Fundamentals,CAND-017,0.032,31,30,hard
+Reading & Processing Unstructured Data,CAND-004,0.214,28,18,hard
+Full-Stack Integration & Streaming Responses,CAND-002,0.345,29,22,hard
+Prompt Engineering Fundamentals,CAND-015,0.931,29,29,easy
+Reading & Processing Structured Data,CAND-003,0.968,31,31,easy
+"Monitoring, Logging & Observability",CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-006,0.083,24,19,hard
+Prompt Engineering Fundamentals,CAND-011,0.357,14,9,hard
+Prompt Engineering Fundamentals,CAND-014,0.05,20,17,hard
+"First AI Project, React Frontend & GitHub",CAND-006,0.083,24,19,hard
+"Monitoring, Logging & Observability",CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-013,0.433,30,27,medium
+Chatbot Evaluation & Testing,CAND-006,0.083,24,19,hard
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Full-Stack Integration & Streaming Responses,CAND-003,0.968,31,31,easy
+The Retrieval & Matching Engine,CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Docker & Kubernetes Deployment,CAND-020,0.704,27,24,easy
+"Monitoring, Logging & Observability",CAND-009,0.935,31,31,easy
+Reading & Processing Structured Data,CAND-002,0.345,29,22,hard
+Docker & Kubernetes Deployment,CAND-008,0.556,27,25,medium
+Response Formatting & Rich Outputs,CAND-003,0.968,31,31,hard
+"Security, Privacy & Guardrails",CAND-012,0.467,30,27,medium
+Building & Populating the Vector Database,CAND-011,0.357,14,9,hard
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-006,0.083,24,19,hard
+Model Context Protocol (MCP),CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-003,0.968,31,31,easy
+Reading & Processing Structured Data,CAND-020,0.704,27,24,easy
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-009,0.935,31,31,easy
+Building & Populating the Vector Database,CAND-007,0.815,27,26,easy
+Fine-Tuning: Concepts & When to Use It,CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-020,0.704,27,24,easy
+Reading & Processing Unstructured Data,CAND-011,0.357,14,9,hard
+Chatbot Evaluation & Testing,CAND-011,0.357,14,9,hard
+Chatbot Frontend Development,CAND-020,0.704,27,24,medium
+Performance Optimization & Cost Management,CAND-016,0.095,21,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-002,0.345,29,22,hard
+Vector Databases Overview,CAND-010,0.043,23,22,hard
+Vector Databases Overview,CAND-003,0.968,31,31,easy
+Production Readiness & Final Testing,CAND-004,0.214,28,18,hard
+Building the Knowledge Base,CAND-010,0.043,23,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+Building the Knowledge Base,CAND-010,0.043,23,22,hard
+"First AI Project, React Frontend & GitHub",CAND-003,0.968,31,31,easy
+Response Formatting & Rich Outputs,CAND-012,0.467,30,27,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+Vector Databases Overview,CAND-014,0.05,20,17,hard
+"First AI Project, React Frontend & GitHub",CAND-004,0.214,28,18,hard
+"Monitoring, Logging & Observability",CAND-001,0.667,30,28,medium
+Prompt Engineering Fundamentals,CAND-002,0.345,29,22,hard
+Multi-Agent Orchestration,CAND-017,0.032,31,30,hard
+Chatbot Evaluation & Testing,CAND-010,0.043,23,22,hard
+Response Formatting & Rich Outputs,CAND-017,0.032,31,30,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,hard
+Embeddings Explained,CAND-015,0.931,29,29,easy
+Docker & Kubernetes Deployment,CAND-020,0.704,27,24,easy
+Agentic Chatbot Integration,CAND-013,0.433,30,27,medium
+Agentic Chatbot Integration,CAND-011,0.357,14,9,hard
+Building the Knowledge Base,CAND-014,0.05,20,17,hard
+RAG End-to-End & LLM API Basics,CAND-019,0.379,29,26,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-007,0.815,27,26,easy
+Performance Optimization & Cost Management,CAND-004,0.214,28,18,hard
+"First AI Project, React Frontend & GitHub",CAND-004,0.214,28,18,easy
+Response Formatting & Rich Outputs,CAND-011,0.357,14,9,hard
+Building & Populating the Vector Database,CAND-004,0.214,28,18,hard
+"Monitoring, Logging & Observability",CAND-018,1.0,31,31,easy
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+Conversation Memory & Context Management,CAND-009,0.935,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-005,0.71,31,30,easy
+Performance Optimization & Cost Management,CAND-009,0.935,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-016,0.095,21,19,hard
+Model Context Protocol (MCP),CAND-008,0.556,27,25,medium
+Vector Databases Overview,CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-008,0.556,27,25,medium
+"Security, Privacy & Guardrails",CAND-009,0.935,31,31,easy
+Conversation Memory & Context Management,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-010,0.043,23,22,hard
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Full-Stack Integration & Streaming Responses,CAND-014,0.05,20,17,hard
+Full-Stack Integration & Streaming Responses,CAND-010,0.043,23,22,hard
+Chatbot Evaluation & Testing,CAND-016,0.095,21,19,hard
+Embeddings Explained,CAND-003,0.968,31,31,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-006,0.083,24,19,hard
+"Monitoring, Logging & Observability",CAND-002,0.345,29,22,easy
+Chatbot Evaluation & Testing,CAND-002,0.345,29,22,hard
+Fine-Tuning: Concepts & When to Use It,CAND-003,0.968,31,31,hard
+"Monitoring, Logging & Observability",CAND-020,0.704,27,24,easy
+Full-Stack Integration & Streaming Responses,CAND-005,0.71,31,30,easy
+Chatbot Frontend Development,CAND-005,0.71,31,30,easy
+Vector Databases Overview,CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-018,1.0,31,31,easy
+Building & Populating the Vector Database,CAND-019,0.379,29,26,hard
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-006,0.083,24,19,hard
+Agentic Chatbot Integration,CAND-004,0.214,28,18,hard
+Vector Databases Overview,CAND-017,0.032,31,30,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-006,0.083,24,19,hard
+Chatbot Frontend Development,CAND-018,1.0,31,31,easy
+Response Formatting & Rich Outputs,CAND-001,0.667,30,28,medium
+Performance Optimization & Cost Management,CAND-002,0.345,29,22,hard
+Model Context Protocol (MCP),CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-008,0.556,27,25,hard
+Multi-Agent Orchestration,CAND-012,0.467,30,27,medium
+Reading & Processing Unstructured Data,CAND-003,0.968,31,31,easy
+Agentic Chatbot Integration,CAND-019,0.379,29,26,hard
+Agentic Chatbot Integration,CAND-003,0.968,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+"Monitoring, Logging & Observability",CAND-016,0.095,21,19,hard
+Model Context Protocol (MCP),CAND-001,0.667,30,28,medium
+Fine-Tuning: Concepts & When to Use It,CAND-001,0.667,30,28,medium
+Conversation Memory & Context Management,CAND-010,0.043,23,22,hard
+Agentic Chatbot Integration,CAND-019,0.379,29,26,hard
+Docker & Kubernetes Deployment,CAND-013,0.433,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-015,0.931,29,29,easy
+Chatbot Backend & API Integration,CAND-014,0.05,20,17,hard
+Reading & Processing Unstructured Data,CAND-008,0.556,27,25,medium
+"First AI Project, React Frontend & GitHub",CAND-011,0.357,14,9,hard
+Fine-Tuning: Concepts & When to Use It,CAND-003,0.968,31,31,easy
+"Monitoring, Logging & Observability",CAND-009,0.935,31,31,easy
+Performance Optimization & Cost Management,CAND-012,0.467,30,27,medium
+Vector Databases Overview,CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-011,0.357,14,9,hard
+Building & Populating the Vector Database,CAND-007,0.815,27,26,easy
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,hard
+Fine-Tuning: Concepts & When to Use It,CAND-010,0.043,23,22,medium
+Building & Populating the Vector Database,CAND-012,0.467,30,27,medium
+Performance Optimization & Cost Management,CAND-004,0.214,28,18,medium
+Full-Stack Integration & Streaming Responses,CAND-010,0.043,23,22,hard
+Agentic Chatbot Integration,CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-014,0.05,20,17,hard
+"Security, Privacy & Guardrails",CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-011,0.357,14,9,hard
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-005,0.71,31,30,easy
+RAG End-to-End & LLM API Basics,CAND-005,0.71,31,30,easy
+Chatbot Evaluation & Testing,CAND-016,0.095,21,19,hard
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,easy
+Reading & Processing Structured Data,CAND-007,0.815,27,26,easy
+"Monitoring, Logging & Observability",CAND-006,0.083,24,19,hard
+"Monitoring, Logging & Observability",CAND-018,1.0,31,31,easy
+Response Formatting & Rich Outputs,CAND-003,0.968,31,31,easy
+Capstone Project & Final Demo,CAND-017,0.032,31,30,hard
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-010,0.043,23,22,hard
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,hard
+"Monitoring, Logging & Observability",CAND-004,0.214,28,18,easy
+Chatbot Frontend Development,CAND-011,0.357,14,9,hard
+Chatbot Backend & API Integration,CAND-008,0.556,27,25,medium
+Full-Stack Integration & Streaming Responses,CAND-007,0.815,27,26,medium
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+Building the Knowledge Base,CAND-001,0.667,30,28,medium
+Response Formatting & Rich Outputs,CAND-013,0.433,30,27,medium
+The Retrieval & Matching Engine,CAND-002,0.345,29,22,hard
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-009,0.935,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-001,0.667,30,28,medium
+Conversation Memory & Context Management,CAND-004,0.214,28,18,hard
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,easy
+Chatbot Evaluation & Testing,CAND-003,0.968,31,31,easy
+Reading & Processing Structured Data,CAND-005,0.71,31,30,easy
+Prompt Engineering Fundamentals,CAND-003,0.968,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-017,0.032,31,30,hard
+Chatbot Backend & API Integration,CAND-003,0.968,31,31,easy
+Conversation Memory & Context Management,CAND-016,0.095,21,19,hard
+Model Context Protocol (MCP),CAND-007,0.815,27,26,easy
+Reading & Processing Unstructured Data,CAND-010,0.043,23,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-016,0.095,21,19,hard
+Production Readiness & Final Testing,CAND-001,0.667,30,28,medium
+Embeddings Explained,CAND-001,0.667,30,28,medium
+Model Context Protocol (MCP),CAND-010,0.043,23,22,hard
+RAG End-to-End & LLM API Basics,CAND-007,0.815,27,26,easy
+Prompt Engineering Fundamentals,CAND-010,0.043,23,22,hard
+Reading & Processing Structured Data,CAND-014,0.05,20,17,hard
+Production Readiness & Final Testing,CAND-002,0.345,29,22,hard
+Prompt Engineering Fundamentals,CAND-013,0.433,30,27,easy
+Model Context Protocol (MCP),CAND-010,0.043,23,22,hard
+Building the Knowledge Base,CAND-008,0.556,27,25,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-015,0.931,29,29,easy
+Embeddings Explained,CAND-002,0.345,29,22,hard
+"Security, Privacy & Guardrails",CAND-005,0.71,31,30,easy
+Embeddings Explained,CAND-008,0.556,27,25,medium
+Fine-Tuning: Concepts & When to Use It,CAND-014,0.05,20,17,hard
+Chatbot Evaluation & Testing,CAND-015,0.931,29,29,easy
+Reading & Processing Unstructured Data,CAND-016,0.095,21,19,hard
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-020,0.704,27,24,easy
+Conversation Memory & Context Management,CAND-019,0.379,29,26,hard
+Chatbot Evaluation & Testing,CAND-018,1.0,31,31,easy
+"Monitoring, Logging & Observability",CAND-015,0.931,29,29,easy
+Full-Stack Integration & Streaming Responses,CAND-015,0.931,29,29,easy
+Production Readiness & Final Testing,CAND-003,0.968,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-015,0.931,29,29,easy
+Embeddings Explained,CAND-007,0.815,27,26,easy
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,easy
+The Retrieval & Matching Engine,CAND-020,0.704,27,24,easy
+Model Context Protocol (MCP),CAND-006,0.083,24,19,hard
+Full-Stack Integration & Streaming Responses,CAND-008,0.556,27,25,medium
+Building the Knowledge Base,CAND-019,0.379,29,26,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+Response Formatting & Rich Outputs,CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,easy
+The Retrieval & Matching Engine,CAND-009,0.935,31,31,easy
+Conversation Memory & Context Management,CAND-001,0.667,30,28,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-013,0.433,30,27,medium
+Performance Optimization & Cost Management,CAND-002,0.345,29,22,hard
+Model Context Protocol (MCP),CAND-004,0.214,28,18,hard
+Full-Stack Integration & Streaming Responses,CAND-011,0.357,14,9,hard
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+Building the Knowledge Base,CAND-018,1.0,31,31,easy
+The Retrieval & Matching Engine,CAND-013,0.433,30,27,medium
+Reading & Processing Structured Data,CAND-012,0.467,30,27,medium
+"Monitoring, Logging & Observability",CAND-010,0.043,23,22,hard
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-003,0.968,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-009,0.935,31,31,medium
+The Retrieval & Matching Engine,CAND-017,0.032,31,30,hard
+Chatbot Backend & API Integration,CAND-015,0.931,29,29,easy
+Performance Optimization & Cost Management,CAND-015,0.931,29,29,easy
+Reading & Processing Unstructured Data,CAND-012,0.467,30,27,medium
+Conversation Memory & Context Management,CAND-009,0.935,31,31,easy
+Agentic Chatbot Integration,CAND-012,0.467,30,27,medium
+Model Context Protocol (MCP),CAND-012,0.467,30,27,medium
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-010,0.043,23,22,hard
+Production Readiness & Final Testing,CAND-002,0.345,29,22,hard
+Response Formatting & Rich Outputs,CAND-019,0.379,29,26,hard
+Chatbot Frontend Development,CAND-015,0.931,29,29,easy
+Response Formatting & Rich Outputs,CAND-017,0.032,31,30,hard
+Docker & Kubernetes Deployment,CAND-019,0.379,29,26,hard
+Vector Databases Overview,CAND-005,0.71,31,30,easy
+Docker & Kubernetes Deployment,CAND-004,0.214,28,18,hard
+Reading & Processing Structured Data,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-001,0.667,30,28,medium
+"First AI Project, React Frontend & GitHub",CAND-020,0.704,27,24,easy
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-006,0.083,24,19,hard
+Building the Knowledge Base,CAND-015,0.931,29,29,easy
+Full-Stack Integration & Streaming Responses,CAND-018,1.0,31,31,easy
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Chatbot Evaluation & Testing,CAND-010,0.043,23,22,hard
+Chatbot Backend & API Integration,CAND-016,0.095,21,19,medium
+RAG End-to-End & LLM API Basics,CAND-009,0.935,31,31,easy
+Chatbot Backend & API Integration,CAND-005,0.71,31,30,easy
+Prompt Engineering Fundamentals,CAND-016,0.095,21,19,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-018,1.0,31,31,easy
+Reading & Processing Unstructured Data,CAND-004,0.214,28,18,hard
+Building the Knowledge Base,CAND-017,0.032,31,30,hard
+"Security, Privacy & Guardrails",CAND-001,0.667,30,28,medium
+Vector Databases Overview,CAND-011,0.357,14,9,hard
+Reading & Processing Structured Data,CAND-010,0.043,23,22,hard
+The Retrieval & Matching Engine,CAND-001,0.667,30,28,medium
+Embeddings Explained,CAND-010,0.043,23,22,hard
+Agentic Chatbot Integration,CAND-014,0.05,20,17,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+Agentic Chatbot Integration,CAND-009,0.935,31,31,easy
+Docker & Kubernetes Deployment,CAND-002,0.345,29,22,hard
+Model Context Protocol (MCP),CAND-002,0.345,29,22,hard
+The Retrieval & Matching Engine,CAND-017,0.032,31,30,hard
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,easy
+Multi-Agent Orchestration,CAND-017,0.032,31,30,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-005,0.71,31,30,easy
+"Monitoring, Logging & Observability",CAND-019,0.379,29,26,hard
+Chatbot Frontend Development,CAND-001,0.667,30,28,medium
+Response Formatting & Rich Outputs,CAND-004,0.214,28,18,hard
+Agentic Chatbot Integration,CAND-007,0.815,27,26,hard
+Chatbot Backend & API Integration,CAND-010,0.043,23,22,hard
+The Retrieval & Matching Engine,CAND-003,0.968,31,31,easy
+Fine-Tuning: Concepts & When to Use It,CAND-013,0.433,30,27,medium
+Building the Knowledge Base,CAND-017,0.032,31,30,hard
+Vector Databases Overview,CAND-015,0.931,29,29,easy
+Reading & Processing Unstructured Data,CAND-016,0.095,21,19,easy
+RAG End-to-End & LLM API Basics,CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+"Monitoring, Logging & Observability",CAND-005,0.71,31,30,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-016,0.095,21,19,hard
+"Monitoring, Logging & Observability",CAND-011,0.357,14,9,hard
+Embeddings Explained,CAND-011,0.357,14,9,hard
+Agentic Chatbot Integration,CAND-005,0.71,31,30,easy
+Reading & Processing Unstructured Data,CAND-011,0.357,14,9,hard
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+"Monitoring, Logging & Observability",CAND-001,0.667,30,28,medium
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,easy
+The Retrieval & Matching Engine,CAND-013,0.433,30,27,medium
+Building & Populating the Vector Database,CAND-002,0.345,29,22,hard
+Fine-Tuning: Concepts & When to Use It,CAND-005,0.71,31,30,easy
+Agentic Chatbot Integration,CAND-010,0.043,23,22,hard
+Model Context Protocol (MCP),CAND-014,0.05,20,17,hard
+Chatbot Frontend Development,CAND-008,0.556,27,25,medium
+Fine-Tuning: Concepts & When to Use It,CAND-007,0.815,27,26,easy
+Agentic Chatbot Integration,CAND-005,0.71,31,30,easy
+Chatbot Backend & API Integration,CAND-004,0.214,28,18,hard
+Chatbot Backend & API Integration,CAND-004,0.214,28,18,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-020,0.704,27,24,easy
+Multi-Agent Orchestration,CAND-010,0.043,23,22,hard
+Embeddings Explained,CAND-014,0.05,20,17,hard
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,easy
+"Monitoring, Logging & Observability",CAND-011,0.357,14,9,hard
+Chatbot Frontend Development,CAND-011,0.357,14,9,hard
+Embeddings Explained,CAND-013,0.433,30,27,medium
+Performance Optimization & Cost Management,CAND-020,0.704,27,24,easy
+Conversation Memory & Context Management,CAND-004,0.214,28,18,hard
+Multi-Agent Orchestration,CAND-019,0.379,29,26,hard
+Agentic Chatbot Integration,CAND-010,0.043,23,22,hard
+Vector Databases Overview,CAND-007,0.815,27,26,easy
+Fine-Tuning: Concepts & When to Use It,CAND-018,1.0,31,31,easy
+The Retrieval & Matching Engine,CAND-012,0.467,30,27,medium
+Chatbot Evaluation & Testing,CAND-007,0.815,27,26,easy
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,hard
+Vector Databases Overview,CAND-017,0.032,31,30,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,medium
+Full-Stack Integration & Streaming Responses,CAND-011,0.357,14,9,medium
+Chatbot Evaluation & Testing,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-009,0.935,31,31,easy
+"Monitoring, Logging & Observability",CAND-010,0.043,23,22,hard
+Fine-Tuning: Concepts & When to Use It,CAND-006,0.083,24,19,hard
+Chatbot Evaluation & Testing,CAND-016,0.095,21,19,hard
+Full-Stack Integration & Streaming Responses,CAND-009,0.935,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-019,0.379,29,26,hard
+Docker & Kubernetes Deployment,CAND-019,0.379,29,26,hard
+Prompt Engineering Fundamentals,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-002,0.345,29,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-019,0.379,29,26,hard
+Response Formatting & Rich Outputs,CAND-005,0.71,31,30,easy
+Conversation Memory & Context Management,CAND-014,0.05,20,17,hard
+Performance Optimization & Cost Management,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-007,0.815,27,26,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-008,0.556,27,25,medium
+"Monitoring, Logging & Observability",CAND-018,1.0,31,31,easy
+Model Context Protocol (MCP),CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-001,0.667,30,28,medium
+Embeddings Explained,CAND-004,0.214,28,18,medium
+"First AI Project, React Frontend & GitHub",CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-009,0.935,31,31,easy
+Fine-Tuning: Concepts & When to Use It,CAND-007,0.815,27,26,easy
+Reading & Processing Structured Data,CAND-003,0.968,31,31,easy
+Reading & Processing Structured Data,CAND-019,0.379,29,26,hard
+Multi-Agent Orchestration,CAND-008,0.556,27,25,medium
+Model Context Protocol (MCP),CAND-009,0.935,31,31,easy
+Chatbot Frontend Development,CAND-019,0.379,29,26,hard
+Embeddings Explained,CAND-012,0.467,30,27,medium
+Capstone Project & Final Demo,CAND-004,0.214,28,18,hard
+Prompt Engineering Fundamentals,CAND-007,0.815,27,26,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-002,0.345,29,22,hard
+Fine-Tuning: Concepts & When to Use It,CAND-002,0.345,29,22,hard
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Agentic Chatbot Integration,CAND-020,0.704,27,24,easy
+Response Formatting & Rich Outputs,CAND-009,0.935,31,31,easy
+Embeddings Explained,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-005,0.71,31,30,easy
+The Retrieval & Matching Engine,CAND-014,0.05,20,17,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-009,0.935,31,31,easy
+Performance Optimization & Cost Management,CAND-009,0.935,31,31,easy
+Docker & Kubernetes Deployment,CAND-010,0.043,23,22,hard
+Performance Optimization & Cost Management,CAND-012,0.467,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-015,0.931,29,29,easy
+Capstone Project & Final Demo,CAND-004,0.214,28,18,hard
+Performance Optimization & Cost Management,CAND-007,0.815,27,26,easy
+Full-Stack Integration & Streaming Responses,CAND-010,0.043,23,22,hard
+Production Readiness & Final Testing,CAND-005,0.71,31,30,easy
+Building the Knowledge Base,CAND-017,0.032,31,30,hard
+Production Readiness & Final Testing,CAND-005,0.71,31,30,easy
+RAG End-to-End & LLM API Basics,CAND-001,0.667,30,28,medium
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+Agentic Chatbot Integration,CAND-005,0.71,31,30,easy
+Building the Knowledge Base,CAND-015,0.931,29,29,easy
+"Monitoring, Logging & Observability",CAND-009,0.935,31,31,easy
+"Security, Privacy & Guardrails",CAND-009,0.935,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-013,0.433,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-008,0.556,27,25,medium
+Building the Knowledge Base,CAND-001,0.667,30,28,medium
+Embeddings Explained,CAND-005,0.71,31,30,easy
+Multi-Agent Orchestration,CAND-006,0.083,24,19,hard
+Prompt Engineering Fundamentals,CAND-011,0.357,14,9,hard
+Vector Databases Overview,CAND-017,0.032,31,30,hard
+Embeddings Explained,CAND-015,0.931,29,29,easy
+Capstone Project & Final Demo,CAND-014,0.05,20,17,hard
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+RAG End-to-End & LLM API Basics,CAND-007,0.815,27,26,easy
+The Retrieval & Matching Engine,CAND-015,0.931,29,29,easy
+Docker & Kubernetes Deployment,CAND-005,0.71,31,30,easy
+Response Formatting & Rich Outputs,CAND-007,0.815,27,26,easy
+"Security, Privacy & Guardrails",CAND-019,0.379,29,26,hard
+"Monitoring, Logging & Observability",CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-005,0.71,31,30,easy
+Full-Stack Integration & Streaming Responses,CAND-015,0.931,29,29,easy
+Reading & Processing Unstructured Data,CAND-009,0.935,31,31,easy
+Model Context Protocol (MCP),CAND-009,0.935,31,31,easy
+Chatbot Evaluation & Testing,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-019,0.379,29,26,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+Full-Stack Integration & Streaming Responses,CAND-003,0.968,31,31,easy
+Fine-Tuning: Concepts & When to Use It,CAND-016,0.095,21,19,hard
+"First AI Project, React Frontend & GitHub",CAND-012,0.467,30,27,medium
+Conversation Memory & Context Management,CAND-019,0.379,29,26,hard
+Reading & Processing Unstructured Data,CAND-018,1.0,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-019,0.379,29,26,hard
+Reading & Processing Structured Data,CAND-016,0.095,21,19,hard
+"Monitoring, Logging & Observability",CAND-008,0.556,27,25,medium
+Production Readiness & Final Testing,CAND-008,0.556,27,25,medium
+Embeddings Explained,CAND-020,0.704,27,24,easy
+Building & Populating the Vector Database,CAND-009,0.935,31,31,easy
+Performance Optimization & Cost Management,CAND-010,0.043,23,22,hard
+Reading & Processing Structured Data,CAND-006,0.083,24,19,hard
+Chatbot Frontend Development,CAND-012,0.467,30,27,medium
+"Monitoring, Logging & Observability",CAND-001,0.667,30,28,medium
+Chatbot Backend & API Integration,CAND-018,1.0,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-020,0.704,27,24,easy
+Vector Databases Overview,CAND-001,0.667,30,28,medium
+Model Context Protocol (MCP),CAND-016,0.095,21,19,easy
+"Security, Privacy & Guardrails",CAND-004,0.214,28,18,hard
+Production Readiness & Final Testing,CAND-009,0.935,31,31,easy
+The Retrieval & Matching Engine,CAND-020,0.704,27,24,easy
+Chatbot Evaluation & Testing,CAND-011,0.357,14,9,hard
+"Security, Privacy & Guardrails",CAND-002,0.345,29,22,hard
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-020,0.704,27,24,easy
+Capstone Project & Final Demo,CAND-020,0.704,27,24,easy
+Chatbot Frontend Development,CAND-012,0.467,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-007,0.815,27,26,easy
+"First AI Project, React Frontend & GitHub",CAND-018,1.0,31,31,easy
+Reading & Processing Structured Data,CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-020,0.704,27,24,easy
+Reading & Processing Unstructured Data,CAND-015,0.931,29,29,easy
+Vector Databases Overview,CAND-009,0.935,31,31,easy
+The Retrieval & Matching Engine,CAND-001,0.667,30,28,hard
+Model Context Protocol (MCP),CAND-018,1.0,31,31,easy
+Model Context Protocol (MCP),CAND-012,0.467,30,27,medium
+Docker & Kubernetes Deployment,CAND-016,0.095,21,19,hard
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-019,0.379,29,26,hard
+"Security, Privacy & Guardrails",CAND-004,0.214,28,18,hard
+Reading & Processing Structured Data,CAND-010,0.043,23,22,hard
+Chatbot Frontend Development,CAND-006,0.083,24,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-014,0.05,20,17,hard
+Agentic Chatbot Integration,CAND-013,0.433,30,27,medium
+Vector Databases Overview,CAND-017,0.032,31,30,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-004,0.214,28,18,hard
+Building the Knowledge Base,CAND-010,0.043,23,22,hard
+Embeddings Explained,CAND-002,0.345,29,22,hard
+The Retrieval & Matching Engine,CAND-018,1.0,31,31,easy
+Agentic Chatbot Integration,CAND-011,0.357,14,9,hard
+Agentic Chatbot Integration,CAND-009,0.935,31,31,easy
+Embeddings Explained,CAND-004,0.214,28,18,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-009,0.935,31,31,easy
+Prompt Engineering Fundamentals,CAND-020,0.704,27,24,easy
+Production Readiness & Final Testing,CAND-019,0.379,29,26,hard
+Building the Knowledge Base,CAND-014,0.05,20,17,hard
+Chatbot Evaluation & Testing,CAND-013,0.433,30,27,medium
+Reading & Processing Structured Data,CAND-015,0.931,29,29,easy
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+Chatbot Evaluation & Testing,CAND-014,0.05,20,17,hard
+Performance Optimization & Cost Management,CAND-012,0.467,30,27,medium
+Chatbot Frontend Development,CAND-009,0.935,31,31,easy
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,hard
+Docker & Kubernetes Deployment,CAND-014,0.05,20,17,hard
+Embeddings Explained,CAND-014,0.05,20,17,hard
+Reading & Processing Unstructured Data,CAND-017,0.032,31,30,hard
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Multi-Agent Orchestration,CAND-011,0.357,14,9,hard
+Full-Stack Integration & Streaming Responses,CAND-002,0.345,29,22,easy
+RAG End-to-End & LLM API Basics,CAND-019,0.379,29,26,hard
+"Monitoring, Logging & Observability",CAND-004,0.214,28,18,hard
+RAG End-to-End & LLM API Basics,CAND-012,0.467,30,27,medium
+Multi-Agent Orchestration,CAND-017,0.032,31,30,hard
+Capstone Project & Final Demo,CAND-009,0.935,31,31,easy
+Chatbot Frontend Development,CAND-018,1.0,31,31,medium
+"First AI Project, React Frontend & GitHub",CAND-010,0.043,23,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-007,0.815,27,26,easy
+Reading & Processing Unstructured Data,CAND-017,0.032,31,30,hard
+Fine-Tuning: Concepts & When to Use It,CAND-013,0.433,30,27,medium
+Vector Databases Overview,CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-019,0.379,29,26,hard
+Reading & Processing Structured Data,CAND-008,0.556,27,25,medium
+Performance Optimization & Cost Management,CAND-006,0.083,24,19,hard
+Building & Populating the Vector Database,CAND-011,0.357,14,9,hard
+Building the Knowledge Base,CAND-005,0.71,31,30,easy
+Capstone Project & Final Demo,CAND-016,0.095,21,19,hard
+Reading & Processing Unstructured Data,CAND-005,0.71,31,30,easy
+"First AI Project, React Frontend & GitHub",CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-015,0.931,29,29,easy
+Production Readiness & Final Testing,CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-004,0.214,28,18,hard
+Embeddings Explained,CAND-010,0.043,23,22,hard
+"Security, Privacy & Guardrails",CAND-013,0.433,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-019,0.379,29,26,hard
+Performance Optimization & Cost Management,CAND-001,0.667,30,28,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-016,0.095,21,19,hard
+Building & Populating the Vector Database,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-007,0.815,27,26,medium
+Reading & Processing Unstructured Data,CAND-008,0.556,27,25,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+Embeddings Explained,CAND-019,0.379,29,26,hard
+Chatbot Backend & API Integration,CAND-018,1.0,31,31,easy
+Capstone Project & Final Demo,CAND-020,0.704,27,24,easy
+Chatbot Frontend Development,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-016,0.095,21,19,hard
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-004,0.214,28,18,hard
+Docker & Kubernetes Deployment,CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Reading & Processing Unstructured Data,CAND-016,0.095,21,19,hard
+Capstone Project & Final Demo,CAND-010,0.043,23,22,hard
+Conversation Memory & Context Management,CAND-015,0.931,29,29,hard
+Model Context Protocol (MCP),CAND-013,0.433,30,27,medium
+Chatbot Evaluation & Testing,CAND-015,0.931,29,29,easy
+Production Readiness & Final Testing,CAND-003,0.968,31,31,easy
+Capstone Project & Final Demo,CAND-016,0.095,21,19,hard
+Docker & Kubernetes Deployment,CAND-010,0.043,23,22,hard
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,hard
+Fine-Tuning: Concepts & When to Use It,CAND-017,0.032,31,30,hard
+Building the Knowledge Base,CAND-017,0.032,31,30,hard
+"Security, Privacy & Guardrails",CAND-018,1.0,31,31,easy
+Prompt Engineering Fundamentals,CAND-003,0.968,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-017,0.032,31,30,hard
+The Retrieval & Matching Engine,CAND-003,0.968,31,31,easy
+Performance Optimization & Cost Management,CAND-020,0.704,27,24,easy
+Full-Stack Integration & Streaming Responses,CAND-006,0.083,24,19,hard
+Chatbot Evaluation & Testing,CAND-009,0.935,31,31,easy
+Vector Databases Overview,CAND-003,0.968,31,31,easy
+Embeddings Explained,CAND-007,0.815,27,26,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-019,0.379,29,26,hard
+Response Formatting & Rich Outputs,CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-001,0.667,30,28,hard
+"Monitoring, Logging & Observability",CAND-004,0.214,28,18,hard
+Embeddings Explained,CAND-001,0.667,30,28,medium
+RAG End-to-End & LLM API Basics,CAND-017,0.032,31,30,hard
+"Security, Privacy & Guardrails",CAND-012,0.467,30,27,medium
+Docker & Kubernetes Deployment,CAND-016,0.095,21,19,hard
+RAG End-to-End & LLM API Basics,CAND-004,0.214,28,18,hard
+Chatbot Frontend Development,CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-008,0.556,27,25,medium
+Capstone Project & Final Demo,CAND-004,0.214,28,18,hard
+"Monitoring, Logging & Observability",CAND-010,0.043,23,22,hard
+Model Context Protocol (MCP),CAND-013,0.433,30,27,medium
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-012,0.467,30,27,medium
+Performance Optimization & Cost Management,CAND-014,0.05,20,17,hard
+Production Readiness & Final Testing,CAND-009,0.935,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-001,0.667,30,28,medium
+Performance Optimization & Cost Management,CAND-011,0.357,14,9,hard
+Embeddings Explained,CAND-019,0.379,29,26,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-011,0.357,14,9,hard
+Reading & Processing Unstructured Data,CAND-016,0.095,21,19,hard
+Prompt Engineering Fundamentals,CAND-019,0.379,29,26,hard
+Response Formatting & Rich Outputs,CAND-016,0.095,21,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-015,0.931,29,29,easy
+Performance Optimization & Cost Management,CAND-009,0.935,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-014,0.05,20,17,hard
+Conversation Memory & Context Management,CAND-012,0.467,30,27,medium
+Chatbot Backend & API Integration,CAND-020,0.704,27,24,easy
+"Monitoring, Logging & Observability",CAND-018,1.0,31,31,easy
+Agentic Chatbot Integration,CAND-008,0.556,27,25,medium
+Chatbot Backend & API Integration,CAND-009,0.935,31,31,medium
+Docker & Kubernetes Deployment,CAND-016,0.095,21,19,hard
+Chatbot Backend & API Integration,CAND-014,0.05,20,17,hard
+Reading & Processing Structured Data,CAND-008,0.556,27,25,medium
+Production Readiness & Final Testing,CAND-003,0.968,31,31,easy
+Reading & Processing Structured Data,CAND-007,0.815,27,26,hard
+Building & Populating the Vector Database,CAND-019,0.379,29,26,hard
+The Retrieval & Matching Engine,CAND-008,0.556,27,25,medium
+Capstone Project & Final Demo,CAND-003,0.968,31,31,easy
+Building the Knowledge Base,CAND-017,0.032,31,30,hard
+"First AI Project, React Frontend & GitHub",CAND-013,0.433,30,27,medium
+Response Formatting & Rich Outputs,CAND-018,1.0,31,31,easy
+Response Formatting & Rich Outputs,CAND-016,0.095,21,19,hard
+Embeddings Explained,CAND-010,0.043,23,22,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-009,0.935,31,31,easy
+Multi-Agent Orchestration,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-015,0.931,29,29,easy
+Response Formatting & Rich Outputs,CAND-007,0.815,27,26,easy
+Chatbot Frontend Development,CAND-019,0.379,29,26,hard
+Building & Populating the Vector Database,CAND-017,0.032,31,30,hard
+Reading & Processing Unstructured Data,CAND-008,0.556,27,25,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-014,0.05,20,17,hard
+Chatbot Backend & API Integration,CAND-008,0.556,27,25,medium
+Building & Populating the Vector Database,CAND-018,1.0,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-012,0.467,30,27,medium
+Performance Optimization & Cost Management,CAND-018,1.0,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,easy
+Conversation Memory & Context Management,CAND-005,0.71,31,30,easy
+Agentic Chatbot Integration,CAND-013,0.433,30,27,medium
+Chatbot Evaluation & Testing,CAND-004,0.214,28,18,hard
+Performance Optimization & Cost Management,CAND-019,0.379,29,26,hard
+"Security, Privacy & Guardrails",CAND-014,0.05,20,17,hard
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+Prompt Engineering Fundamentals,CAND-016,0.095,21,19,hard
+Vector Databases Overview,CAND-019,0.379,29,26,hard
+Docker & Kubernetes Deployment,CAND-018,1.0,31,31,easy
+Chatbot Backend & API Integration,CAND-017,0.032,31,30,hard
+"Monitoring, Logging & Observability",CAND-004,0.214,28,18,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-015,0.931,29,29,easy
+Full-Stack Integration & Streaming Responses,CAND-019,0.379,29,26,hard
+Multi-Agent Orchestration,CAND-002,0.345,29,22,easy
+Embeddings Explained,CAND-016,0.095,21,19,hard
+Multi-Agent Orchestration,CAND-002,0.345,29,22,hard
+Multi-Agent Orchestration,CAND-011,0.357,14,9,hard
+Performance Optimization & Cost Management,CAND-005,0.71,31,30,easy
+Building & Populating the Vector Database,CAND-018,1.0,31,31,easy
+Chatbot Frontend Development,CAND-006,0.083,24,19,hard
+Embeddings Explained,CAND-004,0.214,28,18,hard
+Docker & Kubernetes Deployment,CAND-012,0.467,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-002,0.345,29,22,hard
+Capstone Project & Final Demo,CAND-012,0.467,30,27,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-006,0.083,24,19,hard
+"Monitoring, Logging & Observability",CAND-009,0.935,31,31,easy
+Vector Databases Overview,CAND-005,0.71,31,30,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-014,0.05,20,17,hard
+Model Context Protocol (MCP),CAND-008,0.556,27,25,medium
+Agentic Chatbot Integration,CAND-012,0.467,30,27,easy
+Prompt Engineering Fundamentals,CAND-007,0.815,27,26,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-005,0.71,31,30,easy
+Agentic Chatbot Integration,CAND-018,1.0,31,31,medium
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Advanced Prompting: Function Calling & Structured Outputs,CAND-011,0.357,14,9,hard
+Multi-Agent Orchestration,CAND-017,0.032,31,30,hard
+Reading & Processing Unstructured Data,CAND-009,0.935,31,31,easy
+Reading & Processing Structured Data,CAND-005,0.71,31,30,easy
+Response Formatting & Rich Outputs,CAND-010,0.043,23,22,hard
+Fine-Tuning: Concepts & When to Use It,CAND-002,0.345,29,22,hard
+Fine-Tuning: Concepts & When to Use It,CAND-001,0.667,30,28,medium
+Performance Optimization & Cost Management,CAND-020,0.704,27,24,easy
+Production Readiness & Final Testing,CAND-008,0.556,27,25,medium
+Response Formatting & Rich Outputs,CAND-002,0.345,29,22,hard
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Chatbot Frontend Development,CAND-001,0.667,30,28,medium
+RAG End-to-End & LLM API Basics,CAND-001,0.667,30,28,medium
+Docker & Kubernetes Deployment,CAND-007,0.815,27,26,hard
+"First AI Project, React Frontend & GitHub",CAND-015,0.931,29,29,easy
+Agentic Chatbot Integration,CAND-018,1.0,31,31,easy
+Agentic Chatbot Integration,CAND-011,0.357,14,9,hard
+The Retrieval & Matching Engine,CAND-005,0.71,31,30,easy
+Full-Stack Integration & Streaming Responses,CAND-016,0.095,21,19,hard
+The Retrieval & Matching Engine,CAND-016,0.095,21,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-009,0.935,31,31,easy
+Reading & Processing Unstructured Data,CAND-015,0.931,29,29,easy
+Fine-Tuning: Concepts & When to Use It,CAND-016,0.095,21,19,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-011,0.357,14,9,hard
+Building the Knowledge Base,CAND-010,0.043,23,22,hard
+Building the Knowledge Base,CAND-006,0.083,24,19,hard
+Chatbot Backend & API Integration,CAND-014,0.05,20,17,hard
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+Docker & Kubernetes Deployment,CAND-019,0.379,29,26,hard
+Embeddings Explained,CAND-020,0.704,27,24,easy
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Reading & Processing Unstructured Data,CAND-012,0.467,30,27,hard
+Building the Knowledge Base,CAND-007,0.815,27,26,easy
+"Monitoring, Logging & Observability",CAND-008,0.556,27,25,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-002,0.345,29,22,hard
+Full-Stack Integration & Streaming Responses,CAND-020,0.704,27,24,easy
+Conversation Memory & Context Management,CAND-020,0.704,27,24,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+Prompt Engineering Fundamentals,CAND-015,0.931,29,29,easy
+Building & Populating the Vector Database,CAND-019,0.379,29,26,easy
+Multi-Agent Orchestration,CAND-020,0.704,27,24,easy
+The Retrieval & Matching Engine,CAND-015,0.931,29,29,easy
+Chatbot Evaluation & Testing,CAND-020,0.704,27,24,easy
+Chatbot Frontend Development,CAND-012,0.467,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-012,0.467,30,27,medium
+Agentic Chatbot Integration,CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-006,0.083,24,19,hard
+Reading & Processing Unstructured Data,CAND-014,0.05,20,17,hard
+Vector Databases Overview,CAND-006,0.083,24,19,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+Reading & Processing Structured Data,CAND-001,0.667,30,28,medium
+"Monitoring, Logging & Observability",CAND-009,0.935,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-007,0.815,27,26,easy
+Prompt Engineering Fundamentals,CAND-009,0.935,31,31,easy
+Vector Databases Overview,CAND-019,0.379,29,26,hard
+Chatbot Backend & API Integration,CAND-019,0.379,29,26,easy
+Vector Databases Overview,CAND-001,0.667,30,28,medium
+Chatbot Frontend Development,CAND-005,0.71,31,30,easy
+Capstone Project & Final Demo,CAND-015,0.931,29,29,easy
+Response Formatting & Rich Outputs,CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-017,0.032,31,30,hard
+Response Formatting & Rich Outputs,CAND-015,0.931,29,29,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-016,0.095,21,19,hard
+Multi-Agent Orchestration,CAND-007,0.815,27,26,easy
+"Security, Privacy & Guardrails",CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-002,0.345,29,22,hard
+Capstone Project & Final Demo,CAND-002,0.345,29,22,hard
+Building & Populating the Vector Database,CAND-005,0.71,31,30,easy
+Performance Optimization & Cost Management,CAND-014,0.05,20,17,hard
+Full-Stack Integration & Streaming Responses,CAND-015,0.931,29,29,easy
+Prompt Engineering Fundamentals,CAND-013,0.433,30,27,medium
+Chatbot Backend & API Integration,CAND-004,0.214,28,18,hard
+Conversation Memory & Context Management,CAND-010,0.043,23,22,hard
+Model Context Protocol (MCP),CAND-001,0.667,30,28,medium
+RAG End-to-End & LLM API Basics,CAND-014,0.05,20,17,hard
+The Retrieval & Matching Engine,CAND-006,0.083,24,19,hard
+"Monitoring, Logging & Observability",CAND-013,0.433,30,27,medium
+Docker & Kubernetes Deployment,CAND-014,0.05,20,17,hard
+Response Formatting & Rich Outputs,CAND-010,0.043,23,22,hard
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Performance Optimization & Cost Management,CAND-014,0.05,20,17,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-004,0.214,28,18,hard
+Full-Stack Integration & Streaming Responses,CAND-007,0.815,27,26,easy
+"Security, Privacy & Guardrails",CAND-003,0.968,31,31,easy
+Response Formatting & Rich Outputs,CAND-012,0.467,30,27,medium
+Performance Optimization & Cost Management,CAND-016,0.095,21,19,hard
+Agentic Chatbot Integration,CAND-013,0.433,30,27,medium
+"Monitoring, Logging & Observability",CAND-019,0.379,29,26,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-014,0.05,20,17,hard
+Chatbot Backend & API Integration,CAND-001,0.667,30,28,hard
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+Chatbot Frontend Development,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-013,0.433,30,27,medium
+Response Formatting & Rich Outputs,CAND-009,0.935,31,31,easy
+Reading & Processing Unstructured Data,CAND-001,0.667,30,28,medium
+Vector Databases Overview,CAND-005,0.71,31,30,easy
+Performance Optimization & Cost Management,CAND-009,0.935,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-019,0.379,29,26,hard
+"Monitoring, Logging & Observability",CAND-007,0.815,27,26,easy
+Embeddings Explained,CAND-008,0.556,27,25,medium
+Chatbot Backend & API Integration,CAND-002,0.345,29,22,hard
+Prompt Engineering Fundamentals,CAND-005,0.71,31,30,easy
+Prompt Engineering Fundamentals,CAND-007,0.815,27,26,hard
+Production Readiness & Final Testing,CAND-016,0.095,21,19,easy
+The Retrieval & Matching Engine,CAND-016,0.095,21,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-018,1.0,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-020,0.704,27,24,easy
+Fine-Tuning: Concepts & When to Use It,CAND-005,0.71,31,30,easy
+Agentic Chatbot Integration,CAND-007,0.815,27,26,easy
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+Reading & Processing Structured Data,CAND-003,0.968,31,31,easy
+Agentic Chatbot Integration,CAND-010,0.043,23,22,hard
+Capstone Project & Final Demo,CAND-005,0.71,31,30,easy
+"First AI Project, React Frontend & GitHub",CAND-015,0.931,29,29,easy
+Agentic Chatbot Integration,CAND-019,0.379,29,26,hard
+Building & Populating the Vector Database,CAND-020,0.704,27,24,hard
+Chatbot Frontend Development,CAND-018,1.0,31,31,easy
+Agentic Chatbot Integration,CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-002,0.345,29,22,hard
+Chatbot Frontend Development,CAND-017,0.032,31,30,hard
+Prompt Engineering Fundamentals,CAND-013,0.433,30,27,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-013,0.433,30,27,medium
+Chatbot Evaluation & Testing,CAND-018,1.0,31,31,easy
+Agentic Chatbot Integration,CAND-001,0.667,30,28,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-010,0.043,23,22,hard
+Chatbot Backend & API Integration,CAND-017,0.032,31,30,hard
+Agentic Chatbot Integration,CAND-012,0.467,30,27,medium
+"First AI Project, React Frontend & GitHub",CAND-017,0.032,31,30,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-006,0.083,24,19,hard
+Model Context Protocol (MCP),CAND-014,0.05,20,17,hard
+Full-Stack Integration & Streaming Responses,CAND-006,0.083,24,19,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-005,0.71,31,30,easy
+"Security, Privacy & Guardrails",CAND-005,0.71,31,30,easy
+Performance Optimization & Cost Management,CAND-006,0.083,24,19,hard
+Model Context Protocol (MCP),CAND-010,0.043,23,22,hard
+Capstone Project & Final Demo,CAND-014,0.05,20,17,hard
+"Monitoring, Logging & Observability",CAND-020,0.704,27,24,easy
+Full-Stack Integration & Streaming Responses,CAND-002,0.345,29,22,hard
+RAG End-to-End & LLM API Basics,CAND-015,0.931,29,29,easy
+"Security, Privacy & Guardrails",CAND-008,0.556,27,25,medium
+RAG End-to-End & LLM API Basics,CAND-014,0.05,20,17,hard
+Building the Knowledge Base,CAND-002,0.345,29,22,hard
+Prompt Engineering Fundamentals,CAND-020,0.704,27,24,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-003,0.968,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-017,0.032,31,30,hard
+Response Formatting & Rich Outputs,CAND-018,1.0,31,31,easy
+Performance Optimization & Cost Management,CAND-017,0.032,31,30,hard
+Full-Stack Integration & Streaming Responses,CAND-020,0.704,27,24,easy
+RAG End-to-End & LLM API Basics,CAND-009,0.935,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-001,0.667,30,28,medium
+Agentic Chatbot Integration,CAND-020,0.704,27,24,easy
+Response Formatting & Rich Outputs,CAND-014,0.05,20,17,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-014,0.05,20,17,hard
+The Retrieval & Matching Engine,CAND-010,0.043,23,22,hard
+Production Readiness & Final Testing,CAND-018,1.0,31,31,easy
+The Retrieval & Matching Engine,CAND-008,0.556,27,25,medium
+Conversation Memory & Context Management,CAND-008,0.556,27,25,medium
+Building the Knowledge Base,CAND-013,0.433,30,27,medium
+Building & Populating the Vector Database,CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-003,0.968,31,31,easy
+Model Context Protocol (MCP),CAND-007,0.815,27,26,easy
+Full-Stack Integration & Streaming Responses,CAND-020,0.704,27,24,easy
+The Retrieval & Matching Engine,CAND-020,0.704,27,24,easy
+"First AI Project, React Frontend & GitHub",CAND-003,0.968,31,31,easy
+Capstone Project & Final Demo,CAND-006,0.083,24,19,hard
+Docker & Kubernetes Deployment,CAND-001,0.667,30,28,easy
+Building the Knowledge Base,CAND-017,0.032,31,30,hard
+Vector Databases Overview,CAND-001,0.667,30,28,easy
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,easy
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+The Retrieval & Matching Engine,CAND-013,0.433,30,27,medium
+Agentic Chatbot Integration,CAND-007,0.815,27,26,easy
+Prompt Engineering Fundamentals,CAND-001,0.667,30,28,medium
+Vector Databases Overview,CAND-003,0.968,31,31,easy
+Reading & Processing Structured Data,CAND-006,0.083,24,19,hard
+Conversation Memory & Context Management,CAND-020,0.704,27,24,easy
+Full-Stack Integration & Streaming Responses,CAND-006,0.083,24,19,easy
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+"First AI Project, React Frontend & GitHub",CAND-008,0.556,27,25,medium
+Full-Stack Integration & Streaming Responses,CAND-011,0.357,14,9,hard
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-001,0.667,30,28,easy
+Chatbot Evaluation & Testing,CAND-004,0.214,28,18,hard
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-011,0.357,14,9,hard
+Capstone Project & Final Demo,CAND-007,0.815,27,26,easy
+Vector Databases Overview,CAND-010,0.043,23,22,hard
+Response Formatting & Rich Outputs,CAND-008,0.556,27,25,medium
+Building & Populating the Vector Database,CAND-017,0.032,31,30,hard
+Full-Stack Integration & Streaming Responses,CAND-004,0.214,28,18,hard
+Reading & Processing Unstructured Data,CAND-011,0.357,14,9,hard
+Full-Stack Integration & Streaming Responses,CAND-010,0.043,23,22,hard
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+Model Context Protocol (MCP),CAND-002,0.345,29,22,hard
+Chatbot Evaluation & Testing,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-016,0.095,21,19,hard
+Vector Databases Overview,CAND-002,0.345,29,22,hard
+Reading & Processing Structured Data,CAND-002,0.345,29,22,hard
+Agentic Chatbot Integration,CAND-017,0.032,31,30,hard
+Performance Optimization & Cost Management,CAND-007,0.815,27,26,easy
+Chatbot Evaluation & Testing,CAND-019,0.379,29,26,hard
+Vector Databases Overview,CAND-007,0.815,27,26,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-001,0.667,30,28,hard
+Production Readiness & Final Testing,CAND-007,0.815,27,26,easy
+Chatbot Evaluation & Testing,CAND-003,0.968,31,31,easy
+Embeddings Explained,CAND-012,0.467,30,27,medium
+Chatbot Frontend Development,CAND-013,0.433,30,27,medium
+Embeddings Explained,CAND-002,0.345,29,22,hard
+Reading & Processing Unstructured Data,CAND-008,0.556,27,25,medium
+Chatbot Backend & API Integration,CAND-015,0.931,29,29,easy
+Performance Optimization & Cost Management,CAND-010,0.043,23,22,hard
+Capstone Project & Final Demo,CAND-007,0.815,27,26,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-016,0.095,21,19,hard
+Building the Knowledge Base,CAND-003,0.968,31,31,easy
+Response Formatting & Rich Outputs,CAND-004,0.214,28,18,hard
+Chatbot Backend & API Integration,CAND-015,0.931,29,29,easy
+Performance Optimization & Cost Management,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-020,0.704,27,24,medium
+Building the Knowledge Base,CAND-011,0.357,14,9,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-009,0.935,31,31,easy
+Chatbot Backend & API Integration,CAND-015,0.931,29,29,easy
+"First AI Project, React Frontend & GitHub",CAND-006,0.083,24,19,hard
+Multi-Agent Orchestration,CAND-019,0.379,29,26,hard
+Full-Stack Integration & Streaming Responses,CAND-011,0.357,14,9,hard
+Production Readiness & Final Testing,CAND-001,0.667,30,28,medium
+Agentic Chatbot Integration,CAND-001,0.667,30,28,medium
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-003,0.968,31,31,medium
+"First AI Project, React Frontend & GitHub",CAND-015,0.931,29,29,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,medium
+Response Formatting & Rich Outputs,CAND-011,0.357,14,9,hard
+Prompt Engineering Fundamentals,CAND-014,0.05,20,17,hard
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Full-Stack Integration & Streaming Responses,CAND-017,0.032,31,30,hard
+Chatbot Frontend Development,CAND-020,0.704,27,24,easy
+Performance Optimization & Cost Management,CAND-001,0.667,30,28,medium
+Performance Optimization & Cost Management,CAND-008,0.556,27,25,medium
+Model Context Protocol (MCP),CAND-015,0.931,29,29,easy
+Agentic Chatbot Integration,CAND-010,0.043,23,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-017,0.032,31,30,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-001,0.667,30,28,easy
+Chatbot Frontend Development,CAND-006,0.083,24,19,hard
+Multi-Agent Orchestration,CAND-015,0.931,29,29,easy
+Performance Optimization & Cost Management,CAND-005,0.71,31,30,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-001,0.667,30,28,medium
+Chatbot Evaluation & Testing,CAND-018,1.0,31,31,easy
+Embeddings Explained,CAND-001,0.667,30,28,medium
+Reading & Processing Unstructured Data,CAND-006,0.083,24,19,easy
+RAG End-to-End & LLM API Basics,CAND-001,0.667,30,28,medium
+Building & Populating the Vector Database,CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-020,0.704,27,24,easy
+Fine-Tuning: Concepts & When to Use It,CAND-001,0.667,30,28,medium
+Reading & Processing Structured Data,CAND-013,0.433,30,27,medium
+Reading & Processing Unstructured Data,CAND-016,0.095,21,19,hard
+"Monitoring, Logging & Observability",CAND-009,0.935,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-003,0.968,31,31,easy
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+RAG End-to-End & LLM API Basics,CAND-018,1.0,31,31,easy
+Docker & Kubernetes Deployment,CAND-015,0.931,29,29,easy
+Response Formatting & Rich Outputs,CAND-018,1.0,31,31,easy
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+Docker & Kubernetes Deployment,CAND-009,0.935,31,31,easy
+Chatbot Frontend Development,CAND-020,0.704,27,24,hard
+Prompt Engineering Fundamentals,CAND-018,1.0,31,31,easy
+The Retrieval & Matching Engine,CAND-018,1.0,31,31,easy
+Response Formatting & Rich Outputs,CAND-004,0.214,28,18,hard
+Building the Knowledge Base,CAND-004,0.214,28,18,hard
+Production Readiness & Final Testing,CAND-009,0.935,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-014,0.05,20,17,hard
+Chatbot Evaluation & Testing,CAND-013,0.433,30,27,medium
+Chatbot Backend & API Integration,CAND-003,0.968,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-005,0.71,31,30,easy
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-001,0.667,30,28,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-005,0.71,31,30,easy
+Chatbot Frontend Development,CAND-014,0.05,20,17,hard
+Reading & Processing Unstructured Data,CAND-016,0.095,21,19,hard
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+Embeddings Explained,CAND-007,0.815,27,26,easy
+RAG End-to-End & LLM API Basics,CAND-012,0.467,30,27,medium
+Prompt Engineering Fundamentals,CAND-015,0.931,29,29,easy
+Vector Databases Overview,CAND-015,0.931,29,29,easy
+Embeddings Explained,CAND-011,0.357,14,9,hard
+Performance Optimization & Cost Management,CAND-005,0.71,31,30,medium
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Vector Databases Overview,CAND-018,1.0,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-018,1.0,31,31,easy
+The Retrieval & Matching Engine,CAND-012,0.467,30,27,medium
+Full-Stack Integration & Streaming Responses,CAND-006,0.083,24,19,hard
+Vector Databases Overview,CAND-020,0.704,27,24,easy
+Building & Populating the Vector Database,CAND-007,0.815,27,26,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-016,0.095,21,19,hard
+Model Context Protocol (MCP),CAND-001,0.667,30,28,medium
+Capstone Project & Final Demo,CAND-009,0.935,31,31,hard
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Agentic Chatbot Integration,CAND-014,0.05,20,17,hard
+Multi-Agent Orchestration,CAND-017,0.032,31,30,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-010,0.043,23,22,hard
+RAG End-to-End & LLM API Basics,CAND-005,0.71,31,30,easy
+The Retrieval & Matching Engine,CAND-019,0.379,29,26,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-013,0.433,30,27,medium
+Fine-Tuning: Concepts & When to Use It,CAND-005,0.71,31,30,easy
+Multi-Agent Orchestration,CAND-003,0.968,31,31,easy
+Conversation Memory & Context Management,CAND-014,0.05,20,17,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-006,0.083,24,19,hard
+Embeddings Explained,CAND-016,0.095,21,19,hard
+Production Readiness & Final Testing,CAND-008,0.556,27,25,medium
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-006,0.083,24,19,easy
+Chatbot Backend & API Integration,CAND-014,0.05,20,17,hard
+RAG End-to-End & LLM API Basics,CAND-002,0.345,29,22,hard
+Chatbot Evaluation & Testing,CAND-005,0.71,31,30,medium
+Chatbot Evaluation & Testing,CAND-007,0.815,27,26,easy
+Chatbot Evaluation & Testing,CAND-011,0.357,14,9,hard
+Production Readiness & Final Testing,CAND-014,0.05,20,17,hard
+Vector Databases Overview,CAND-017,0.032,31,30,hard
+Vector Databases Overview,CAND-007,0.815,27,26,easy
+Chatbot Frontend Development,CAND-002,0.345,29,22,hard
+RAG End-to-End & LLM API Basics,CAND-012,0.467,30,27,medium
+Chatbot Evaluation & Testing,CAND-004,0.214,28,18,hard
+Capstone Project & Final Demo,CAND-010,0.043,23,22,hard
+Production Readiness & Final Testing,CAND-010,0.043,23,22,hard
+Reading & Processing Unstructured Data,CAND-003,0.968,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-009,0.935,31,31,easy
+RAG End-to-End & LLM API Basics,CAND-010,0.043,23,22,hard
+Advanced Prompting: Function Calling & Structured Outputs,CAND-016,0.095,21,19,hard
+Vector Databases Overview,CAND-003,0.968,31,31,easy
+Conversation Memory & Context Management,CAND-010,0.043,23,22,hard
+Model Context Protocol (MCP),CAND-010,0.043,23,22,hard
+Response Formatting & Rich Outputs,CAND-004,0.214,28,18,hard
+Reading & Processing Unstructured Data,CAND-006,0.083,24,19,hard
+Building the Knowledge Base,CAND-014,0.05,20,17,hard
+Full-Stack Integration & Streaming Responses,CAND-020,0.704,27,24,easy
+RAG End-to-End & LLM API Basics,CAND-013,0.433,30,27,medium
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-020,0.704,27,24,easy
+Chatbot Frontend Development,CAND-006,0.083,24,19,hard
+Performance Optimization & Cost Management,CAND-007,0.815,27,26,easy
+Model Context Protocol (MCP),CAND-020,0.704,27,24,easy
+Capstone Project & Final Demo,CAND-016,0.095,21,19,hard
+Model Context Protocol (MCP),CAND-019,0.379,29,26,hard
+Fine-Tuning: Concepts & When to Use It,CAND-008,0.556,27,25,medium
+Reading & Processing Structured Data,CAND-015,0.931,29,29,easy
+Building the Knowledge Base,CAND-009,0.935,31,31,easy
+Model Context Protocol (MCP),CAND-003,0.968,31,31,easy
+The Retrieval & Matching Engine,CAND-009,0.935,31,31,easy
+Agentic Frameworks: LangChain Agents & Tool Use,CAND-006,0.083,24,19,hard
+Capstone Project & Final Demo,CAND-008,0.556,27,25,medium
+"Monitoring, Logging & Observability",CAND-018,1.0,31,31,easy
+Advanced Prompting: Function Calling & Structured Outputs,CAND-007,0.815,27,26,easy
+"First AI Project, React Frontend & GitHub",CAND-017,0.032,31,30,medium
+Fine-Tuning: Hands-On with LoRA & QLoRA,CAND-010,0.043,23,22,hard
+The Retrieval & Matching Engine,CAND-016,0.095,21,19,hard
+Agentic Chatbot Integration,CAND-013,0.433,30,27,medium
+Prompt Engineering Fundamentals,CAND-007,0.815,27,26,easy
+"Monitoring, Logging & Observability",CAND-003,0.968,31,31,easy
+Model Context Protocol (MCP),CAND-014,0.05,20,17,medium
+Performance Optimization & Cost Management,CAND-019,0.379,29,26,hard
+Performance Optimization & Cost Management,CAND-001,0.667,30,28,medium
+Production Readiness & Final Testing,CAND-020,0.704,27,24,easy
+The Retrieval & Matching Engine,CAND-015,0.931,29,29,easy
+Multi-Agent Orchestration,CAND-004,0.214,28,18,hard
+Embeddings Explained,CAND-003,0.968,31,31,easy
+Full-Stack Integration & Streaming Responses,CAND-020,0.704,27,24,easy
+Model Context Protocol (MCP),CAND-002,0.345,29,22,hard
+"First AI Project, React Frontend & GitHub",CAND-014,0.05,20,17,medium
+Chatbot Frontend Development,CAND-003,0.968,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-004,0.214,28,18,hard
+Vector Databases Overview,CAND-011,0.357,14,9,hard
+Building & Populating the Vector Database,CAND-003,0.968,31,31,easy
+"First AI Project, React Frontend & GitHub",CAND-009,0.935,31,31,easy
+Vector Databases Overview,CAND-016,0.095,21,19,hard
+Docker & Kubernetes Deployment,CAND-020,0.704,27,24,easy
+Docker & Kubernetes Deployment,CAND-017,0.032,31,30,hard
+Model Context Protocol (MCP),CAND-005,0.71,31,30,easy
+Vector Databases Overview,CAND-002,0.345,29,22,hard
+Capstone Project & Final Demo,CAND-003,0.968,31,31,easy

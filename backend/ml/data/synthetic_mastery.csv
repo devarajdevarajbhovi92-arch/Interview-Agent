@@ -1,0 +1,2001 @@
+candidate_id,topic,mission_attempts,mission_passed,mission_skipped,mastery
+CAND-020,Conversation Memory & Context Management,0,False,False,8.9
+CAND-012,Reading & Processing Structured Data,0,False,False,25.5
+CAND-020,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,22.9
+CAND-020,Multi-Agent Orchestration,1,True,False,93.2
+CAND-015,Response Formatting & Rich Outputs,0,False,False,26.3
+CAND-006,Reading & Processing Structured Data,0,False,False,27.9
+CAND-003,Prompt Engineering Fundamentals,1,True,False,98.6
+CAND-003,RAG End-to-End & LLM API Basics,1,True,False,92.1
+CAND-009,Embeddings Explained,1,True,False,96.9
+CAND-009,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,0.4
+CAND-016,The Retrieval & Matching Engine,0,False,False,25.3
+CAND-006,The Retrieval & Matching Engine,0,False,False,21.2
+CAND-018,Chatbot Backend & API Integration,0,False,False,2.0
+CAND-012,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,11.0
+CAND-017,Chatbot Evaluation & Testing,0,False,False,27.8
+CAND-011,Performance Optimization & Cost Management,0,False,False,18.0
+CAND-020,RAG End-to-End & LLM API Basics,0,False,False,13.7
+CAND-011,Agentic Chatbot Integration,0,False,False,14.1
+CAND-014,Building & Populating the Vector Database,0,False,False,26.9
+CAND-016,Chatbot Evaluation & Testing,0,False,False,22.9
+CAND-017,Vector Databases Overview,5,True,False,81.1
+CAND-019,The Retrieval & Matching Engine,0,False,False,0.9
+CAND-011,Full-Stack Integration & Streaming Responses,0,False,False,14.3
+CAND-016,Agentic Chatbot Integration,0,False,False,24.6
+CAND-018,Production Readiness & Final Testing,0,False,False,25.0
+CAND-013,Chatbot Frontend Development,0,False,False,13.0
+CAND-016,Prompt Engineering Fundamentals,5,False,False,2.1
+CAND-004,Reading & Processing Structured Data,0,False,False,11.1
+CAND-007,Multi-Agent Orchestration,1,True,False,100
+CAND-009,Performance Optimization & Cost Management,0,False,False,20.2
+CAND-004,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,0.1
+CAND-009,"Monitoring, Logging & Observability",0,False,False,25.4
+CAND-019,Reading & Processing Structured Data,1,True,False,91.8
+CAND-008,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,29.2
+CAND-014,Performance Optimization & Cost Management,0,False,False,0.8
+CAND-005,Response Formatting & Rich Outputs,0,False,False,10.7
+CAND-018,Model Context Protocol (MCP),1,True,False,100
+CAND-014,Multi-Agent Orchestration,1,False,True,9.4
+CAND-013,Chatbot Backend & API Integration,2,True,False,83.9
+CAND-001,Production Readiness & Final Testing,0,False,False,18.5
+CAND-007,Fine-Tuning: Concepts & When to Use It,0,False,False,9.2
+CAND-015,Fine-Tuning: Hands-On with LoRA & QLoRA,1,False,True,0
+CAND-001,Full-Stack Integration & Streaming Responses,0,False,False,9.8
+CAND-003,Docker & Kubernetes Deployment,0,False,False,5.1
+CAND-002,Reading & Processing Unstructured Data,0,False,False,15.0
+CAND-005,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,5.0
+CAND-005,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,9.3
+CAND-010,Building the Knowledge Base,0,False,False,15.8
+CAND-005,Production Readiness & Final Testing,0,False,False,8.3
+CAND-019,Prompt Engineering Fundamentals,0,False,False,1.8
+CAND-012,Docker & Kubernetes Deployment,1,True,False,92.3
+CAND-020,Model Context Protocol (MCP),0,False,False,7.0
+CAND-013,Fine-Tuning: Concepts & When to Use It,0,False,False,7.2
+CAND-006,Docker & Kubernetes Deployment,1,False,True,0
+CAND-009,Model Context Protocol (MCP),1,True,False,100
+CAND-008,Full-Stack Integration & Streaming Responses,0,False,False,23.2
+CAND-019,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,1.1
+CAND-015,Performance Optimization & Cost Management,0,False,False,26.8
+CAND-012,"Security, Privacy & Guardrails",0,False,False,23.2
+CAND-015,Capstone Project & Final Demo,1,True,False,98.1
+CAND-008,Full-Stack Integration & Streaming Responses,0,False,False,26.3
+CAND-009,Conversation Memory & Context Management,0,False,False,24.4
+CAND-012,Performance Optimization & Cost Management,0,False,False,27.6
+CAND-005,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,2.3
+CAND-006,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,28.1
+CAND-018,"Monitoring, Logging & Observability",0,False,False,8.7
+CAND-015,Docker & Kubernetes Deployment,0,False,False,17.8
+CAND-002,Reading & Processing Unstructured Data,0,False,False,19.8
+CAND-011,"Security, Privacy & Guardrails",0,False,False,5.1
+CAND-006,Production Readiness & Final Testing,0,False,False,14.4
+CAND-006,Multi-Agent Orchestration,5,True,False,97.4
+CAND-009,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,20.6
+CAND-014,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,26.3
+CAND-007,Docker & Kubernetes Deployment,1,False,True,0
+CAND-020,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,14.9
+CAND-019,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,18.5
+CAND-005,Reading & Processing Structured Data,0,False,False,24.6
+CAND-017,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,8.1
+CAND-015,"First AI Project, React Frontend & GitHub",0,False,False,1.8
+CAND-009,"Security, Privacy & Guardrails",1,True,False,100
+CAND-003,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,17.1
+CAND-003,Embeddings Explained,1,True,False,87.6
+CAND-010,Embeddings Explained,5,True,False,100
+CAND-014,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,22.2
+CAND-016,Capstone Project & Final Demo,2,True,False,100
+CAND-011,The Retrieval & Matching Engine,0,False,False,25.1
+CAND-018,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,2.1
+CAND-007,Agentic Chatbot Integration,0,False,False,28.2
+CAND-016,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,21.2
+CAND-011,Vector Databases Overview,1,False,True,13.6
+CAND-020,Prompt Engineering Fundamentals,1,True,False,86.9
+CAND-014,Reading & Processing Unstructured Data,0,False,False,9.4
+CAND-014,Performance Optimization & Cost Management,0,False,False,5.0
+CAND-009,Reading & Processing Structured Data,0,False,False,15.3
+CAND-005,"First AI Project, React Frontend & GitHub",0,False,False,11.9
+CAND-008,Building & Populating the Vector Database,0,False,False,7.9
+CAND-014,Reading & Processing Unstructured Data,0,False,False,2.1
+CAND-020,Full-Stack Integration & Streaming Responses,0,False,False,15.8
+CAND-007,Chatbot Frontend Development,0,False,False,4.3
+CAND-006,Model Context Protocol (MCP),0,False,False,11.5
+CAND-012,Multi-Agent Orchestration,2,True,False,69.8
+CAND-007,Agentic Chatbot Integration,0,False,False,6.6
+CAND-017,Reading & Processing Structured Data,0,False,False,8.6
+CAND-020,Reading & Processing Unstructured Data,0,False,False,14.4
+CAND-013,Reading & Processing Structured Data,2,True,False,100
+CAND-008,Building & Populating the Vector Database,0,False,False,29.6
+CAND-008,Reading & Processing Structured Data,1,True,False,100
+CAND-017,"Monitoring, Logging & Observability",0,False,False,11.2
+CAND-010,Reading & Processing Unstructured Data,0,False,False,15.9
+CAND-010,The Retrieval & Matching Engine,0,False,False,12.6
+CAND-014,Reading & Processing Structured Data,0,False,False,19.9
+CAND-001,Model Context Protocol (MCP),2,True,False,100
+CAND-020,Building & Populating the Vector Database,0,False,False,2.6
+CAND-016,Conversation Memory & Context Management,0,False,False,16.2
+CAND-006,Agentic Chatbot Integration,0,False,False,27.3
+CAND-002,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,7.2
+CAND-014,Full-Stack Integration & Streaming Responses,0,False,False,21.7
+CAND-014,Full-Stack Integration & Streaming Responses,0,False,False,28.2
+CAND-015,Chatbot Frontend Development,0,False,False,7.2
+CAND-014,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,23.0
+CAND-015,Fine-Tuning: Hands-On with LoRA & QLoRA,1,False,True,2.1
+CAND-010,Fine-Tuning: Concepts & When to Use It,0,False,False,10.5
+CAND-011,Multi-Agent Orchestration,1,False,True,0
+CAND-002,Building & Populating the Vector Database,0,False,False,7.5
+CAND-017,Building the Knowledge Base,0,False,False,18.4
+CAND-009,Building & Populating the Vector Database,0,False,False,10.7
+CAND-004,Building the Knowledge Base,0,False,False,27.1
+CAND-005,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,18.7
+CAND-019,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,11.1
+CAND-008,"Monitoring, Logging & Observability",0,False,False,1.5
+CAND-020,Performance Optimization & Cost Management,0,False,False,22.5
+CAND-007,Chatbot Evaluation & Testing,0,False,False,7.5
+CAND-003,Building & Populating the Vector Database,0,False,False,11.0
+CAND-003,Prompt Engineering Fundamentals,1,True,False,100
+CAND-017,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,10.1
+CAND-001,Chatbot Frontend Development,0,False,False,0.7
+CAND-013,RAG End-to-End & LLM API Basics,0,False,False,0.5
+CAND-005,Docker & Kubernetes Deployment,1,True,False,90.3
+CAND-014,"First AI Project, React Frontend & GitHub",0,False,False,11.6
+CAND-010,Chatbot Evaluation & Testing,0,False,False,3.2
+CAND-004,Performance Optimization & Cost Management,0,False,False,24.7
+CAND-010,"Monitoring, Logging & Observability",0,False,False,15.2
+CAND-014,Vector Databases Overview,1,False,True,4.8
+CAND-004,Capstone Project & Final Demo,2,True,False,100
+CAND-014,Prompt Engineering Fundamentals,5,True,False,100
+CAND-018,The Retrieval & Matching Engine,0,False,False,22.0
+CAND-009,Agentic Chatbot Integration,0,False,False,4.1
+CAND-019,Chatbot Frontend Development,5,True,False,100
+CAND-008,Reading & Processing Structured Data,1,True,False,100
+CAND-006,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,8.5
+CAND-014,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,9.8
+CAND-016,Vector Databases Overview,3,True,False,94.9
+CAND-012,Vector Databases Overview,5,True,False,99.7
+CAND-002,Vector Databases Overview,2,True,False,82.3
+CAND-008,Performance Optimization & Cost Management,0,False,False,23.9
+CAND-012,Response Formatting & Rich Outputs,0,False,False,18.6
+CAND-015,Chatbot Frontend Development,0,False,False,23.1
+CAND-006,Fine-Tuning: Concepts & When to Use It,0,False,False,16.4
+CAND-018,RAG End-to-End & LLM API Basics,0,False,False,15.9
+CAND-018,Multi-Agent Orchestration,1,True,False,93.1
+CAND-003,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,20.1
+CAND-019,Prompt Engineering Fundamentals,0,False,False,24.9
+CAND-012,Reading & Processing Unstructured Data,0,False,False,11.5
+CAND-011,Multi-Agent Orchestration,1,False,True,0
+CAND-019,Reading & Processing Unstructured Data,0,False,False,22.5
+CAND-019,RAG End-to-End & LLM API Basics,0,False,False,9.4
+CAND-013,Agentic Chatbot Integration,0,False,False,30.0
+CAND-010,Chatbot Backend & API Integration,4,True,False,94.8
+CAND-009,"Security, Privacy & Guardrails",1,True,False,100
+CAND-011,Embeddings Explained,1,False,True,0
+CAND-008,"Monitoring, Logging & Observability",0,False,False,17.5
+CAND-001,RAG End-to-End & LLM API Basics,0,False,False,2.2
+CAND-012,Vector Databases Overview,5,True,False,100
+CAND-010,Production Readiness & Final Testing,0,False,False,4.7
+CAND-017,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,14.9
+CAND-012,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,7.7
+CAND-001,Docker & Kubernetes Deployment,3,True,False,100
+CAND-003,Response Formatting & Rich Outputs,0,False,False,17.6
+CAND-016,Multi-Agent Orchestration,4,False,False,0
+CAND-012,"Security, Privacy & Guardrails",0,False,False,1.4
+CAND-010,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,13.5
+CAND-002,Performance Optimization & Cost Management,0,False,False,28.0
+CAND-008,Chatbot Backend & API Integration,0,False,False,14.7
+CAND-011,Capstone Project & Final Demo,4,True,False,96.7
+CAND-002,Performance Optimization & Cost Management,0,False,False,3.8
+CAND-017,Chatbot Evaluation & Testing,0,False,False,0.8
+CAND-010,Agentic Chatbot Integration,0,False,False,2.3
+CAND-016,Capstone Project & Final Demo,2,True,False,100
+CAND-002,"Monitoring, Logging & Observability",0,False,False,19.1
+CAND-008,RAG End-to-End & LLM API Basics,0,False,False,21.0
+CAND-014,Reading & Processing Structured Data,0,False,False,20.2
+CAND-004,Chatbot Backend & API Integration,2,True,False,100
+CAND-004,The Retrieval & Matching Engine,0,False,False,19.9
+CAND-001,Performance Optimization & Cost Management,0,False,False,14.6
+CAND-020,Embeddings Explained,2,False,False,0
+CAND-003,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,26.6
+CAND-012,Full-Stack Integration & Streaming Responses,0,False,False,9.7
+CAND-006,Full-Stack Integration & Streaming Responses,0,False,False,10.4
+CAND-006,Chatbot Evaluation & Testing,0,False,False,15.1
+CAND-007,Production Readiness & Final Testing,0,False,False,3.8
+CAND-018,"Security, Privacy & Guardrails",1,True,False,93.4
+CAND-013,Full-Stack Integration & Streaming Responses,0,False,False,20.6
+CAND-017,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,27.6
+CAND-012,Agentic Chatbot Integration,0,False,False,1.6
+CAND-013,Response Formatting & Rich Outputs,0,False,False,28.1
+CAND-003,Fine-Tuning: Concepts & When to Use It,0,False,False,10.8
+CAND-015,Building the Knowledge Base,0,False,False,20.8
+CAND-012,"Monitoring, Logging & Observability",0,False,False,12.5
+CAND-014,Reading & Processing Unstructured Data,0,False,False,25.8
+CAND-014,Conversation Memory & Context Management,3,True,False,97.0
+CAND-019,Capstone Project & Final Demo,2,True,False,86.5
+CAND-010,Reading & Processing Structured Data,0,False,False,17.0
+CAND-014,Performance Optimization & Cost Management,0,False,False,7.2
+CAND-009,Chatbot Backend & API Integration,0,False,False,19.2
+CAND-011,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,26.5
+CAND-011,Building the Knowledge Base,0,False,False,20.9
+CAND-004,Production Readiness & Final Testing,0,False,False,27.2
+CAND-008,Building & Populating the Vector Database,0,False,False,17.6
+CAND-014,Building & Populating the Vector Database,0,False,False,5.6
+CAND-009,Fine-Tuning: Concepts & When to Use It,0,False,False,27.9
+CAND-017,Embeddings Explained,5,True,False,91.8
+CAND-012,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,18.2
+CAND-003,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,3.9
+CAND-005,Model Context Protocol (MCP),3,True,False,95.2
+CAND-014,Capstone Project & Final Demo,4,True,False,100
+CAND-019,Chatbot Frontend Development,5,True,False,100
+CAND-010,Conversation Memory & Context Management,0,False,False,25.2
+CAND-013,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,14.6
+CAND-010,Response Formatting & Rich Outputs,0,False,False,14.5
+CAND-017,Model Context Protocol (MCP),0,False,False,18.2
+CAND-014,Performance Optimization & Cost Management,0,False,False,5.9
+CAND-019,Chatbot Backend & API Integration,1,True,False,100
+CAND-008,Reading & Processing Structured Data,1,True,False,100
+CAND-012,Vector Databases Overview,5,True,False,98.6
+CAND-016,Model Context Protocol (MCP),0,False,False,1.5
+CAND-007,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,17.1
+CAND-006,Vector Databases Overview,5,True,False,100
+CAND-012,"Monitoring, Logging & Observability",0,False,False,16.9
+CAND-003,Chatbot Backend & API Integration,0,False,False,7.5
+CAND-008,"First AI Project, React Frontend & GitHub",0,False,False,28.2
+CAND-005,Full-Stack Integration & Streaming Responses,0,False,False,8.4
+CAND-019,Chatbot Evaluation & Testing,0,False,False,23.0
+CAND-004,Full-Stack Integration & Streaming Responses,0,False,False,11.7
+CAND-004,"Security, Privacy & Guardrails",0,False,False,18.2
+CAND-019,"Monitoring, Logging & Observability",0,False,False,15.1
+CAND-014,The Retrieval & Matching Engine,0,False,False,14.0
+CAND-001,"Monitoring, Logging & Observability",1,False,True,0
+CAND-017,Fine-Tuning: Concepts & When to Use It,0,False,False,20.0
+CAND-008,Docker & Kubernetes Deployment,1,True,False,100
+CAND-013,"First AI Project, React Frontend & GitHub",0,False,False,12.6
+CAND-005,Vector Databases Overview,2,True,False,94.2
+CAND-007,"First AI Project, React Frontend & GitHub",1,True,False,75.6
+CAND-014,Building & Populating the Vector Database,0,False,False,10.4
+CAND-016,Building & Populating the Vector Database,0,False,False,19.2
+CAND-012,Full-Stack Integration & Streaming Responses,0,False,False,13.6
+CAND-013,Multi-Agent Orchestration,2,True,False,98.7
+CAND-010,Vector Databases Overview,4,False,False,14.2
+CAND-020,Response Formatting & Rich Outputs,0,False,False,9.3
+CAND-003,"First AI Project, React Frontend & GitHub",0,False,False,24.0
+CAND-001,"Monitoring, Logging & Observability",1,False,True,9.3
+CAND-002,Building & Populating the Vector Database,0,False,False,25.7
+CAND-006,Full-Stack Integration & Streaming Responses,0,False,False,6.1
+CAND-007,"Security, Privacy & Guardrails",1,False,True,9.7
+CAND-005,Prompt Engineering Fundamentals,4,True,False,100
+CAND-017,Vector Databases Overview,5,True,False,100
+CAND-015,Prompt Engineering Fundamentals,0,False,False,25.9
+CAND-013,Building & Populating the Vector Database,0,False,False,22.4
+CAND-011,Embeddings Explained,1,False,True,2.0
+CAND-008,Docker & Kubernetes Deployment,1,True,False,93.8
+CAND-011,"Monitoring, Logging & Observability",0,False,False,12.4
+CAND-004,Conversation Memory & Context Management,3,True,False,96.8
+CAND-017,Chatbot Evaluation & Testing,0,False,False,22.6
+CAND-001,The Retrieval & Matching Engine,0,False,False,25.0
+CAND-018,"First AI Project, React Frontend & GitHub",0,False,False,20.6
+CAND-014,Production Readiness & Final Testing,0,False,False,24.7
+CAND-019,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,15.2
+CAND-014,Embeddings Explained,5,True,False,100
+CAND-003,Conversation Memory & Context Management,0,False,False,10.0
+CAND-003,Chatbot Evaluation & Testing,0,False,False,3.1
+CAND-006,Response Formatting & Rich Outputs,0,False,False,22.9
+CAND-015,Full-Stack Integration & Streaming Responses,0,False,False,23.9
+CAND-001,Docker & Kubernetes Deployment,3,True,False,100
+CAND-007,Model Context Protocol (MCP),0,False,False,11.7
+CAND-013,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,6.9
+CAND-020,Prompt Engineering Fundamentals,1,True,False,98.6
+CAND-016,Vector Databases Overview,3,True,False,95.5
+CAND-017,Reading & Processing Unstructured Data,0,False,False,19.5
+CAND-006,Chatbot Backend & API Integration,4,True,False,100
+CAND-011,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,15.5
+CAND-011,"First AI Project, React Frontend & GitHub",3,True,False,100
+CAND-007,Building & Populating the Vector Database,0,False,False,29.3
+CAND-016,Multi-Agent Orchestration,4,False,False,0
+CAND-002,Chatbot Evaluation & Testing,0,False,False,5.2
+CAND-020,RAG End-to-End & LLM API Basics,0,False,False,29.6
+CAND-001,"Monitoring, Logging & Observability",1,False,True,0
+CAND-008,Full-Stack Integration & Streaming Responses,0,False,False,10.8
+CAND-012,Model Context Protocol (MCP),0,False,False,20.7
+CAND-004,Agentic Chatbot Integration,0,False,False,6.0
+CAND-009,Performance Optimization & Cost Management,0,False,False,10.3
+CAND-015,Chatbot Evaluation & Testing,0,False,False,9.9
+CAND-015,"Monitoring, Logging & Observability",0,False,False,2.9
+CAND-011,Reading & Processing Structured Data,2,True,False,94.5
+CAND-008,Reading & Processing Structured Data,1,True,False,87.8
+CAND-012,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,15.0
+CAND-018,Reading & Processing Structured Data,0,False,False,13.7
+CAND-003,Embeddings Explained,1,True,False,94.9
+CAND-013,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,4.6
+CAND-020,Prompt Engineering Fundamentals,1,True,False,98.5
+CAND-018,Multi-Agent Orchestration,1,True,False,95.5
+CAND-003,Response Formatting & Rich Outputs,0,False,False,10.7
+CAND-020,Response Formatting & Rich Outputs,0,False,False,7.1
+CAND-017,Capstone Project & Final Demo,3,True,False,100
+CAND-006,"First AI Project, React Frontend & GitHub",0,False,False,27.2
+CAND-003,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,3.6
+CAND-019,Chatbot Frontend Development,5,True,False,100
+CAND-015,Full-Stack Integration & Streaming Responses,0,False,False,12.4
+CAND-019,Reading & Processing Unstructured Data,0,False,False,7.4
+CAND-003,Chatbot Backend & API Integration,0,False,False,25.7
+CAND-015,Chatbot Backend & API Integration,0,False,False,25.2
+CAND-005,Response Formatting & Rich Outputs,0,False,False,27.1
+CAND-006,Embeddings Explained,5,True,False,100
+CAND-013,Building the Knowledge Base,0,False,False,25.2
+CAND-011,Agentic Chatbot Integration,0,False,False,8.1
+CAND-019,Agentic Chatbot Integration,0,False,False,24.4
+CAND-005,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,9.1
+CAND-009,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,23.4
+CAND-007,Agentic Chatbot Integration,0,False,False,25.6
+CAND-009,Performance Optimization & Cost Management,0,False,False,25.8
+CAND-015,Full-Stack Integration & Streaming Responses,0,False,False,25.0
+CAND-014,Production Readiness & Final Testing,0,False,False,11.9
+CAND-008,Conversation Memory & Context Management,0,False,False,16.1
+CAND-014,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,18.8
+CAND-001,"Security, Privacy & Guardrails",0,False,False,22.1
+CAND-002,Chatbot Evaluation & Testing,0,False,False,26.8
+CAND-003,Chatbot Evaluation & Testing,0,False,False,11.0
+CAND-012,Performance Optimization & Cost Management,0,False,False,12.0
+CAND-015,Response Formatting & Rich Outputs,0,False,False,5.6
+CAND-007,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,20.9
+CAND-012,"Security, Privacy & Guardrails",0,False,False,17.7
+CAND-007,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,24.2
+CAND-004,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,23.4
+CAND-003,Embeddings Explained,1,True,False,100
+CAND-015,"First AI Project, React Frontend & GitHub",0,False,False,12.5
+CAND-004,Conversation Memory & Context Management,3,True,False,88.6
+CAND-011,Agentic Chatbot Integration,0,False,False,6.9
+CAND-002,Chatbot Evaluation & Testing,0,False,False,15.9
+CAND-018,Reading & Processing Structured Data,0,False,False,29.9
+CAND-015,Embeddings Explained,1,True,False,100
+CAND-001,Agentic Chatbot Integration,0,False,False,4.2
+CAND-008,Model Context Protocol (MCP),5,True,False,99.2
+CAND-007,Conversation Memory & Context Management,0,False,False,28.2
+CAND-004,Reading & Processing Unstructured Data,0,False,False,4.7
+CAND-019,Multi-Agent Orchestration,3,True,False,100
+CAND-014,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,25.6
+CAND-014,The Retrieval & Matching Engine,0,False,False,13.3
+CAND-001,Building & Populating the Vector Database,0,False,False,19.4
+CAND-008,Prompt Engineering Fundamentals,0,False,False,23.2
+CAND-017,The Retrieval & Matching Engine,0,False,False,29.6
+CAND-013,Fine-Tuning: Concepts & When to Use It,0,False,False,12.6
+CAND-001,Chatbot Frontend Development,0,False,False,19.2
+CAND-019,Model Context Protocol (MCP),0,False,False,20.9
+CAND-012,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,19.8
+CAND-011,Full-Stack Integration & Streaming Responses,0,False,False,24.2
+CAND-007,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,12.2
+CAND-016,Reading & Processing Structured Data,0,False,False,9.5
+CAND-013,"Monitoring, Logging & Observability",0,False,False,13.5
+CAND-020,The Retrieval & Matching Engine,0,False,False,2.3
+CAND-009,Performance Optimization & Cost Management,0,False,False,17.9
+CAND-019,Performance Optimization & Cost Management,0,False,False,29.8
+CAND-009,Chatbot Backend & API Integration,0,False,False,26.8
+CAND-018,Full-Stack Integration & Streaming Responses,0,False,False,22.4
+CAND-008,Chatbot Evaluation & Testing,0,False,False,19.8
+CAND-012,Response Formatting & Rich Outputs,0,False,False,29.0
+CAND-014,Conversation Memory & Context Management,3,True,False,89.3
+CAND-004,Reading & Processing Structured Data,0,False,False,25.5
+CAND-011,Building & Populating the Vector Database,0,False,False,29.4
+CAND-005,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,24.0
+CAND-014,"Monitoring, Logging & Observability",0,False,False,26.5
+CAND-005,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,8.2
+CAND-016,"Security, Privacy & Guardrails",1,False,True,0
+CAND-017,Capstone Project & Final Demo,3,True,False,100
+CAND-002,Agentic Chatbot Integration,0,False,False,1.0
+CAND-011,Response Formatting & Rich Outputs,0,False,False,1.6
+CAND-001,Production Readiness & Final Testing,0,False,False,2.7
+CAND-010,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,3.7
+CAND-011,Multi-Agent Orchestration,1,False,True,3.8
+CAND-015,"Security, Privacy & Guardrails",1,True,False,91.0
+CAND-001,Reading & Processing Structured Data,0,False,False,0.8
+CAND-019,Agentic Chatbot Integration,0,False,False,1.7
+CAND-002,Chatbot Frontend Development,0,False,False,6.3
+CAND-017,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,7.7
+CAND-015,"Security, Privacy & Guardrails",1,True,False,91.3
+CAND-008,Model Context Protocol (MCP),5,True,False,100
+CAND-010,Performance Optimization & Cost Management,0,False,False,14.9
+CAND-008,Production Readiness & Final Testing,0,False,False,12.1
+CAND-019,The Retrieval & Matching Engine,0,False,False,24.6
+CAND-002,Conversation Memory & Context Management,0,False,False,18.1
+CAND-004,Building & Populating the Vector Database,0,False,False,3.2
+CAND-017,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,28.4
+CAND-013,Full-Stack Integration & Streaming Responses,0,False,False,2.0
+CAND-008,Embeddings Explained,0,False,False,3.3
+CAND-001,Fine-Tuning: Concepts & When to Use It,0,False,False,8.8
+CAND-018,Model Context Protocol (MCP),1,True,False,88.1
+CAND-009,Model Context Protocol (MCP),1,True,False,100
+CAND-006,Fine-Tuning: Concepts & When to Use It,0,False,False,18.9
+CAND-004,Reading & Processing Unstructured Data,0,False,False,29.0
+CAND-019,Model Context Protocol (MCP),0,False,False,1.3
+CAND-012,Multi-Agent Orchestration,2,True,False,91.0
+CAND-010,Production Readiness & Final Testing,0,False,False,22.4
+CAND-019,Prompt Engineering Fundamentals,0,False,False,5.0
+CAND-019,Prompt Engineering Fundamentals,0,False,False,1.9
+CAND-006,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,16.9
+CAND-020,Multi-Agent Orchestration,1,True,False,100
+CAND-019,Reading & Processing Structured Data,1,True,False,96.7
+CAND-008,"Security, Privacy & Guardrails",1,True,False,100
+CAND-005,The Retrieval & Matching Engine,0,False,False,16.7
+CAND-015,Agentic Chatbot Integration,0,False,False,12.6
+CAND-015,Fine-Tuning: Hands-On with LoRA & QLoRA,1,False,True,0
+CAND-014,Reading & Processing Structured Data,0,False,False,29.8
+CAND-013,"Monitoring, Logging & Observability",0,False,False,5.0
+CAND-017,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,28.1
+CAND-003,Capstone Project & Final Demo,1,True,False,98.4
+CAND-007,"Security, Privacy & Guardrails",1,False,True,0.4
+CAND-010,"First AI Project, React Frontend & GitHub",0,False,False,19.4
+CAND-019,Multi-Agent Orchestration,3,True,False,90.0
+CAND-016,Conversation Memory & Context Management,0,False,False,6.5
+CAND-015,Prompt Engineering Fundamentals,0,False,False,8.7
+CAND-007,"First AI Project, React Frontend & GitHub",1,True,False,100
+CAND-017,Building the Knowledge Base,0,False,False,15.3
+CAND-014,The Retrieval & Matching Engine,0,False,False,4.8
+CAND-019,Agentic Chatbot Integration,0,False,False,6.1
+CAND-020,Production Readiness & Final Testing,0,False,False,20.5
+CAND-015,Chatbot Evaluation & Testing,0,False,False,0.3
+CAND-013,"Security, Privacy & Guardrails",1,True,False,94.9
+CAND-013,The Retrieval & Matching Engine,0,False,False,15.3
+CAND-001,Full-Stack Integration & Streaming Responses,0,False,False,3.7
+CAND-010,Conversation Memory & Context Management,0,False,False,2.4
+CAND-011,Building the Knowledge Base,0,False,False,6.7
+CAND-004,Reading & Processing Unstructured Data,0,False,False,24.4
+CAND-017,Chatbot Backend & API Integration,4,True,False,97.7
+CAND-002,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,13.1
+CAND-015,Fine-Tuning: Hands-On with LoRA & QLoRA,1,False,True,0
+CAND-015,Full-Stack Integration & Streaming Responses,0,False,False,2.1
+CAND-005,Chatbot Evaluation & Testing,0,False,False,23.5
+CAND-018,Conversation Memory & Context Management,0,False,False,18.2
+CAND-002,Production Readiness & Final Testing,0,False,False,6.8
+CAND-005,Response Formatting & Rich Outputs,0,False,False,29.1
+CAND-015,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,24.1
+CAND-009,Reading & Processing Structured Data,0,False,False,10.7
+CAND-020,"Security, Privacy & Guardrails",1,True,False,74.4
+CAND-006,The Retrieval & Matching Engine,0,False,False,20.4
+CAND-001,Building & Populating the Vector Database,0,False,False,12.5
+CAND-013,Chatbot Frontend Development,0,False,False,14.7
+CAND-016,Building the Knowledge Base,0,False,False,17.8
+CAND-006,RAG End-to-End & LLM API Basics,0,False,False,22.8
+CAND-016,Agentic Chatbot Integration,0,False,False,27.9
+CAND-013,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,10.2
+CAND-015,Reading & Processing Unstructured Data,0,False,False,5.7
+CAND-013,Prompt Engineering Fundamentals,3,True,False,98.1
+CAND-019,"Monitoring, Logging & Observability",0,False,False,12.4
+CAND-009,Chatbot Evaluation & Testing,0,False,False,10.9
+CAND-010,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,6.9
+CAND-012,"Security, Privacy & Guardrails",0,False,False,5.3
+CAND-015,Performance Optimization & Cost Management,0,False,False,9.0
+CAND-010,Agentic Chatbot Integration,0,False,False,24.3
+CAND-017,Conversation Memory & Context Management,0,False,False,4.4
+CAND-011,Embeddings Explained,1,False,True,24.1
+CAND-014,Model Context Protocol (MCP),0,False,False,25.3
+CAND-020,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,29.0
+CAND-004,"Monitoring, Logging & Observability",0,False,False,15.6
+CAND-004,"Security, Privacy & Guardrails",0,False,False,27.8
+CAND-004,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,22.1
+CAND-016,Capstone Project & Final Demo,2,True,False,100
+CAND-008,Docker & Kubernetes Deployment,1,True,False,99.8
+CAND-008,Conversation Memory & Context Management,0,False,False,25.9
+CAND-003,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,13.8
+CAND-010,Performance Optimization & Cost Management,0,False,False,12.6
+CAND-002,Model Context Protocol (MCP),0,False,False,11.0
+CAND-014,"Security, Privacy & Guardrails",1,False,True,0
+CAND-018,"First AI Project, React Frontend & GitHub",0,False,False,29.1
+CAND-018,Building & Populating the Vector Database,0,False,False,15.1
+CAND-007,Reading & Processing Unstructured Data,0,False,False,25.8
+CAND-008,RAG End-to-End & LLM API Basics,0,False,False,13.0
+CAND-002,Vector Databases Overview,2,True,False,100
+CAND-016,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,15.3
+CAND-014,Reading & Processing Structured Data,0,False,False,7.5
+CAND-010,Performance Optimization & Cost Management,0,False,False,22.4
+CAND-012,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,6.1
+CAND-008,Production Readiness & Final Testing,0,False,False,6.2
+CAND-018,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,4.5
+CAND-010,Multi-Agent Orchestration,3,False,False,5.5
+CAND-012,Embeddings Explained,4,True,False,88.2
+CAND-009,"Security, Privacy & Guardrails",1,True,False,100
+CAND-011,Chatbot Frontend Development,0,False,False,1.6
+CAND-003,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,25.9
+CAND-011,Performance Optimization & Cost Management,0,False,False,14.1
+CAND-017,Model Context Protocol (MCP),0,False,False,4.0
+CAND-007,Conversation Memory & Context Management,0,False,False,16.3
+CAND-007,Docker & Kubernetes Deployment,1,False,True,7.2
+CAND-006,RAG End-to-End & LLM API Basics,0,False,False,29.9
+CAND-005,Chatbot Frontend Development,0,False,False,2.7
+CAND-004,Agentic Chatbot Integration,0,False,False,15.8
+CAND-013,"Security, Privacy & Guardrails",1,True,False,100
+CAND-006,Chatbot Evaluation & Testing,0,False,False,27.9
+CAND-017,Model Context Protocol (MCP),0,False,False,11.3
+CAND-015,Performance Optimization & Cost Management,0,False,False,7.5
+CAND-014,Performance Optimization & Cost Management,0,False,False,24.2
+CAND-007,Model Context Protocol (MCP),0,False,False,14.1
+CAND-007,Agentic Chatbot Integration,0,False,False,16.7
+CAND-009,Full-Stack Integration & Streaming Responses,0,False,False,16.8
+CAND-015,"Security, Privacy & Guardrails",1,True,False,100
+CAND-006,Chatbot Backend & API Integration,4,True,False,100
+CAND-017,Building the Knowledge Base,0,False,False,17.1
+CAND-007,Building the Knowledge Base,0,False,False,23.9
+CAND-005,Vector Databases Overview,2,True,False,100
+CAND-019,RAG End-to-End & LLM API Basics,0,False,False,2.7
+CAND-006,Chatbot Evaluation & Testing,0,False,False,6.7
+CAND-017,"Security, Privacy & Guardrails",0,False,False,20.9
+CAND-013,Vector Databases Overview,2,True,False,100
+CAND-012,The Retrieval & Matching Engine,0,False,False,20.6
+CAND-009,Production Readiness & Final Testing,0,False,False,22.0
+CAND-017,Fine-Tuning: Concepts & When to Use It,0,False,False,8.2
+CAND-012,RAG End-to-End & LLM API Basics,0,False,False,1.9
+CAND-018,Multi-Agent Orchestration,1,True,False,96.5
+CAND-006,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,16.2
+CAND-017,Capstone Project & Final Demo,3,True,False,94.3
+CAND-008,Reading & Processing Unstructured Data,1,True,False,100
+CAND-009,"Security, Privacy & Guardrails",1,True,False,100
+CAND-001,Reading & Processing Structured Data,0,False,False,26.7
+CAND-012,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,6.7
+CAND-007,Capstone Project & Final Demo,2,True,False,87.6
+CAND-006,Response Formatting & Rich Outputs,0,False,False,4.5
+CAND-016,Building & Populating the Vector Database,0,False,False,9.8
+CAND-010,Production Readiness & Final Testing,0,False,False,18.4
+CAND-010,Chatbot Frontend Development,0,False,False,17.4
+CAND-018,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,10.8
+CAND-004,Chatbot Backend & API Integration,2,True,False,85.3
+CAND-017,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,21.4
+CAND-005,Reading & Processing Unstructured Data,0,False,False,5.8
+CAND-012,Reading & Processing Structured Data,0,False,False,15.7
+CAND-006,Production Readiness & Final Testing,0,False,False,16.2
+CAND-018,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,11.6
+CAND-007,Prompt Engineering Fundamentals,1,True,False,100
+CAND-015,Fine-Tuning: Hands-On with LoRA & QLoRA,1,False,True,0.5
+CAND-002,Agentic Chatbot Integration,0,False,False,20.4
+CAND-018,Vector Databases Overview,1,True,False,100
+CAND-007,"First AI Project, React Frontend & GitHub",1,True,False,100
+CAND-019,Vector Databases Overview,3,True,False,97.8
+CAND-012,Conversation Memory & Context Management,0,False,False,13.2
+CAND-017,Multi-Agent Orchestration,5,True,False,100
+CAND-010,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,14.0
+CAND-007,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,6.3
+CAND-013,Building & Populating the Vector Database,0,False,False,7.3
+CAND-018,Prompt Engineering Fundamentals,1,True,False,84.0
+CAND-013,Reading & Processing Structured Data,2,True,False,91.7
+CAND-004,Full-Stack Integration & Streaming Responses,0,False,False,4.7
+CAND-013,Capstone Project & Final Demo,1,True,False,99.0
+CAND-005,Response Formatting & Rich Outputs,0,False,False,23.1
+CAND-008,Building & Populating the Vector Database,0,False,False,21.0
+CAND-013,Prompt Engineering Fundamentals,3,True,False,83.6
+CAND-020,Reading & Processing Structured Data,1,False,True,0
+CAND-017,"Monitoring, Logging & Observability",0,False,False,24.3
+CAND-016,Prompt Engineering Fundamentals,5,False,False,16.6
+CAND-019,Reading & Processing Unstructured Data,0,False,False,19.0
+CAND-014,Docker & Kubernetes Deployment,1,False,True,0.2
+CAND-008,RAG End-to-End & LLM API Basics,0,False,False,25.6
+CAND-008,Production Readiness & Final Testing,0,False,False,29.9
+CAND-002,The Retrieval & Matching Engine,0,False,False,28.3
+CAND-002,Chatbot Evaluation & Testing,0,False,False,28.5
+CAND-004,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,12.4
+CAND-013,Chatbot Backend & API Integration,2,True,False,100
+CAND-006,"Security, Privacy & Guardrails",1,False,True,0
+CAND-005,Response Formatting & Rich Outputs,0,False,False,8.2
+CAND-011,Prompt Engineering Fundamentals,1,False,True,0
+CAND-003,Prompt Engineering Fundamentals,1,True,False,96.2
+CAND-001,Conversation Memory & Context Management,0,False,False,19.1
+CAND-015,Multi-Agent Orchestration,1,True,False,96.8
+CAND-013,Embeddings Explained,3,True,False,100
+CAND-006,Capstone Project & Final Demo,3,True,False,100
+CAND-019,Fine-Tuning: Concepts & When to Use It,0,False,False,2.3
+CAND-004,Model Context Protocol (MCP),5,True,False,88.9
+CAND-001,Response Formatting & Rich Outputs,0,False,False,9.4
+CAND-014,Reading & Processing Unstructured Data,0,False,False,1.1
+CAND-014,Performance Optimization & Cost Management,0,False,False,1.3
+CAND-002,Vector Databases Overview,2,True,False,100
+CAND-013,Capstone Project & Final Demo,1,True,False,100
+CAND-001,Prompt Engineering Fundamentals,4,True,False,100
+CAND-014,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,0.5
+CAND-004,Chatbot Frontend Development,0,False,False,7.9
+CAND-011,Building & Populating the Vector Database,0,False,False,15.3
+CAND-020,Building the Knowledge Base,0,False,False,27.3
+CAND-013,Capstone Project & Final Demo,1,True,False,100
+CAND-005,Capstone Project & Final Demo,1,True,False,89.8
+CAND-010,RAG End-to-End & LLM API Basics,0,False,False,2.2
+CAND-001,Chatbot Backend & API Integration,1,True,False,91.9
+CAND-013,Model Context Protocol (MCP),0,False,False,14.7
+CAND-018,Prompt Engineering Fundamentals,1,True,False,87.4
+CAND-011,Full-Stack Integration & Streaming Responses,0,False,False,26.2
+CAND-008,Production Readiness & Final Testing,0,False,False,24.8
+CAND-003,Chatbot Backend & API Integration,0,False,False,10.5
+CAND-006,Agentic Chatbot Integration,0,False,False,8.2
+CAND-007,"Security, Privacy & Guardrails",1,False,True,0
+CAND-017,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,5.9
+CAND-009,Performance Optimization & Cost Management,0,False,False,7.6
+CAND-001,Chatbot Frontend Development,0,False,False,2.3
+CAND-003,Model Context Protocol (MCP),1,True,False,100
+CAND-001,Agentic Chatbot Integration,0,False,False,13.9
+CAND-006,Multi-Agent Orchestration,5,True,False,100
+CAND-017,Fine-Tuning: Concepts & When to Use It,0,False,False,0.7
+CAND-008,Agentic Chatbot Integration,0,False,False,19.8
+CAND-012,Model Context Protocol (MCP),0,False,False,27.9
+CAND-001,"Monitoring, Logging & Observability",1,False,True,0
+CAND-014,Chatbot Backend & API Integration,4,True,False,96.8
+CAND-015,Building the Knowledge Base,0,False,False,7.6
+CAND-011,The Retrieval & Matching Engine,0,False,False,27.9
+CAND-007,"Security, Privacy & Guardrails",1,False,True,1.5
+CAND-004,Full-Stack Integration & Streaming Responses,0,False,False,22.9
+CAND-009,Chatbot Frontend Development,0,False,False,17.2
+CAND-011,Fine-Tuning: Concepts & When to Use It,0,False,False,7.7
+CAND-003,Vector Databases Overview,1,True,False,91.6
+CAND-019,Docker & Kubernetes Deployment,1,True,False,100
+CAND-018,Chatbot Evaluation & Testing,0,False,False,5.0
+CAND-019,Vector Databases Overview,3,True,False,83.9
+CAND-006,"First AI Project, React Frontend & GitHub",0,False,False,24.6
+CAND-006,Response Formatting & Rich Outputs,0,False,False,28.7
+CAND-018,Reading & Processing Unstructured Data,0,False,False,10.7
+CAND-006,Reading & Processing Structured Data,0,False,False,15.3
+CAND-012,Embeddings Explained,4,True,False,100
+CAND-004,Production Readiness & Final Testing,0,False,False,13.2
+CAND-013,Conversation Memory & Context Management,0,False,False,0.1
+CAND-006,Chatbot Backend & API Integration,4,True,False,100
+CAND-020,Chatbot Backend & API Integration,1,True,False,100
+CAND-006,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,28.9
+CAND-011,"Security, Privacy & Guardrails",0,False,False,1.7
+CAND-008,Chatbot Evaluation & Testing,0,False,False,4.1
+CAND-020,Reading & Processing Unstructured Data,0,False,False,7.0
+CAND-020,Prompt Engineering Fundamentals,1,True,False,98.1
+CAND-008,Reading & Processing Structured Data,1,True,False,96.4
+CAND-008,"Monitoring, Logging & Observability",0,False,False,28.9
+CAND-006,Fine-Tuning: Concepts & When to Use It,0,False,False,1.4
+CAND-006,Full-Stack Integration & Streaming Responses,0,False,False,7.5
+CAND-013,"Monitoring, Logging & Observability",0,False,False,4.6
+CAND-008,Conversation Memory & Context Management,0,False,False,6.9
+CAND-010,Prompt Engineering Fundamentals,5,True,False,98.2
+CAND-002,"Security, Privacy & Guardrails",0,False,False,27.4
+CAND-008,Full-Stack Integration & Streaming Responses,0,False,False,19.3
+CAND-012,RAG End-to-End & LLM API Basics,0,False,False,6.3
+CAND-019,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,8.0
+CAND-018,"Security, Privacy & Guardrails",1,True,False,100
+CAND-012,Performance Optimization & Cost Management,0,False,False,15.7
+CAND-007,The Retrieval & Matching Engine,0,False,False,29.6
+CAND-017,Chatbot Backend & API Integration,4,True,False,77.9
+CAND-009,"Monitoring, Logging & Observability",0,False,False,2.9
+CAND-018,Chatbot Backend & API Integration,0,False,False,19.7
+CAND-005,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,19.5
+CAND-017,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,24.4
+CAND-011,Reading & Processing Structured Data,2,True,False,100
+CAND-009,Agentic Chatbot Integration,0,False,False,15.3
+CAND-016,Agentic Chatbot Integration,0,False,False,3.2
+CAND-019,"First AI Project, React Frontend & GitHub",0,False,False,25.1
+CAND-004,Conversation Memory & Context Management,3,True,False,85.8
+CAND-005,Building & Populating the Vector Database,0,False,False,14.0
+CAND-006,Building the Knowledge Base,0,False,False,1.8
+CAND-002,Full-Stack Integration & Streaming Responses,0,False,False,7.6
+CAND-009,Full-Stack Integration & Streaming Responses,0,False,False,17.2
+CAND-008,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,3.2
+CAND-003,Full-Stack Integration & Streaming Responses,0,False,False,3.7
+CAND-009,Production Readiness & Final Testing,0,False,False,21.4
+CAND-001,Building & Populating the Vector Database,0,False,False,21.3
+CAND-012,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,15.8
+CAND-017,Chatbot Evaluation & Testing,0,False,False,8.3
+CAND-017,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,9.9
+CAND-016,"Security, Privacy & Guardrails",1,False,True,0
+CAND-007,Full-Stack Integration & Streaming Responses,0,False,False,8.8
+CAND-009,Multi-Agent Orchestration,1,True,False,95.7
+CAND-013,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,11.3
+CAND-001,Chatbot Frontend Development,0,False,False,4.1
+CAND-013,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,21.9
+CAND-010,Production Readiness & Final Testing,0,False,False,26.4
+CAND-016,RAG End-to-End & LLM API Basics,0,False,False,3.1
+CAND-001,Conversation Memory & Context Management,0,False,False,3.2
+CAND-001,Building & Populating the Vector Database,0,False,False,13.1
+CAND-020,Building & Populating the Vector Database,0,False,False,15.0
+CAND-005,Fine-Tuning: Concepts & When to Use It,0,False,False,25.2
+CAND-005,Docker & Kubernetes Deployment,1,True,False,100
+CAND-018,Agentic Chatbot Integration,0,False,False,28.3
+CAND-010,"First AI Project, React Frontend & GitHub",0,False,False,9.2
+CAND-019,The Retrieval & Matching Engine,0,False,False,23.2
+CAND-004,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,0.5
+CAND-013,Multi-Agent Orchestration,2,True,False,84.0
+CAND-011,Full-Stack Integration & Streaming Responses,0,False,False,29.2
+CAND-012,Embeddings Explained,4,True,False,100
+CAND-014,Chatbot Backend & API Integration,4,True,False,100
+CAND-018,Prompt Engineering Fundamentals,1,True,False,86.4
+CAND-018,Reading & Processing Structured Data,0,False,False,6.5
+CAND-004,Chatbot Backend & API Integration,2,True,False,100
+CAND-007,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,14.1
+CAND-003,Chatbot Frontend Development,0,False,False,9.5
+CAND-009,"Monitoring, Logging & Observability",0,False,False,19.4
+CAND-003,The Retrieval & Matching Engine,0,False,False,10.1
+CAND-016,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,26.6
+CAND-006,Multi-Agent Orchestration,5,True,False,93.4
+CAND-017,The Retrieval & Matching Engine,0,False,False,22.7
+CAND-008,"First AI Project, React Frontend & GitHub",0,False,False,6.3
+CAND-020,"Security, Privacy & Guardrails",1,True,False,100
+CAND-012,The Retrieval & Matching Engine,0,False,False,18.0
+CAND-005,Performance Optimization & Cost Management,0,False,False,20.9
+CAND-013,Reading & Processing Structured Data,2,True,False,100
+CAND-017,Model Context Protocol (MCP),0,False,False,16.1
+CAND-012,Building & Populating the Vector Database,4,True,False,93.6
+CAND-006,Multi-Agent Orchestration,5,True,False,100
+CAND-018,"Monitoring, Logging & Observability",0,False,False,14.0
+CAND-008,Prompt Engineering Fundamentals,0,False,False,21.1
+CAND-001,Reading & Processing Unstructured Data,0,False,False,2.5
+CAND-020,Docker & Kubernetes Deployment,0,False,False,18.1
+CAND-010,Chatbot Frontend Development,0,False,False,29.3
+CAND-009,Performance Optimization & Cost Management,0,False,False,14.7
+CAND-015,Production Readiness & Final Testing,0,False,False,13.9
+CAND-009,"Security, Privacy & Guardrails",1,True,False,100
+CAND-019,Multi-Agent Orchestration,3,True,False,98.1
+CAND-002,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,29.5
+CAND-015,Conversation Memory & Context Management,0,False,False,2.0
+CAND-010,Fine-Tuning: Concepts & When to Use It,0,False,False,24.7
+CAND-013,Production Readiness & Final Testing,0,False,False,10.1
+CAND-016,Chatbot Frontend Development,0,False,False,7.0
+CAND-013,Building the Knowledge Base,0,False,False,23.4
+CAND-002,Agentic Chatbot Integration,0,False,False,6.0
+CAND-009,"First AI Project, React Frontend & GitHub",0,False,False,10.3
+CAND-007,Capstone Project & Final Demo,2,True,False,100
+CAND-013,Conversation Memory & Context Management,0,False,False,27.1
+CAND-019,Building the Knowledge Base,0,False,False,27.7
+CAND-017,Production Readiness & Final Testing,0,False,False,22.4
+CAND-010,Docker & Kubernetes Deployment,1,False,True,0
+CAND-004,Chatbot Evaluation & Testing,0,False,False,20.2
+CAND-011,Chatbot Backend & API Integration,1,False,True,0
+CAND-020,Model Context Protocol (MCP),0,False,False,8.3
+CAND-007,Reading & Processing Structured Data,0,False,False,14.2
+CAND-006,Docker & Kubernetes Deployment,1,False,True,4.7
+CAND-004,Capstone Project & Final Demo,2,True,False,100
+CAND-017,Agentic Chatbot Integration,0,False,False,23.8
+CAND-015,Agentic Chatbot Integration,0,False,False,13.6
+CAND-003,Agentic Chatbot Integration,0,False,False,21.6
+CAND-019,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,3.0
+CAND-011,Response Formatting & Rich Outputs,0,False,False,13.9
+CAND-008,Chatbot Backend & API Integration,0,False,False,7.4
+CAND-003,Building the Knowledge Base,0,False,False,1.0
+CAND-018,Production Readiness & Final Testing,0,False,False,10.0
+CAND-018,Chatbot Evaluation & Testing,0,False,False,12.6
+CAND-004,Embeddings Explained,4,True,False,100
+CAND-013,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,24.3
+CAND-006,Conversation Memory & Context Management,0,False,False,25.0
+CAND-018,Embeddings Explained,1,True,False,96.9
+CAND-019,"Monitoring, Logging & Observability",0,False,False,3.5
+CAND-016,"Security, Privacy & Guardrails",1,False,True,0
+CAND-018,Multi-Agent Orchestration,1,True,False,87.5
+CAND-018,Response Formatting & Rich Outputs,0,False,False,11.0
+CAND-006,RAG End-to-End & LLM API Basics,0,False,False,17.3
+CAND-019,Reading & Processing Unstructured Data,0,False,False,18.7
+CAND-013,"First AI Project, React Frontend & GitHub",0,False,False,19.1
+CAND-010,Building the Knowledge Base,0,False,False,21.6
+CAND-012,Agentic Chatbot Integration,0,False,False,30.0
+CAND-011,Capstone Project & Final Demo,4,True,False,100
+CAND-012,Building & Populating the Vector Database,4,True,False,100
+CAND-015,Chatbot Evaluation & Testing,0,False,False,6.8
+CAND-009,Building & Populating the Vector Database,0,False,False,13.7
+CAND-014,Building & Populating the Vector Database,0,False,False,3.7
+CAND-011,Fine-Tuning: Concepts & When to Use It,0,False,False,17.0
+CAND-016,"First AI Project, React Frontend & GitHub",0,False,False,14.8
+CAND-004,Chatbot Backend & API Integration,2,True,False,95.5
+CAND-020,"Monitoring, Logging & Observability",0,False,False,7.7
+CAND-018,Chatbot Evaluation & Testing,0,False,False,27.7
+CAND-004,RAG End-to-End & LLM API Basics,0,False,False,22.5
+CAND-001,"First AI Project, React Frontend & GitHub",0,False,False,1.8
+CAND-009,Reading & Processing Structured Data,0,False,False,23.5
+CAND-012,Chatbot Backend & API Integration,1,True,False,95.3
+CAND-002,Embeddings Explained,3,True,False,100
+CAND-008,"Security, Privacy & Guardrails",1,True,False,95.6
+CAND-004,Reading & Processing Structured Data,0,False,False,21.8
+CAND-010,"Security, Privacy & Guardrails",1,False,True,0
+CAND-002,Chatbot Frontend Development,0,False,False,23.1
+CAND-020,Full-Stack Integration & Streaming Responses,0,False,False,4.8
+CAND-014,Response Formatting & Rich Outputs,0,False,False,22.2
+CAND-006,Performance Optimization & Cost Management,0,False,False,16.9
+CAND-011,Performance Optimization & Cost Management,0,False,False,23.8
+CAND-005,Chatbot Frontend Development,0,False,False,27.7
+CAND-009,RAG End-to-End & LLM API Basics,0,False,False,29.8
+CAND-016,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,24.7
+CAND-020,Embeddings Explained,2,False,False,21.0
+CAND-012,Building the Knowledge Base,0,False,False,23.9
+CAND-020,Full-Stack Integration & Streaming Responses,0,False,False,20.7
+CAND-014,Chatbot Backend & API Integration,4,True,False,97.5
+CAND-011,RAG End-to-End & LLM API Basics,0,False,False,13.4
+CAND-012,Response Formatting & Rich Outputs,0,False,False,27.0
+CAND-015,"Monitoring, Logging & Observability",0,False,False,16.8
+CAND-008,Agentic Chatbot Integration,0,False,False,14.5
+CAND-003,Reading & Processing Structured Data,0,False,False,25.2
+CAND-011,Building & Populating the Vector Database,0,False,False,29.2
+CAND-005,Fine-Tuning: Concepts & When to Use It,0,False,False,19.4
+CAND-019,Reading & Processing Structured Data,1,True,False,96.4
+CAND-014,Chatbot Evaluation & Testing,0,False,False,24.2
+CAND-015,Building the Knowledge Base,0,False,False,16.7
+CAND-007,Chatbot Evaluation & Testing,0,False,False,12.0
+CAND-004,Full-Stack Integration & Streaming Responses,0,False,False,8.7
+CAND-008,Chatbot Evaluation & Testing,0,False,False,0.6
+CAND-002,Vector Databases Overview,2,True,False,93.5
+CAND-012,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,28.6
+CAND-002,Reading & Processing Structured Data,0,False,False,8.8
+CAND-007,Capstone Project & Final Demo,2,True,False,100
+CAND-004,Chatbot Backend & API Integration,2,True,False,98.2
+CAND-013,Production Readiness & Final Testing,0,False,False,14.8
+CAND-012,Embeddings Explained,4,True,False,93.5
+CAND-016,"Security, Privacy & Guardrails",1,False,True,13.2
+CAND-001,Chatbot Frontend Development,0,False,False,3.3
+CAND-005,Capstone Project & Final Demo,1,True,False,100
+CAND-015,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,29.8
+CAND-015,Building the Knowledge Base,0,False,False,13.2
+CAND-007,Performance Optimization & Cost Management,0,False,False,28.7
+CAND-001,Chatbot Backend & API Integration,1,True,False,94.0
+CAND-010,Vector Databases Overview,4,False,False,0
+CAND-015,Vector Databases Overview,1,True,False,100
+CAND-019,Performance Optimization & Cost Management,0,False,False,18.2
+CAND-001,Chatbot Evaluation & Testing,0,False,False,8.8
+CAND-017,Conversation Memory & Context Management,0,False,False,18.9
+CAND-016,Performance Optimization & Cost Management,0,False,False,12.2
+CAND-013,Embeddings Explained,3,True,False,93.2
+CAND-006,Production Readiness & Final Testing,0,False,False,26.5
+CAND-002,Embeddings Explained,3,True,False,100
+CAND-012,Prompt Engineering Fundamentals,0,False,False,7.4
+CAND-003,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,19.2
+CAND-008,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,2.0
+CAND-017,Prompt Engineering Fundamentals,5,True,False,80.3
+CAND-014,RAG End-to-End & LLM API Basics,0,False,False,26.6
+CAND-005,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,12.6
+CAND-010,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,24.2
+CAND-017,Vector Databases Overview,5,True,False,100
+CAND-002,Agentic Chatbot Integration,0,False,False,6.1
+CAND-020,"First AI Project, React Frontend & GitHub",1,True,False,87.9
+CAND-013,Chatbot Evaluation & Testing,0,False,False,27.2
+CAND-011,Chatbot Evaluation & Testing,0,False,False,23.9
+CAND-012,Reading & Processing Structured Data,0,False,False,19.9
+CAND-006,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,27.3
+CAND-008,RAG End-to-End & LLM API Basics,0,False,False,0.9
+CAND-020,Production Readiness & Final Testing,0,False,False,29.7
+CAND-008,Reading & Processing Unstructured Data,1,True,False,100
+CAND-005,Embeddings Explained,2,True,False,100
+CAND-002,"Monitoring, Logging & Observability",0,False,False,24.4
+CAND-014,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,13.2
+CAND-013,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,8.6
+CAND-001,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,7.0
+CAND-006,RAG End-to-End & LLM API Basics,0,False,False,4.7
+CAND-004,Chatbot Evaluation & Testing,0,False,False,25.9
+CAND-019,RAG End-to-End & LLM API Basics,0,False,False,6.6
+CAND-008,Chatbot Evaluation & Testing,0,False,False,5.0
+CAND-017,Performance Optimization & Cost Management,0,False,False,13.0
+CAND-003,Chatbot Frontend Development,0,False,False,16.5
+CAND-001,Fine-Tuning: Concepts & When to Use It,0,False,False,16.6
+CAND-003,The Retrieval & Matching Engine,0,False,False,29.3
+CAND-017,Reading & Processing Structured Data,0,False,False,28.6
+CAND-015,The Retrieval & Matching Engine,0,False,False,5.6
+CAND-008,Fine-Tuning: Hands-On with LoRA & QLoRA,1,False,True,0
+CAND-015,Production Readiness & Final Testing,0,False,False,16.7
+CAND-018,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,8.9
+CAND-011,"Monitoring, Logging & Observability",0,False,False,11.2
+CAND-014,Building the Knowledge Base,0,False,False,9.5
+CAND-001,Chatbot Frontend Development,0,False,False,0.3
+CAND-012,Agentic Chatbot Integration,0,False,False,11.0
+CAND-016,"First AI Project, React Frontend & GitHub",0,False,False,10.9
+CAND-006,Multi-Agent Orchestration,5,True,False,95.9
+CAND-012,Reading & Processing Structured Data,0,False,False,16.9
+CAND-018,Full-Stack Integration & Streaming Responses,0,False,False,26.7
+CAND-009,Prompt Engineering Fundamentals,1,True,False,100
+CAND-003,Embeddings Explained,1,True,False,100
+CAND-007,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,27.9
+CAND-019,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,25.1
+CAND-018,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,13.0
+CAND-006,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,16.8
+CAND-020,Embeddings Explained,2,False,False,5.8
+CAND-013,The Retrieval & Matching Engine,0,False,False,9.4
+CAND-001,Reading & Processing Structured Data,0,False,False,11.5
+CAND-006,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,20.0
+CAND-003,Fine-Tuning: Concepts & When to Use It,0,False,False,2.6
+CAND-019,Production Readiness & Final Testing,0,False,False,22.7
+CAND-012,Reading & Processing Unstructured Data,0,False,False,26.0
+CAND-007,Full-Stack Integration & Streaming Responses,0,False,False,26.3
+CAND-009,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,10.0
+CAND-003,"Monitoring, Logging & Observability",0,False,False,29.4
+CAND-015,Docker & Kubernetes Deployment,0,False,False,5.9
+CAND-009,Docker & Kubernetes Deployment,0,False,False,26.0
+CAND-017,Model Context Protocol (MCP),0,False,False,0.6
+CAND-003,Multi-Agent Orchestration,1,True,False,100
+CAND-016,Chatbot Backend & API Integration,2,True,False,84.4
+CAND-006,Building the Knowledge Base,0,False,False,5.9
+CAND-009,Chatbot Backend & API Integration,0,False,False,22.9
+CAND-013,RAG End-to-End & LLM API Basics,0,False,False,20.5
+CAND-003,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,4.5
+CAND-014,"Security, Privacy & Guardrails",1,False,True,16.2
+CAND-011,The Retrieval & Matching Engine,0,False,False,4.5
+CAND-005,Embeddings Explained,2,True,False,100
+CAND-009,Capstone Project & Final Demo,1,True,False,91.0
+CAND-015,Reading & Processing Structured Data,0,False,False,22.2
+CAND-017,Building the Knowledge Base,0,False,False,29.4
+CAND-001,Building the Knowledge Base,0,False,False,8.1
+CAND-004,Vector Databases Overview,5,True,False,86.7
+CAND-019,Performance Optimization & Cost Management,0,False,False,13.3
+CAND-020,Conversation Memory & Context Management,0,False,False,16.1
+CAND-002,"Security, Privacy & Guardrails",0,False,False,25.2
+CAND-020,Capstone Project & Final Demo,1,True,False,98.1
+CAND-009,The Retrieval & Matching Engine,0,False,False,13.4
+CAND-010,Conversation Memory & Context Management,0,False,False,20.0
+CAND-004,Docker & Kubernetes Deployment,1,False,True,9.2
+CAND-005,Capstone Project & Final Demo,1,True,False,98.7
+CAND-013,Response Formatting & Rich Outputs,0,False,False,3.3
+CAND-020,The Retrieval & Matching Engine,0,False,False,0.2
+CAND-001,Response Formatting & Rich Outputs,0,False,False,25.6
+CAND-011,Response Formatting & Rich Outputs,0,False,False,16.3
+CAND-019,Multi-Agent Orchestration,3,True,False,100
+CAND-001,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,25.6
+CAND-017,Reading & Processing Structured Data,0,False,False,16.4
+CAND-009,"First AI Project, React Frontend & GitHub",0,False,False,5.8
+CAND-010,Chatbot Evaluation & Testing,0,False,False,25.2
+CAND-011,Reading & Processing Structured Data,2,True,False,85.5
+CAND-018,"Monitoring, Logging & Observability",0,False,False,22.2
+CAND-002,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,11.3
+CAND-008,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,28.7
+CAND-017,Performance Optimization & Cost Management,0,False,False,24.7
+CAND-014,Docker & Kubernetes Deployment,1,False,True,0
+CAND-019,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,1.1
+CAND-006,Building the Knowledge Base,0,False,False,23.3
+CAND-003,Building the Knowledge Base,0,False,False,12.3
+CAND-014,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,9.1
+CAND-001,Capstone Project & Final Demo,1,True,False,87.5
+CAND-005,Model Context Protocol (MCP),3,True,False,100
+CAND-003,Vector Databases Overview,1,True,False,100
+CAND-010,Capstone Project & Final Demo,3,True,False,95.8
+CAND-014,Chatbot Frontend Development,0,False,False,24.9
+CAND-009,Embeddings Explained,1,True,False,74.0
+CAND-017,Building the Knowledge Base,0,False,False,4.5
+CAND-012,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,15.7
+CAND-007,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,23.3
+CAND-002,Chatbot Frontend Development,0,False,False,24.5
+CAND-009,Multi-Agent Orchestration,1,True,False,100
+CAND-017,"Monitoring, Logging & Observability",0,False,False,16.8
+CAND-009,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,27.0
+CAND-011,Multi-Agent Orchestration,1,False,True,4.4
+CAND-003,Production Readiness & Final Testing,0,False,False,5.2
+CAND-001,Production Readiness & Final Testing,0,False,False,17.4
+CAND-001,The Retrieval & Matching Engine,0,False,False,6.7
+CAND-009,Performance Optimization & Cost Management,0,False,False,13.0
+CAND-014,Agentic Chatbot Integration,0,False,False,10.6
+CAND-004,"Security, Privacy & Guardrails",0,False,False,12.6
+CAND-012,Full-Stack Integration & Streaming Responses,0,False,False,25.5
+CAND-017,Model Context Protocol (MCP),0,False,False,2.9
+CAND-001,Prompt Engineering Fundamentals,4,True,False,100
+CAND-019,Multi-Agent Orchestration,3,True,False,100
+CAND-012,Production Readiness & Final Testing,1,True,False,89.3
+CAND-002,Prompt Engineering Fundamentals,5,True,False,100
+CAND-008,Response Formatting & Rich Outputs,0,False,False,17.1
+CAND-013,Prompt Engineering Fundamentals,3,True,False,100
+CAND-004,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,8.1
+CAND-002,Response Formatting & Rich Outputs,0,False,False,11.6
+CAND-019,Capstone Project & Final Demo,2,True,False,82.2
+CAND-011,Building & Populating the Vector Database,0,False,False,23.8
+CAND-005,"Security, Privacy & Guardrails",0,False,False,3.8
+CAND-008,"First AI Project, React Frontend & GitHub",0,False,False,14.2
+CAND-005,RAG End-to-End & LLM API Basics,0,False,False,26.8
+CAND-018,Full-Stack Integration & Streaming Responses,0,False,False,11.6
+CAND-004,Vector Databases Overview,5,True,False,100
+CAND-014,Building the Knowledge Base,0,False,False,26.8
+CAND-019,Fine-Tuning: Concepts & When to Use It,0,False,False,24.4
+CAND-012,Full-Stack Integration & Streaming Responses,0,False,False,7.5
+CAND-018,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,3.6
+CAND-001,Chatbot Evaluation & Testing,0,False,False,9.7
+CAND-017,Building & Populating the Vector Database,0,False,False,17.3
+CAND-010,Capstone Project & Final Demo,3,True,False,95.0
+CAND-002,Response Formatting & Rich Outputs,0,False,False,6.6
+CAND-009,Model Context Protocol (MCP),1,True,False,99.2
+CAND-009,"Monitoring, Logging & Observability",0,False,False,4.2
+CAND-016,Response Formatting & Rich Outputs,0,False,False,15.9
+CAND-019,Conversation Memory & Context Management,0,False,False,27.8
+CAND-004,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,5.2
+CAND-014,Multi-Agent Orchestration,1,False,True,3.5
+CAND-013,Fine-Tuning: Concepts & When to Use It,0,False,False,11.4
+CAND-007,Vector Databases Overview,1,True,False,95.1
+CAND-012,Agentic Chatbot Integration,0,False,False,27.5
+CAND-014,Docker & Kubernetes Deployment,1,False,True,0
+CAND-005,Chatbot Frontend Development,0,False,False,13.1
+CAND-006,Embeddings Explained,5,True,False,100
+CAND-008,Chatbot Backend & API Integration,0,False,False,16.2
+CAND-003,Docker & Kubernetes Deployment,0,False,False,5.2
+CAND-011,The Retrieval & Matching Engine,0,False,False,27.2
+CAND-004,Conversation Memory & Context Management,3,True,False,89.1
+CAND-007,Multi-Agent Orchestration,1,True,False,89.1
+CAND-020,Chatbot Evaluation & Testing,0,False,False,22.6
+CAND-012,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,19.0
+CAND-016,"Monitoring, Logging & Observability",0,False,False,16.8
+CAND-002,Vector Databases Overview,2,True,False,100
+CAND-005,Capstone Project & Final Demo,1,True,False,88.5
+CAND-017,"First AI Project, React Frontend & GitHub",5,True,False,100
+CAND-003,Production Readiness & Final Testing,0,False,False,13.6
+CAND-003,Agentic Chatbot Integration,0,False,False,29.2
+CAND-014,Embeddings Explained,5,True,False,100
+CAND-019,Prompt Engineering Fundamentals,0,False,False,10.9
+CAND-001,Embeddings Explained,1,True,False,82.7
+CAND-013,Agentic Chatbot Integration,0,False,False,22.8
+CAND-010,RAG End-to-End & LLM API Basics,0,False,False,13.6
+CAND-012,Agentic Chatbot Integration,0,False,False,6.4
+CAND-004,Capstone Project & Final Demo,2,True,False,93.2
+CAND-010,Chatbot Evaluation & Testing,0,False,False,7.4
+CAND-003,"First AI Project, React Frontend & GitHub",0,False,False,22.3
+CAND-006,The Retrieval & Matching Engine,0,False,False,22.1
+CAND-004,"Monitoring, Logging & Observability",0,False,False,15.9
+CAND-014,Chatbot Frontend Development,0,False,False,25.7
+CAND-002,Capstone Project & Final Demo,2,True,False,100
+CAND-014,Chatbot Backend & API Integration,4,True,False,90.2
+CAND-016,Performance Optimization & Cost Management,0,False,False,7.7
+CAND-016,Model Context Protocol (MCP),0,False,False,19.0
+CAND-002,Chatbot Evaluation & Testing,0,False,False,27.8
+CAND-003,Agentic Chatbot Integration,0,False,False,26.2
+CAND-010,"First AI Project, React Frontend & GitHub",0,False,False,16.5
+CAND-017,RAG End-to-End & LLM API Basics,0,False,False,7.4
+CAND-015,Production Readiness & Final Testing,0,False,False,16.7
+CAND-013,"First AI Project, React Frontend & GitHub",0,False,False,23.8
+CAND-018,Chatbot Frontend Development,0,False,False,14.1
+CAND-016,Docker & Kubernetes Deployment,1,False,True,0
+CAND-020,"Security, Privacy & Guardrails",1,True,False,100
+CAND-012,Model Context Protocol (MCP),0,False,False,6.7
+CAND-010,Embeddings Explained,5,True,False,100
+CAND-005,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,6.4
+CAND-008,Multi-Agent Orchestration,4,True,False,97.5
+CAND-005,Embeddings Explained,2,True,False,94.0
+CAND-009,Embeddings Explained,1,True,False,100
+CAND-012,Capstone Project & Final Demo,1,True,False,100
+CAND-016,Full-Stack Integration & Streaming Responses,0,False,False,13.5
+CAND-006,Chatbot Frontend Development,2,True,False,100
+CAND-015,RAG End-to-End & LLM API Basics,0,False,False,10.9
+CAND-011,Reading & Processing Structured Data,2,True,False,100
+CAND-006,Building the Knowledge Base,0,False,False,19.8
+CAND-017,Response Formatting & Rich Outputs,0,False,False,26.3
+CAND-006,Reading & Processing Unstructured Data,0,False,False,3.0
+CAND-010,Response Formatting & Rich Outputs,0,False,False,9.3
+CAND-002,The Retrieval & Matching Engine,0,False,False,21.3
+CAND-007,Response Formatting & Rich Outputs,0,False,False,6.9
+CAND-013,Chatbot Evaluation & Testing,0,False,False,23.0
+CAND-016,Conversation Memory & Context Management,0,False,False,25.0
+CAND-010,Vector Databases Overview,4,False,False,0
+CAND-001,"Security, Privacy & Guardrails",0,False,False,22.4
+CAND-010,Chatbot Frontend Development,0,False,False,9.9
+CAND-019,"Security, Privacy & Guardrails",0,False,False,16.8
+CAND-012,Agentic Chatbot Integration,0,False,False,15.1
+CAND-020,Prompt Engineering Fundamentals,1,True,False,91.7
+CAND-015,"Security, Privacy & Guardrails",1,True,False,100
+CAND-016,Reading & Processing Structured Data,0,False,False,26.4
+CAND-019,Chatbot Evaluation & Testing,0,False,False,28.6
+CAND-008,Agentic Chatbot Integration,0,False,False,17.7
+CAND-017,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,7.2
+CAND-002,Embeddings Explained,3,True,False,100
+CAND-011,Prompt Engineering Fundamentals,1,False,True,14.0
+CAND-014,Reading & Processing Unstructured Data,0,False,False,25.6
+CAND-016,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,28.5
+CAND-014,Performance Optimization & Cost Management,0,False,False,29.6
+CAND-015,Response Formatting & Rich Outputs,0,False,False,19.9
+CAND-003,Response Formatting & Rich Outputs,0,False,False,29.8
+CAND-019,Response Formatting & Rich Outputs,4,True,False,100
+CAND-014,Building & Populating the Vector Database,0,False,False,21.5
+CAND-003,Production Readiness & Final Testing,0,False,False,6.7
+CAND-019,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,18.6
+CAND-010,"Security, Privacy & Guardrails",1,False,True,0
+CAND-011,Docker & Kubernetes Deployment,0,False,False,17.6
+CAND-003,Building the Knowledge Base,0,False,False,21.4
+CAND-011,Performance Optimization & Cost Management,0,False,False,13.1
+CAND-008,Model Context Protocol (MCP),5,True,False,100
+CAND-011,Model Context Protocol (MCP),0,False,False,1.5
+CAND-020,RAG End-to-End & LLM API Basics,0,False,False,13.8
+CAND-016,Full-Stack Integration & Streaming Responses,0,False,False,17.1
+CAND-005,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,20.2
+CAND-017,Docker & Kubernetes Deployment,4,True,False,90.0
+CAND-019,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,26.5
+CAND-012,Prompt Engineering Fundamentals,0,False,False,23.0
+CAND-019,Multi-Agent Orchestration,3,True,False,96.2
+CAND-016,Agentic Chatbot Integration,0,False,False,13.9
+CAND-003,Chatbot Evaluation & Testing,0,False,False,14.4
+CAND-005,Docker & Kubernetes Deployment,1,True,False,100
+CAND-005,"First AI Project, React Frontend & GitHub",0,False,False,1.3
+CAND-004,"First AI Project, React Frontend & GitHub",0,False,False,23.7
+CAND-004,Performance Optimization & Cost Management,0,False,False,7.7
+CAND-017,"Monitoring, Logging & Observability",0,False,False,12.2
+CAND-014,Multi-Agent Orchestration,1,False,True,20.0
+CAND-002,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,5.5
+CAND-003,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,14.7
+CAND-019,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,3.2
+CAND-019,"Security, Privacy & Guardrails",0,False,False,22.6
+CAND-002,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,21.0
+CAND-015,Building the Knowledge Base,0,False,False,19.0
+CAND-001,Agentic Chatbot Integration,0,False,False,15.3
+CAND-001,Chatbot Evaluation & Testing,0,False,False,8.0
+CAND-012,Response Formatting & Rich Outputs,0,False,False,20.8
+CAND-006,RAG End-to-End & LLM API Basics,0,False,False,4.7
+CAND-006,Full-Stack Integration & Streaming Responses,0,False,False,25.7
+CAND-010,Capstone Project & Final Demo,3,True,False,100
+CAND-019,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,12.7
+CAND-005,Multi-Agent Orchestration,2,True,False,100
+CAND-010,"Monitoring, Logging & Observability",0,False,False,15.5
+CAND-002,Fine-Tuning: Concepts & When to Use It,0,False,False,3.4
+CAND-004,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,13.9
+CAND-011,Reading & Processing Unstructured Data,0,False,False,5.4
+CAND-007,Production Readiness & Final Testing,0,False,False,27.3
+CAND-007,"Security, Privacy & Guardrails",1,False,True,0
+CAND-008,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,7.0
+CAND-014,Chatbot Frontend Development,0,False,False,11.2
+CAND-015,Agentic Chatbot Integration,0,False,False,14.5
+CAND-015,Building & Populating the Vector Database,0,False,False,7.5
+CAND-005,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,24.0
+CAND-011,Conversation Memory & Context Management,0,False,False,25.6
+CAND-011,Reading & Processing Structured Data,2,True,False,100
+CAND-007,Agentic Chatbot Integration,0,False,False,2.1
+CAND-010,Chatbot Evaluation & Testing,0,False,False,19.4
+CAND-015,Multi-Agent Orchestration,1,True,False,100
+CAND-003,RAG End-to-End & LLM API Basics,1,True,False,96.8
+CAND-001,Full-Stack Integration & Streaming Responses,0,False,False,27.4
+CAND-003,Model Context Protocol (MCP),1,True,False,100
+CAND-006,Production Readiness & Final Testing,0,False,False,15.3
+CAND-014,Reading & Processing Unstructured Data,0,False,False,28.2
+CAND-019,Multi-Agent Orchestration,3,True,False,100
+CAND-002,Full-Stack Integration & Streaming Responses,0,False,False,25.3
+CAND-013,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,26.6
+CAND-014,Multi-Agent Orchestration,1,False,True,5.0
+CAND-016,"Monitoring, Logging & Observability",0,False,False,20.1
+CAND-016,Embeddings Explained,4,False,False,6.7
+CAND-003,Chatbot Frontend Development,0,False,False,3.6
+CAND-006,Prompt Engineering Fundamentals,4,True,False,100
+CAND-008,Fine-Tuning: Concepts & When to Use It,1,False,True,8.4
+CAND-013,Chatbot Backend & API Integration,2,True,False,93.8
+CAND-017,Agentic Chatbot Integration,0,False,False,24.3
+CAND-002,Building & Populating the Vector Database,0,False,False,4.6
+CAND-007,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,27.9
+CAND-019,Fine-Tuning: Concepts & When to Use It,0,False,False,21.5
+CAND-012,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,16.0
+CAND-013,Full-Stack Integration & Streaming Responses,0,False,False,6.2
+CAND-001,Full-Stack Integration & Streaming Responses,0,False,False,29.1
+CAND-003,Performance Optimization & Cost Management,0,False,False,1.7
+CAND-016,Vector Databases Overview,3,True,False,94.4
+CAND-017,Chatbot Evaluation & Testing,0,False,False,6.7
+CAND-020,Prompt Engineering Fundamentals,1,True,False,89.0
+CAND-015,"Monitoring, Logging & Observability",0,False,False,11.6
+CAND-014,Performance Optimization & Cost Management,0,False,False,20.4
+CAND-003,Vector Databases Overview,1,True,False,100
+CAND-013,Reading & Processing Unstructured Data,0,False,False,7.8
+CAND-020,Building & Populating the Vector Database,0,False,False,19.7
+CAND-008,Building the Knowledge Base,0,False,False,23.1
+CAND-013,Vector Databases Overview,2,True,False,100
+CAND-015,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,11.8
+CAND-010,RAG End-to-End & LLM API Basics,0,False,False,6.7
+CAND-002,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,9.6
+CAND-020,"Monitoring, Logging & Observability",0,False,False,10.1
+CAND-013,Building & Populating the Vector Database,0,False,False,30.0
+CAND-002,Model Context Protocol (MCP),0,False,False,11.8
+CAND-013,Embeddings Explained,3,True,False,100
+CAND-004,Docker & Kubernetes Deployment,1,False,True,16.7
+CAND-002,Fine-Tuning: Concepts & When to Use It,0,False,False,20.4
+CAND-013,RAG End-to-End & LLM API Basics,0,False,False,1.7
+CAND-017,Chatbot Frontend Development,0,False,False,26.1
+CAND-002,Production Readiness & Final Testing,0,False,False,9.0
+CAND-017,Building the Knowledge Base,0,False,False,2.7
+CAND-012,"Security, Privacy & Guardrails",0,False,False,25.9
+CAND-007,Production Readiness & Final Testing,0,False,False,28.0
+CAND-016,Performance Optimization & Cost Management,0,False,False,19.0
+CAND-008,Multi-Agent Orchestration,4,True,False,99.9
+CAND-014,Fine-Tuning: Concepts & When to Use It,0,False,False,27.9
+CAND-016,Model Context Protocol (MCP),0,False,False,26.6
+CAND-020,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,17.4
+CAND-018,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,13.2
+CAND-016,Chatbot Evaluation & Testing,0,False,False,1.8
+CAND-012,Prompt Engineering Fundamentals,0,False,False,15.5
+CAND-019,Chatbot Evaluation & Testing,0,False,False,23.1
+CAND-016,Reading & Processing Unstructured Data,0,False,False,29.6
+CAND-019,Multi-Agent Orchestration,3,True,False,100
+CAND-013,Multi-Agent Orchestration,2,True,False,89.1
+CAND-020,Building the Knowledge Base,0,False,False,9.8
+CAND-018,Vector Databases Overview,1,True,False,96.1
+CAND-016,"First AI Project, React Frontend & GitHub",0,False,False,1.5
+CAND-005,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,7.4
+CAND-004,Building & Populating the Vector Database,0,False,False,29.4
+CAND-013,Response Formatting & Rich Outputs,0,False,False,17.2
+CAND-016,"Monitoring, Logging & Observability",0,False,False,7.9
+CAND-001,Vector Databases Overview,1,True,False,100
+CAND-003,The Retrieval & Matching Engine,0,False,False,13.0
+CAND-018,Production Readiness & Final Testing,0,False,False,16.1
+CAND-003,Fine-Tuning: Concepts & When to Use It,0,False,False,15.0
+CAND-003,Chatbot Evaluation & Testing,0,False,False,4.1
+CAND-020,Reading & Processing Unstructured Data,0,False,False,15.8
+CAND-006,Chatbot Evaluation & Testing,0,False,False,18.8
+CAND-012,Reading & Processing Unstructured Data,0,False,False,21.7
+CAND-012,Docker & Kubernetes Deployment,1,True,False,100
+CAND-014,"Security, Privacy & Guardrails",1,False,True,0
+CAND-003,Full-Stack Integration & Streaming Responses,0,False,False,13.1
+CAND-012,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,16.7
+CAND-006,Embeddings Explained,5,True,False,99.3
+CAND-008,Chatbot Evaluation & Testing,0,False,False,11.1
+CAND-005,Chatbot Evaluation & Testing,0,False,False,16.4
+CAND-018,Full-Stack Integration & Streaming Responses,0,False,False,20.0
+CAND-014,Building & Populating the Vector Database,0,False,False,0.2
+CAND-005,"Security, Privacy & Guardrails",0,False,False,4.4
+CAND-006,Multi-Agent Orchestration,5,True,False,84.8
+CAND-008,Docker & Kubernetes Deployment,1,True,False,96.4
+CAND-008,Fine-Tuning: Concepts & When to Use It,1,False,True,8.9
+CAND-005,Conversation Memory & Context Management,0,False,False,25.6
+CAND-017,Multi-Agent Orchestration,5,True,False,100
+CAND-016,Building the Knowledge Base,0,False,False,11.2
+CAND-007,Fine-Tuning: Concepts & When to Use It,0,False,False,24.1
+CAND-020,Model Context Protocol (MCP),0,False,False,12.3
+CAND-016,Vector Databases Overview,3,True,False,100
+CAND-014,Response Formatting & Rich Outputs,0,False,False,19.9
+CAND-016,RAG End-to-End & LLM API Basics,0,False,False,12.4
+CAND-012,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,1.0
+CAND-005,Capstone Project & Final Demo,1,True,False,100
+CAND-017,The Retrieval & Matching Engine,0,False,False,3.1
+CAND-001,Building the Knowledge Base,0,False,False,30.0
+CAND-012,Performance Optimization & Cost Management,0,False,False,20.5
+CAND-017,Conversation Memory & Context Management,0,False,False,1.5
+CAND-018,Full-Stack Integration & Streaming Responses,0,False,False,9.5
+CAND-010,"Monitoring, Logging & Observability",0,False,False,28.1
+CAND-012,"Security, Privacy & Guardrails",0,False,False,0.8
+CAND-011,Conversation Memory & Context Management,0,False,False,3.3
+CAND-001,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,15.9
+CAND-004,"First AI Project, React Frontend & GitHub",0,False,False,16.9
+CAND-018,Capstone Project & Final Demo,1,True,False,100
+CAND-014,Full-Stack Integration & Streaming Responses,0,False,False,17.8
+CAND-009,RAG End-to-End & LLM API Basics,0,False,False,15.0
+CAND-003,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,6.4
+CAND-018,Docker & Kubernetes Deployment,1,True,False,93.4
+CAND-018,Chatbot Backend & API Integration,0,False,False,11.3
+CAND-013,Docker & Kubernetes Deployment,1,True,False,100
+CAND-010,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,22.9
+CAND-008,The Retrieval & Matching Engine,0,False,False,7.0
+CAND-015,Chatbot Frontend Development,0,False,False,8.3
+CAND-019,Chatbot Backend & API Integration,1,True,False,100
+CAND-008,Building & Populating the Vector Database,0,False,False,28.6
+CAND-019,Capstone Project & Final Demo,2,True,False,100
+CAND-005,Embeddings Explained,2,True,False,94.7
+CAND-014,Capstone Project & Final Demo,4,True,False,78.5
+CAND-006,Response Formatting & Rich Outputs,0,False,False,3.4
+CAND-003,Fine-Tuning: Concepts & When to Use It,0,False,False,0.0
+CAND-007,Full-Stack Integration & Streaming Responses,0,False,False,8.7
+CAND-018,Capstone Project & Final Demo,1,True,False,100
+CAND-016,The Retrieval & Matching Engine,0,False,False,8.6
+CAND-011,Reading & Processing Structured Data,2,True,False,95.2
+CAND-011,Vector Databases Overview,1,False,True,0
+CAND-004,Multi-Agent Orchestration,4,True,False,100
+CAND-010,"First AI Project, React Frontend & GitHub",0,False,False,9.6
+CAND-001,RAG End-to-End & LLM API Basics,0,False,False,14.2
+CAND-014,"First AI Project, React Frontend & GitHub",0,False,False,18.7
+CAND-019,Chatbot Backend & API Integration,1,True,False,96.1
+CAND-006,Multi-Agent Orchestration,5,True,False,100
+CAND-003,RAG End-to-End & LLM API Basics,1,True,False,100
+CAND-012,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,14.6
+CAND-008,Chatbot Backend & API Integration,0,False,False,11.3
+CAND-019,Conversation Memory & Context Management,0,False,False,22.5
+CAND-011,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,3.4
+CAND-018,Reading & Processing Unstructured Data,0,False,False,13.2
+CAND-010,Full-Stack Integration & Streaming Responses,0,False,False,29.3
+CAND-008,Fine-Tuning: Hands-On with LoRA & QLoRA,1,False,True,6.8
+CAND-014,Fine-Tuning: Concepts & When to Use It,0,False,False,6.1
+CAND-015,Model Context Protocol (MCP),1,True,False,86.3
+CAND-017,Response Formatting & Rich Outputs,0,False,False,10.5
+CAND-015,Docker & Kubernetes Deployment,0,False,False,9.0
+CAND-020,Agentic Chatbot Integration,0,False,False,20.4
+CAND-012,Chatbot Frontend Development,0,False,False,3.5
+CAND-004,Docker & Kubernetes Deployment,1,False,True,12.1
+CAND-020,Conversation Memory & Context Management,0,False,False,7.6
+CAND-009,RAG End-to-End & LLM API Basics,0,False,False,28.7
+CAND-020,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,1.9
+CAND-014,The Retrieval & Matching Engine,0,False,False,25.3
+CAND-011,Vector Databases Overview,1,False,True,2.6
+CAND-011,Full-Stack Integration & Streaming Responses,0,False,False,7.5
+CAND-016,Full-Stack Integration & Streaming Responses,0,False,False,8.3
+CAND-015,Model Context Protocol (MCP),1,True,False,96.3
+CAND-006,Reading & Processing Unstructured Data,0,False,False,4.2
+CAND-017,RAG End-to-End & LLM API Basics,0,False,False,15.5
+CAND-015,Fine-Tuning: Concepts & When to Use It,1,False,True,1.4
+CAND-013,Capstone Project & Final Demo,1,True,False,82.2
+CAND-003,Docker & Kubernetes Deployment,0,False,False,25.7
+CAND-020,Reading & Processing Unstructured Data,0,False,False,27.8
+CAND-019,"Monitoring, Logging & Observability",0,False,False,15.6
+CAND-011,Fine-Tuning: Concepts & When to Use It,0,False,False,14.8
+CAND-018,Production Readiness & Final Testing,0,False,False,29.2
+CAND-005,Performance Optimization & Cost Management,0,False,False,5.6
+CAND-020,Reading & Processing Structured Data,1,False,True,4.1
+CAND-001,Reading & Processing Structured Data,0,False,False,9.7
+CAND-001,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,8.6
+CAND-004,Chatbot Frontend Development,0,False,False,6.9
+CAND-011,Conversation Memory & Context Management,0,False,False,10.9
+CAND-002,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,21.9
+CAND-003,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,6.7
+CAND-010,Vector Databases Overview,4,False,False,0
+CAND-010,Chatbot Backend & API Integration,4,True,False,86.5
+CAND-005,Production Readiness & Final Testing,0,False,False,19.7
+CAND-016,Building the Knowledge Base,0,False,False,29.4
+CAND-007,Multi-Agent Orchestration,1,True,False,84.8
+CAND-008,The Retrieval & Matching Engine,0,False,False,28.1
+CAND-002,"Security, Privacy & Guardrails",0,False,False,29.4
+CAND-014,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,7.1
+CAND-012,Capstone Project & Final Demo,1,True,False,100
+CAND-007,Capstone Project & Final Demo,2,True,False,93.7
+CAND-012,Multi-Agent Orchestration,2,True,False,100
+CAND-016,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,28.0
+CAND-019,Agentic Chatbot Integration,0,False,False,16.3
+CAND-019,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,29.9
+CAND-006,Response Formatting & Rich Outputs,0,False,False,5.6
+CAND-004,Multi-Agent Orchestration,4,True,False,94.6
+CAND-013,"First AI Project, React Frontend & GitHub",0,False,False,15.8
+CAND-018,Full-Stack Integration & Streaming Responses,0,False,False,22.9
+CAND-011,Model Context Protocol (MCP),0,False,False,14.1
+CAND-018,Embeddings Explained,1,True,False,82.9
+CAND-016,Building & Populating the Vector Database,0,False,False,14.0
+CAND-014,The Retrieval & Matching Engine,0,False,False,1.4
+CAND-016,Chatbot Frontend Development,0,False,False,6.6
+CAND-017,Performance Optimization & Cost Management,0,False,False,7.4
+CAND-014,Production Readiness & Final Testing,0,False,False,11.5
+CAND-001,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,15.0
+CAND-019,Full-Stack Integration & Streaming Responses,0,False,False,15.1
+CAND-011,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,29.3
+CAND-002,Agentic Chatbot Integration,0,False,False,19.3
+CAND-009,Fine-Tuning: Concepts & When to Use It,0,False,False,19.9
+CAND-015,Chatbot Evaluation & Testing,0,False,False,4.2
+CAND-013,Vector Databases Overview,2,True,False,88.8
+CAND-020,Capstone Project & Final Demo,1,True,False,100
+CAND-001,Agentic Chatbot Integration,0,False,False,2.5
+CAND-015,Multi-Agent Orchestration,1,True,False,98.4
+CAND-008,Chatbot Evaluation & Testing,0,False,False,5.5
+CAND-005,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,10.7
+CAND-015,Response Formatting & Rich Outputs,0,False,False,4.8
+CAND-010,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,7.1
+CAND-011,Multi-Agent Orchestration,1,False,True,0
+CAND-010,Agentic Chatbot Integration,0,False,False,2.4
+CAND-012,Chatbot Backend & API Integration,1,True,False,100
+CAND-016,Building the Knowledge Base,0,False,False,2.0
+CAND-015,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,6.1
+CAND-018,"Monitoring, Logging & Observability",0,False,False,23.1
+CAND-015,Vector Databases Overview,1,True,False,100
+CAND-009,Docker & Kubernetes Deployment,0,False,False,19.1
+CAND-018,Reading & Processing Unstructured Data,0,False,False,21.5
+CAND-019,Docker & Kubernetes Deployment,1,True,False,100
+CAND-018,Chatbot Frontend Development,0,False,False,20.1
+CAND-017,Agentic Chatbot Integration,0,False,False,15.0
+CAND-001,Full-Stack Integration & Streaming Responses,0,False,False,9.9
+CAND-011,"Security, Privacy & Guardrails",0,False,False,6.0
+CAND-018,Docker & Kubernetes Deployment,1,True,False,100
+CAND-001,Fine-Tuning: Concepts & When to Use It,0,False,False,5.9
+CAND-013,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,18.6
+CAND-016,Embeddings Explained,4,False,False,0
+CAND-014,Response Formatting & Rich Outputs,0,False,False,6.5
+CAND-020,Fine-Tuning: Concepts & When to Use It,0,False,False,1.0
+CAND-015,Performance Optimization & Cost Management,0,False,False,20.9
+CAND-001,Fine-Tuning: Concepts & When to Use It,0,False,False,2.5
+CAND-007,Production Readiness & Final Testing,0,False,False,1.4
+CAND-020,Chatbot Backend & API Integration,1,True,False,86.7
+CAND-015,Vector Databases Overview,1,True,False,95.9
+CAND-003,"Security, Privacy & Guardrails",0,False,False,3.9
+CAND-004,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,11.6
+CAND-008,Conversation Memory & Context Management,0,False,False,13.5
+CAND-001,"Monitoring, Logging & Observability",1,False,True,2.6
+CAND-006,Full-Stack Integration & Streaming Responses,0,False,False,26.0
+CAND-017,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,6.7
+CAND-019,Capstone Project & Final Demo,2,True,False,90.4
+CAND-018,"Security, Privacy & Guardrails",1,True,False,90.4
+CAND-005,Building the Knowledge Base,0,False,False,8.7
+CAND-019,Vector Databases Overview,3,True,False,100
+CAND-010,Reading & Processing Unstructured Data,0,False,False,6.7
+CAND-004,Full-Stack Integration & Streaming Responses,0,False,False,7.2
+CAND-014,Chatbot Evaluation & Testing,0,False,False,5.8
+CAND-002,"Monitoring, Logging & Observability",0,False,False,28.7
+CAND-012,Response Formatting & Rich Outputs,0,False,False,6.5
+CAND-014,Conversation Memory & Context Management,3,True,False,99.5
+CAND-009,Agentic Chatbot Integration,0,False,False,27.6
+CAND-007,Production Readiness & Final Testing,0,False,False,12.8
+CAND-017,Building the Knowledge Base,0,False,False,12.7
+CAND-006,Building & Populating the Vector Database,0,False,False,16.1
+CAND-014,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,20.0
+CAND-002,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,14.2
+CAND-012,Fine-Tuning: Concepts & When to Use It,0,False,False,16.9
+CAND-015,Docker & Kubernetes Deployment,0,False,False,7.3
+CAND-011,Prompt Engineering Fundamentals,1,False,True,0.3
+CAND-004,Docker & Kubernetes Deployment,1,False,True,0
+CAND-001,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,28.3
+CAND-015,Full-Stack Integration & Streaming Responses,0,False,False,27.0
+CAND-005,Fine-Tuning: Concepts & When to Use It,0,False,False,29.3
+CAND-010,Reading & Processing Structured Data,0,False,False,5.4
+CAND-018,Model Context Protocol (MCP),1,True,False,97.7
+CAND-020,Performance Optimization & Cost Management,0,False,False,15.1
+CAND-003,"First AI Project, React Frontend & GitHub",0,False,False,18.8
+CAND-011,Docker & Kubernetes Deployment,0,False,False,9.8
+CAND-015,Embeddings Explained,1,True,False,90.8
+CAND-007,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,14.5
+CAND-010,"Security, Privacy & Guardrails",1,False,True,8.9
+CAND-012,Docker & Kubernetes Deployment,1,True,False,100
+CAND-016,Model Context Protocol (MCP),0,False,False,4.5
+CAND-017,"First AI Project, React Frontend & GitHub",5,True,False,81.5
+CAND-005,Prompt Engineering Fundamentals,4,True,False,90.7
+CAND-004,"First AI Project, React Frontend & GitHub",0,False,False,23.8
+CAND-003,Fine-Tuning: Concepts & When to Use It,0,False,False,1.8
+CAND-015,Performance Optimization & Cost Management,0,False,False,28.5
+CAND-010,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,7.3
+CAND-013,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,0.4
+CAND-004,Chatbot Backend & API Integration,2,True,False,85.0
+CAND-004,Reading & Processing Unstructured Data,0,False,False,10.3
+CAND-012,Model Context Protocol (MCP),0,False,False,11.5
+CAND-014,Reading & Processing Unstructured Data,0,False,False,6.9
+CAND-010,"First AI Project, React Frontend & GitHub",0,False,False,21.1
+CAND-015,Agentic Chatbot Integration,0,False,False,19.6
+CAND-002,Reading & Processing Structured Data,0,False,False,1.2
+CAND-010,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,16.6
+CAND-002,Model Context Protocol (MCP),0,False,False,16.6
+CAND-005,Embeddings Explained,2,True,False,93.5
+CAND-016,"First AI Project, React Frontend & GitHub",0,False,False,12.2
+CAND-019,Multi-Agent Orchestration,3,True,False,99.2
+CAND-002,Model Context Protocol (MCP),0,False,False,11.5
+CAND-020,Docker & Kubernetes Deployment,0,False,False,9.2
+CAND-008,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,13.1
+CAND-012,Performance Optimization & Cost Management,0,False,False,20.9
+CAND-017,Reading & Processing Structured Data,0,False,False,27.6
+CAND-008,Docker & Kubernetes Deployment,1,True,False,85.5
+CAND-013,Building & Populating the Vector Database,0,False,False,16.9
+CAND-013,Prompt Engineering Fundamentals,3,True,False,90.8
+CAND-016,Embeddings Explained,4,False,False,0
+CAND-006,Prompt Engineering Fundamentals,4,True,False,100
+CAND-012,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,23.1
+CAND-004,Full-Stack Integration & Streaming Responses,0,False,False,1.2
+CAND-008,The Retrieval & Matching Engine,0,False,False,10.5
+CAND-010,Production Readiness & Final Testing,0,False,False,19.3
+CAND-006,RAG End-to-End & LLM API Basics,0,False,False,8.2
+CAND-020,Model Context Protocol (MCP),0,False,False,24.9
+CAND-014,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,21.1
+CAND-020,Reading & Processing Structured Data,1,False,True,0.7
+CAND-002,Performance Optimization & Cost Management,0,False,False,1.0
+CAND-012,Building & Populating the Vector Database,4,True,False,92.8
+CAND-019,Chatbot Evaluation & Testing,0,False,False,16.5
+CAND-009,Chatbot Evaluation & Testing,0,False,False,29.2
+CAND-018,Production Readiness & Final Testing,0,False,False,22.8
+CAND-014,Full-Stack Integration & Streaming Responses,0,False,False,19.0
+CAND-011,Building the Knowledge Base,0,False,False,9.0
+CAND-019,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,3.3
+CAND-015,Reading & Processing Structured Data,0,False,False,16.9
+CAND-017,Chatbot Frontend Development,0,False,False,6.3
+CAND-016,"Monitoring, Logging & Observability",0,False,False,0.4
+CAND-019,Response Formatting & Rich Outputs,4,True,False,100
+CAND-004,Capstone Project & Final Demo,2,True,False,94.5
+CAND-013,Chatbot Backend & API Integration,2,True,False,97.3
+CAND-018,Conversation Memory & Context Management,0,False,False,3.1
+CAND-001,The Retrieval & Matching Engine,0,False,False,25.7
+CAND-018,Prompt Engineering Fundamentals,1,True,False,100
+CAND-013,Multi-Agent Orchestration,2,True,False,100
+CAND-004,Agentic Chatbot Integration,0,False,False,5.4
+CAND-004,Fine-Tuning: Concepts & When to Use It,0,False,False,1.6
+CAND-013,RAG End-to-End & LLM API Basics,0,False,False,9.8
+CAND-014,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,29.9
+CAND-012,Chatbot Frontend Development,0,False,False,6.9
+CAND-005,Production Readiness & Final Testing,0,False,False,10.5
+CAND-014,Building the Knowledge Base,0,False,False,3.8
+CAND-013,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,15.0
+CAND-013,Vector Databases Overview,2,True,False,87.0
+CAND-006,Docker & Kubernetes Deployment,1,False,True,8.3
+CAND-019,Fine-Tuning: Concepts & When to Use It,0,False,False,27.8
+CAND-019,Prompt Engineering Fundamentals,0,False,False,14.6
+CAND-012,Reading & Processing Structured Data,0,False,False,16.7
+CAND-019,Model Context Protocol (MCP),0,False,False,15.2
+CAND-015,Building the Knowledge Base,0,False,False,14.0
+CAND-008,Model Context Protocol (MCP),5,True,False,100
+CAND-008,Reading & Processing Unstructured Data,1,True,False,88.5
+CAND-011,"Security, Privacy & Guardrails",0,False,False,14.9
+CAND-014,Reading & Processing Structured Data,0,False,False,26.8
+CAND-006,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,28.1
+CAND-003,RAG End-to-End & LLM API Basics,1,True,False,100
+CAND-009,Chatbot Frontend Development,0,False,False,2.6
+CAND-014,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,1.1
+CAND-009,RAG End-to-End & LLM API Basics,0,False,False,23.0
+CAND-012,Vector Databases Overview,5,True,False,100
+CAND-014,RAG End-to-End & LLM API Basics,0,False,False,8.5
+CAND-012,Agentic Chatbot Integration,0,False,False,19.8
+CAND-005,Multi-Agent Orchestration,2,True,False,88.8
+CAND-014,Performance Optimization & Cost Management,0,False,False,17.9
+CAND-012,RAG End-to-End & LLM API Basics,0,False,False,2.6
+CAND-019,Docker & Kubernetes Deployment,1,True,False,90.8
+CAND-004,"Monitoring, Logging & Observability",0,False,False,6.6
+CAND-015,Conversation Memory & Context Management,0,False,False,1.3
+CAND-020,Response Formatting & Rich Outputs,0,False,False,14.6
+CAND-014,Embeddings Explained,5,True,False,100
+CAND-001,Multi-Agent Orchestration,2,True,False,100
+CAND-007,Docker & Kubernetes Deployment,1,False,True,5.5
+CAND-018,Docker & Kubernetes Deployment,1,True,False,100
+CAND-007,Chatbot Frontend Development,0,False,False,7.4
+CAND-013,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,22.1
+CAND-010,Capstone Project & Final Demo,3,True,False,100
+CAND-006,"Monitoring, Logging & Observability",0,False,False,14.3
+CAND-014,"First AI Project, React Frontend & GitHub",0,False,False,21.2
+CAND-016,Prompt Engineering Fundamentals,5,False,False,0
+CAND-004,Prompt Engineering Fundamentals,3,True,False,100
+CAND-014,RAG End-to-End & LLM API Basics,0,False,False,25.3
+CAND-009,"First AI Project, React Frontend & GitHub",0,False,False,23.9
+CAND-014,Chatbot Evaluation & Testing,0,False,False,3.7
+CAND-012,Building & Populating the Vector Database,4,True,False,100
+CAND-010,Embeddings Explained,5,True,False,97.7
+CAND-011,Fine-Tuning: Concepts & When to Use It,0,False,False,10.2
+CAND-003,Conversation Memory & Context Management,0,False,False,5.9
+CAND-014,Performance Optimization & Cost Management,0,False,False,4.6
+CAND-003,Building & Populating the Vector Database,0,False,False,16.0
+CAND-004,Production Readiness & Final Testing,0,False,False,20.6
+CAND-012,Reading & Processing Unstructured Data,0,False,False,25.3
+CAND-019,Agentic Chatbot Integration,0,False,False,10.5
+CAND-005,Production Readiness & Final Testing,0,False,False,29.0
+CAND-012,"Security, Privacy & Guardrails",0,False,False,4.2
+CAND-016,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,0.2
+CAND-013,Capstone Project & Final Demo,1,True,False,99.6
+CAND-018,Response Formatting & Rich Outputs,0,False,False,19.2
+CAND-017,Capstone Project & Final Demo,3,True,False,84.7
+CAND-009,Model Context Protocol (MCP),1,True,False,100
+CAND-017,Vector Databases Overview,5,True,False,100
+CAND-001,Chatbot Frontend Development,0,False,False,4.7
+CAND-003,Embeddings Explained,1,True,False,99.4
+CAND-013,Building & Populating the Vector Database,0,False,False,6.2
+CAND-002,Chatbot Evaluation & Testing,0,False,False,19.9
+CAND-020,Building & Populating the Vector Database,0,False,False,14.7
+CAND-004,Performance Optimization & Cost Management,0,False,False,23.5
+CAND-005,Chatbot Backend & API Integration,0,False,False,14.1
+CAND-015,The Retrieval & Matching Engine,0,False,False,7.3
+CAND-014,Embeddings Explained,5,True,False,100
+CAND-015,Chatbot Frontend Development,0,False,False,27.5
+CAND-014,Chatbot Frontend Development,0,False,False,8.7
+CAND-020,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,27.3
+CAND-017,Production Readiness & Final Testing,0,False,False,3.7
+CAND-010,"Security, Privacy & Guardrails",1,False,True,0
+CAND-013,Conversation Memory & Context Management,0,False,False,29.1
+CAND-015,"Security, Privacy & Guardrails",1,True,False,100
+CAND-010,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,20.6
+CAND-019,Prompt Engineering Fundamentals,0,False,False,8.1
+CAND-020,Building & Populating the Vector Database,0,False,False,23.6
+CAND-007,Chatbot Backend & API Integration,1,True,False,89.8
+CAND-016,Fine-Tuning: Concepts & When to Use It,0,False,False,19.1
+CAND-016,Vector Databases Overview,3,True,False,99.8
+CAND-013,Chatbot Backend & API Integration,2,True,False,98.3
+CAND-017,RAG End-to-End & LLM API Basics,0,False,False,21.3
+CAND-020,Capstone Project & Final Demo,1,True,False,100
+CAND-001,Agentic Chatbot Integration,0,False,False,9.9
+CAND-013,Model Context Protocol (MCP),0,False,False,12.7
+CAND-015,Model Context Protocol (MCP),1,True,False,96.3
+CAND-017,Building & Populating the Vector Database,0,False,False,22.9
+CAND-002,Building & Populating the Vector Database,0,False,False,2.3
+CAND-004,Capstone Project & Final Demo,2,True,False,98.7
+CAND-007,Production Readiness & Final Testing,0,False,False,3.2
+CAND-015,Multi-Agent Orchestration,1,True,False,100
+CAND-001,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,7.3
+CAND-002,Building & Populating the Vector Database,0,False,False,16.6
+CAND-018,The Retrieval & Matching Engine,0,False,False,5.7
+CAND-004,Model Context Protocol (MCP),5,True,False,95.6
+CAND-011,Docker & Kubernetes Deployment,0,False,False,29.2
+CAND-004,Response Formatting & Rich Outputs,0,False,False,0.5
+CAND-013,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,8.4
+CAND-001,Vector Databases Overview,1,True,False,83.9
+CAND-008,Chatbot Backend & API Integration,0,False,False,4.1
+CAND-002,Production Readiness & Final Testing,0,False,False,3.6
+CAND-020,The Retrieval & Matching Engine,0,False,False,15.0
+CAND-020,Model Context Protocol (MCP),0,False,False,26.2
+CAND-007,Reading & Processing Unstructured Data,0,False,False,3.3
+CAND-009,"Security, Privacy & Guardrails",1,True,False,100
+CAND-008,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,14.5
+CAND-004,Fine-Tuning: Concepts & When to Use It,0,False,False,14.5
+CAND-009,Docker & Kubernetes Deployment,0,False,False,2.6
+CAND-011,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,24.1
+CAND-001,Agentic Chatbot Integration,0,False,False,11.3
+CAND-014,"First AI Project, React Frontend & GitHub",0,False,False,15.0
+CAND-006,The Retrieval & Matching Engine,0,False,False,21.5
+CAND-012,Reading & Processing Structured Data,0,False,False,8.7
+CAND-002,Embeddings Explained,3,True,False,100
+CAND-014,Model Context Protocol (MCP),0,False,False,5.2
+CAND-005,Prompt Engineering Fundamentals,4,True,False,87.1
+CAND-016,Conversation Memory & Context Management,0,False,False,19.2
+CAND-005,Embeddings Explained,2,True,False,100
+CAND-011,Building the Knowledge Base,0,False,False,19.1
+CAND-018,Chatbot Evaluation & Testing,0,False,False,4.4
+CAND-014,Model Context Protocol (MCP),0,False,False,3.0
+CAND-008,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,1.3
+CAND-014,Embeddings Explained,5,True,False,95.0
+CAND-003,Reading & Processing Structured Data,0,False,False,15.9
+CAND-002,Reading & Processing Unstructured Data,0,False,False,9.7
+CAND-016,Production Readiness & Final Testing,0,False,False,18.4
+CAND-019,Full-Stack Integration & Streaming Responses,0,False,False,27.7
+CAND-001,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,4.1
+CAND-020,Capstone Project & Final Demo,1,True,False,100
+CAND-017,Reading & Processing Unstructured Data,0,False,False,1.1
+CAND-020,Full-Stack Integration & Streaming Responses,0,False,False,19.3
+CAND-006,Production Readiness & Final Testing,0,False,False,28.7
+CAND-017,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,12.6
+CAND-012,Reading & Processing Structured Data,0,False,False,29.4
+CAND-007,Chatbot Backend & API Integration,1,True,False,100
+CAND-018,Reading & Processing Unstructured Data,0,False,False,22.9
+CAND-018,Docker & Kubernetes Deployment,1,True,False,97.7
+CAND-006,Building the Knowledge Base,0,False,False,8.7
+CAND-015,The Retrieval & Matching Engine,0,False,False,14.1
+CAND-007,Reading & Processing Structured Data,0,False,False,15.8
+CAND-015,Reading & Processing Unstructured Data,0,False,False,27.7
+CAND-007,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,0.5
+CAND-020,"First AI Project, React Frontend & GitHub",1,True,False,92.2
+CAND-020,Capstone Project & Final Demo,1,True,False,93.1
+CAND-005,"First AI Project, React Frontend & GitHub",0,False,False,27.4
+CAND-011,Production Readiness & Final Testing,0,False,False,23.7
+CAND-013,Vector Databases Overview,2,True,False,90.8
+CAND-013,Docker & Kubernetes Deployment,1,True,False,91.7
+CAND-002,Full-Stack Integration & Streaming Responses,0,False,False,0.2
+CAND-006,Model Context Protocol (MCP),0,False,False,28.1
+CAND-016,Prompt Engineering Fundamentals,5,False,False,0
+CAND-017,"Monitoring, Logging & Observability",0,False,False,9.8
+CAND-015,Multi-Agent Orchestration,1,True,False,92.8
+CAND-017,Chatbot Evaluation & Testing,0,False,False,16.0
+CAND-017,Multi-Agent Orchestration,5,True,False,100
+CAND-006,Reading & Processing Unstructured Data,0,False,False,6.9
+CAND-015,The Retrieval & Matching Engine,0,False,False,16.0
+CAND-011,Vector Databases Overview,1,False,True,14.9
+CAND-005,Multi-Agent Orchestration,2,True,False,94.2
+CAND-007,Vector Databases Overview,1,True,False,100
+CAND-005,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,13.6
+CAND-006,"Security, Privacy & Guardrails",1,False,True,5.0
+CAND-011,RAG End-to-End & LLM API Basics,0,False,False,1.1
+CAND-010,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,20.1
+CAND-008,Conversation Memory & Context Management,0,False,False,20.5
+CAND-010,Full-Stack Integration & Streaming Responses,0,False,False,23.1
+CAND-012,Prompt Engineering Fundamentals,0,False,False,7.0
+CAND-003,Response Formatting & Rich Outputs,0,False,False,16.1
+CAND-010,Fine-Tuning: Concepts & When to Use It,0,False,False,18.0
+CAND-015,Conversation Memory & Context Management,0,False,False,1.6
+CAND-016,"Monitoring, Logging & Observability",0,False,False,18.9
+CAND-019,Vector Databases Overview,3,True,False,100
+CAND-009,"Security, Privacy & Guardrails",1,True,False,100
+CAND-014,Building & Populating the Vector Database,0,False,False,12.0
+CAND-020,"Monitoring, Logging & Observability",0,False,False,15.7
+CAND-016,"Monitoring, Logging & Observability",0,False,False,10.5
+CAND-012,Model Context Protocol (MCP),0,False,False,0.5
+CAND-011,Conversation Memory & Context Management,0,False,False,7.3
+CAND-016,Fine-Tuning: Concepts & When to Use It,0,False,False,1.2
+CAND-016,Performance Optimization & Cost Management,0,False,False,13.9
+CAND-002,Multi-Agent Orchestration,3,True,False,100
+CAND-019,Reading & Processing Structured Data,1,True,False,100
+CAND-007,Building the Knowledge Base,0,False,False,13.3
+CAND-005,Building the Knowledge Base,0,False,False,18.9
+CAND-003,Docker & Kubernetes Deployment,0,False,False,6.8
+CAND-012,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,21.2
+CAND-001,Prompt Engineering Fundamentals,4,True,False,87.6
+CAND-007,Building & Populating the Vector Database,0,False,False,7.1
+CAND-012,Agentic Chatbot Integration,0,False,False,12.6
+CAND-014,RAG End-to-End & LLM API Basics,0,False,False,0.6
+CAND-002,Reading & Processing Unstructured Data,0,False,False,9.4
+CAND-001,Reading & Processing Unstructured Data,0,False,False,26.6
+CAND-007,Building & Populating the Vector Database,0,False,False,9.8
+CAND-001,Production Readiness & Final Testing,0,False,False,28.1
+CAND-006,Vector Databases Overview,5,True,False,100
+CAND-013,Reading & Processing Structured Data,2,True,False,100
+CAND-019,Building & Populating the Vector Database,0,False,False,2.3
+CAND-013,Performance Optimization & Cost Management,0,False,False,8.3
+CAND-013,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,25.1
+CAND-008,The Retrieval & Matching Engine,0,False,False,3.5
+CAND-004,Prompt Engineering Fundamentals,3,True,False,92.4
+CAND-002,Capstone Project & Final Demo,2,True,False,100
+CAND-018,Embeddings Explained,1,True,False,100
+CAND-007,Building the Knowledge Base,0,False,False,0.2
+CAND-016,Reading & Processing Unstructured Data,0,False,False,20.7
+CAND-004,Multi-Agent Orchestration,4,True,False,97.9
+CAND-019,Prompt Engineering Fundamentals,0,False,False,9.5
+CAND-009,Reading & Processing Structured Data,0,False,False,10.0
+CAND-004,Multi-Agent Orchestration,4,True,False,100
+CAND-019,Fine-Tuning: Concepts & When to Use It,0,False,False,0.9
+CAND-003,Multi-Agent Orchestration,1,True,False,100
+CAND-001,"First AI Project, React Frontend & GitHub",0,False,False,25.2
+CAND-011,Chatbot Backend & API Integration,1,False,True,0
+CAND-015,Docker & Kubernetes Deployment,0,False,False,24.3
+CAND-012,Vector Databases Overview,5,True,False,86.2
+CAND-014,The Retrieval & Matching Engine,0,False,False,10.9
+CAND-012,Reading & Processing Unstructured Data,0,False,False,14.2
+CAND-014,The Retrieval & Matching Engine,0,False,False,10.8
+CAND-009,Building the Knowledge Base,0,False,False,7.2
+CAND-001,Embeddings Explained,1,True,False,100
+CAND-006,Docker & Kubernetes Deployment,1,False,True,7.2
+CAND-017,Docker & Kubernetes Deployment,4,True,False,97.7
+CAND-013,Full-Stack Integration & Streaming Responses,0,False,False,29.8
+CAND-002,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,12.4
+CAND-014,"First AI Project, React Frontend & GitHub",0,False,False,5.1
+CAND-019,Vector Databases Overview,3,True,False,100
+CAND-007,Fine-Tuning: Concepts & When to Use It,0,False,False,26.5
+CAND-015,Chatbot Frontend Development,0,False,False,8.6
+CAND-010,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,1.3
+CAND-016,Reading & Processing Unstructured Data,0,False,False,15.0
+CAND-007,Embeddings Explained,2,True,False,86.6
+CAND-005,Chatbot Evaluation & Testing,0,False,False,14.9
+CAND-020,Multi-Agent Orchestration,1,True,False,100
+CAND-016,Chatbot Evaluation & Testing,0,False,False,23.8
+CAND-012,Vector Databases Overview,5,True,False,93.9
+CAND-013,Building the Knowledge Base,0,False,False,9.5
+CAND-015,Response Formatting & Rich Outputs,0,False,False,18.7
+CAND-017,Multi-Agent Orchestration,5,True,False,100
+CAND-004,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,24.5
+CAND-018,Production Readiness & Final Testing,0,False,False,7.5
+CAND-016,Building the Knowledge Base,0,False,False,9.5
+CAND-004,Reading & Processing Unstructured Data,0,False,False,2.0
+CAND-006,Performance Optimization & Cost Management,0,False,False,7.9
+CAND-006,Prompt Engineering Fundamentals,4,True,False,100
+CAND-017,Prompt Engineering Fundamentals,5,True,False,92.3
+CAND-012,Capstone Project & Final Demo,1,True,False,94.5
+CAND-010,Chatbot Backend & API Integration,4,True,False,100
+CAND-015,Building & Populating the Vector Database,0,False,False,2.2
+CAND-007,Chatbot Frontend Development,0,False,False,2.2
+CAND-016,Capstone Project & Final Demo,2,True,False,96.1
+CAND-009,Reading & Processing Unstructured Data,0,False,False,17.2
+CAND-001,Agentic Chatbot Integration,0,False,False,12.3
+CAND-020,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,9.3
+CAND-011,Model Context Protocol (MCP),0,False,False,1.6
+CAND-012,Full-Stack Integration & Streaming Responses,0,False,False,22.2
+CAND-001,Building & Populating the Vector Database,0,False,False,7.6
+CAND-004,Model Context Protocol (MCP),5,True,False,99.5
+CAND-003,Full-Stack Integration & Streaming Responses,0,False,False,12.1
+CAND-003,Chatbot Frontend Development,0,False,False,0.9
+CAND-004,Building & Populating the Vector Database,0,False,False,19.5
+CAND-002,Building the Knowledge Base,0,False,False,3.1
+CAND-005,Chatbot Frontend Development,0,False,False,6.4
+CAND-008,Production Readiness & Final Testing,0,False,False,2.7
+CAND-017,Model Context Protocol (MCP),0,False,False,24.8
+CAND-003,Chatbot Frontend Development,0,False,False,4.9
+CAND-008,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,14.1
+CAND-013,Fine-Tuning: Concepts & When to Use It,0,False,False,28.7
+CAND-014,RAG End-to-End & LLM API Basics,0,False,False,0.4
+CAND-003,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,1.9
+CAND-011,Prompt Engineering Fundamentals,1,False,True,0.3
+CAND-005,"Security, Privacy & Guardrails",0,False,False,12.0
+CAND-002,Chatbot Evaluation & Testing,0,False,False,26.8
+CAND-015,Conversation Memory & Context Management,0,False,False,24.6
+CAND-005,Production Readiness & Final Testing,0,False,False,8.7
+CAND-004,Chatbot Backend & API Integration,2,True,False,80.8
+CAND-009,Building & Populating the Vector Database,0,False,False,8.1
+CAND-006,Prompt Engineering Fundamentals,4,True,False,99.9
+CAND-003,"Monitoring, Logging & Observability",0,False,False,3.7
+CAND-016,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,26.3
+CAND-013,Chatbot Backend & API Integration,2,True,False,93.1
+CAND-005,RAG End-to-End & LLM API Basics,0,False,False,27.3
+CAND-017,Embeddings Explained,5,True,False,95.1
+CAND-005,The Retrieval & Matching Engine,0,False,False,28.6
+CAND-002,Model Context Protocol (MCP),0,False,False,12.8
+CAND-010,Embeddings Explained,5,True,False,100
+CAND-003,Docker & Kubernetes Deployment,0,False,False,2.4
+CAND-017,RAG End-to-End & LLM API Basics,0,False,False,12.0
+CAND-008,Response Formatting & Rich Outputs,0,False,False,24.2
+CAND-020,Docker & Kubernetes Deployment,0,False,False,10.4
+CAND-011,Multi-Agent Orchestration,1,False,True,0
+CAND-005,The Retrieval & Matching Engine,0,False,False,8.4
+CAND-014,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,9.6
+CAND-003,Production Readiness & Final Testing,0,False,False,22.6
+CAND-010,Chatbot Backend & API Integration,4,True,False,100
+CAND-009,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,5.6
+CAND-008,Building the Knowledge Base,0,False,False,28.4
+CAND-009,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,23.8
+CAND-001,Chatbot Backend & API Integration,1,True,False,97.2
+CAND-002,"Security, Privacy & Guardrails",0,False,False,9.7
+CAND-010,Building the Knowledge Base,0,False,False,2.9
+CAND-007,Full-Stack Integration & Streaming Responses,0,False,False,29.4
+CAND-004,The Retrieval & Matching Engine,0,False,False,19.3
+CAND-010,Model Context Protocol (MCP),0,False,False,12.8
+CAND-008,Model Context Protocol (MCP),5,True,False,97.2
+CAND-004,"Security, Privacy & Guardrails",0,False,False,20.5
+CAND-016,Conversation Memory & Context Management,0,False,False,18.0
+CAND-002,Model Context Protocol (MCP),0,False,False,14.5
+CAND-014,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,25.1
+CAND-011,Chatbot Frontend Development,0,False,False,22.4
+CAND-002,Building the Knowledge Base,0,False,False,16.7
+CAND-017,The Retrieval & Matching Engine,0,False,False,29.5
+CAND-009,Building the Knowledge Base,0,False,False,20.9
+CAND-011,Model Context Protocol (MCP),0,False,False,25.8
+CAND-009,Model Context Protocol (MCP),1,True,False,100
+CAND-010,Full-Stack Integration & Streaming Responses,0,False,False,9.2
+CAND-016,The Retrieval & Matching Engine,0,False,False,7.1
+CAND-008,Fine-Tuning: Concepts & When to Use It,1,False,True,3.4
+CAND-020,Full-Stack Integration & Streaming Responses,0,False,False,7.5
+CAND-020,Full-Stack Integration & Streaming Responses,0,False,False,1.0
+CAND-014,Response Formatting & Rich Outputs,0,False,False,23.2
+CAND-005,"Monitoring, Logging & Observability",1,True,False,100
+CAND-012,"Monitoring, Logging & Observability",0,False,False,7.2
+CAND-016,Docker & Kubernetes Deployment,1,False,True,9.7
+CAND-011,Reading & Processing Structured Data,2,True,False,96.7
+CAND-009,"First AI Project, React Frontend & GitHub",0,False,False,23.9
+CAND-007,Full-Stack Integration & Streaming Responses,0,False,False,0.6
+CAND-004,Response Formatting & Rich Outputs,0,False,False,9.8
+CAND-013,Conversation Memory & Context Management,0,False,False,17.2
+CAND-015,RAG End-to-End & LLM API Basics,0,False,False,19.3
+CAND-020,Fine-Tuning: Concepts & When to Use It,0,False,False,5.1
+CAND-001,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,21.7
+CAND-012,Reading & Processing Structured Data,0,False,False,18.0
+CAND-016,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,4.6
+CAND-003,Response Formatting & Rich Outputs,0,False,False,8.0
+CAND-005,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,11.9
+CAND-002,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,28.4
+CAND-020,Multi-Agent Orchestration,1,True,False,93.9
+CAND-006,Prompt Engineering Fundamentals,4,True,False,89.1
+CAND-003,Chatbot Backend & API Integration,0,False,False,28.2
+CAND-004,Reading & Processing Unstructured Data,0,False,False,17.9
+CAND-009,Reading & Processing Structured Data,0,False,False,24.4
+CAND-013,Vector Databases Overview,2,True,False,91.7
+CAND-016,Response Formatting & Rich Outputs,0,False,False,19.4
+CAND-020,"First AI Project, React Frontend & GitHub",1,True,False,100
+CAND-017,Conversation Memory & Context Management,0,False,False,29.9
+CAND-002,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,15.1
+CAND-007,Reading & Processing Unstructured Data,0,False,False,22.9
+CAND-005,Agentic Chatbot Integration,0,False,False,24.7
+CAND-015,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,10.0
+CAND-005,Capstone Project & Final Demo,1,True,False,100
+CAND-018,Embeddings Explained,1,True,False,86.5
+CAND-006,Building & Populating the Vector Database,0,False,False,7.2
+CAND-003,Vector Databases Overview,1,True,False,86.8
+CAND-011,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,14.6
+CAND-005,Fine-Tuning: Concepts & When to Use It,0,False,False,0.1
+CAND-007,Response Formatting & Rich Outputs,0,False,False,25.5
+CAND-014,Building the Knowledge Base,0,False,False,12.7
+CAND-015,Chatbot Evaluation & Testing,0,False,False,3.5
+CAND-009,Reading & Processing Unstructured Data,0,False,False,5.7
+CAND-006,Full-Stack Integration & Streaming Responses,0,False,False,19.6
+CAND-016,Building & Populating the Vector Database,0,False,False,4.3
+CAND-011,Model Context Protocol (MCP),0,False,False,14.8
+CAND-016,Production Readiness & Final Testing,0,False,False,7.6
+CAND-004,Agentic Chatbot Integration,0,False,False,26.9
+CAND-005,"First AI Project, React Frontend & GitHub",0,False,False,18.3
+CAND-006,Reading & Processing Structured Data,0,False,False,13.2
+CAND-008,Capstone Project & Final Demo,2,True,False,100
+CAND-016,RAG End-to-End & LLM API Basics,0,False,False,3.4
+CAND-017,Chatbot Frontend Development,0,False,False,2.0
+CAND-020,Prompt Engineering Fundamentals,1,True,False,100
+CAND-005,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,1.5
+CAND-011,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,4.1
+CAND-011,The Retrieval & Matching Engine,0,False,False,28.6
+CAND-001,Production Readiness & Final Testing,0,False,False,23.0
+CAND-012,Fine-Tuning: Concepts & When to Use It,0,False,False,20.7
+CAND-018,Full-Stack Integration & Streaming Responses,0,False,False,14.8
+CAND-020,The Retrieval & Matching Engine,0,False,False,11.9
+CAND-006,Full-Stack Integration & Streaming Responses,0,False,False,6.3
+CAND-019,Fine-Tuning: Concepts & When to Use It,0,False,False,13.6
+CAND-008,Response Formatting & Rich Outputs,0,False,False,21.6
+CAND-004,Chatbot Backend & API Integration,2,True,False,100
+CAND-003,Embeddings Explained,1,True,False,97.5
+CAND-019,Embeddings Explained,4,True,False,98.7
+CAND-003,The Retrieval & Matching Engine,0,False,False,9.6
+CAND-004,Agentic Chatbot Integration,0,False,False,26.6
+CAND-003,The Retrieval & Matching Engine,0,False,False,19.7
+CAND-002,Building the Knowledge Base,0,False,False,0.9
+CAND-011,Building & Populating the Vector Database,0,False,False,11.2
+CAND-002,Vector Databases Overview,2,True,False,100
+CAND-009,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,29.2
+CAND-009,Response Formatting & Rich Outputs,0,False,False,25.0
+CAND-010,Chatbot Evaluation & Testing,0,False,False,22.0
+CAND-004,Vector Databases Overview,5,True,False,100
+CAND-007,Embeddings Explained,2,True,False,77.8
+CAND-005,Vector Databases Overview,2,True,False,97.7
+CAND-008,Production Readiness & Final Testing,0,False,False,5.1
+CAND-002,Conversation Memory & Context Management,0,False,False,14.5
+CAND-008,Response Formatting & Rich Outputs,0,False,False,22.6
+CAND-016,Reading & Processing Structured Data,0,False,False,28.2
+CAND-019,Prompt Engineering Fundamentals,0,False,False,6.2
+CAND-004,The Retrieval & Matching Engine,0,False,False,14.4
+CAND-017,Fine-Tuning: Concepts & When to Use It,0,False,False,16.9
+CAND-015,Response Formatting & Rich Outputs,0,False,False,6.2
+CAND-020,Vector Databases Overview,1,False,True,0
+CAND-004,The Retrieval & Matching Engine,0,False,False,28.5
+CAND-004,Chatbot Backend & API Integration,2,True,False,100
+CAND-018,Vector Databases Overview,1,True,False,100
+CAND-005,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,19.5
+CAND-017,"First AI Project, React Frontend & GitHub",5,True,False,100
+CAND-020,Docker & Kubernetes Deployment,0,False,False,17.9
+CAND-015,Reading & Processing Unstructured Data,0,False,False,11.2
+CAND-020,The Retrieval & Matching Engine,0,False,False,2.2
+CAND-015,"Monitoring, Logging & Observability",0,False,False,16.3
+CAND-009,Chatbot Evaluation & Testing,0,False,False,18.0
+CAND-018,Docker & Kubernetes Deployment,1,True,False,96.9
+CAND-008,Conversation Memory & Context Management,0,False,False,0.1
+CAND-015,Model Context Protocol (MCP),1,True,False,100
+CAND-009,Model Context Protocol (MCP),1,True,False,100
+CAND-015,Capstone Project & Final Demo,1,True,False,100
+CAND-008,Conversation Memory & Context Management,0,False,False,3.7
+CAND-008,Docker & Kubernetes Deployment,1,True,False,100
+CAND-007,Chatbot Frontend Development,0,False,False,1.8
+CAND-009,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,8.0
+CAND-006,Prompt Engineering Fundamentals,4,True,False,100
+CAND-012,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,9.3
+CAND-015,Production Readiness & Final Testing,0,False,False,14.6
+CAND-001,"First AI Project, React Frontend & GitHub",0,False,False,9.6
+CAND-008,Fine-Tuning: Concepts & When to Use It,1,False,True,0
+CAND-011,Model Context Protocol (MCP),0,False,False,28.3
+CAND-017,Embeddings Explained,5,True,False,100
+CAND-007,RAG End-to-End & LLM API Basics,0,False,False,16.6
+CAND-004,Agentic Chatbot Integration,0,False,False,3.7
+CAND-017,"First AI Project, React Frontend & GitHub",5,True,False,90.7
+CAND-018,Docker & Kubernetes Deployment,1,True,False,100
+CAND-006,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,19.6
+CAND-008,Response Formatting & Rich Outputs,0,False,False,29.8
+CAND-002,Docker & Kubernetes Deployment,1,True,False,90.8
+CAND-005,Performance Optimization & Cost Management,0,False,False,27.3
+CAND-009,Full-Stack Integration & Streaming Responses,0,False,False,14.4
+CAND-018,"Security, Privacy & Guardrails",1,True,False,95.8
+CAND-006,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,15.5
+CAND-012,The Retrieval & Matching Engine,0,False,False,13.9
+CAND-012,Chatbot Backend & API Integration,1,True,False,97.0
+CAND-010,Building the Knowledge Base,0,False,False,9.6
+CAND-008,Building & Populating the Vector Database,0,False,False,22.3
+CAND-015,"Security, Privacy & Guardrails",1,True,False,100
+CAND-001,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,12.3
+CAND-016,Reading & Processing Structured Data,0,False,False,19.3
+CAND-013,Building & Populating the Vector Database,0,False,False,23.0
+CAND-008,Reading & Processing Unstructured Data,1,True,False,100
+CAND-004,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,23.7
+CAND-003,Chatbot Evaluation & Testing,0,False,False,12.9
+CAND-003,Building the Knowledge Base,0,False,False,29.7
+CAND-019,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,10.1
+CAND-008,"First AI Project, React Frontend & GitHub",0,False,False,17.8
+CAND-016,Building & Populating the Vector Database,0,False,False,21.8
+CAND-007,RAG End-to-End & LLM API Basics,0,False,False,20.6
+CAND-008,Full-Stack Integration & Streaming Responses,0,False,False,14.8
+CAND-003,Chatbot Frontend Development,0,False,False,0.3
+CAND-007,Full-Stack Integration & Streaming Responses,0,False,False,17.2
+CAND-007,"First AI Project, React Frontend & GitHub",1,True,False,87.5
+CAND-014,Building the Knowledge Base,0,False,False,24.3
+CAND-019,Embeddings Explained,4,True,False,100
+CAND-002,Capstone Project & Final Demo,2,True,False,92.9
+CAND-001,Prompt Engineering Fundamentals,4,True,False,87.4
+CAND-012,Response Formatting & Rich Outputs,0,False,False,3.9
+CAND-016,Embeddings Explained,4,False,False,0
+CAND-004,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,5.5
+CAND-009,Chatbot Frontend Development,0,False,False,29.2
+CAND-010,Embeddings Explained,5,True,False,96.9
+CAND-010,Chatbot Backend & API Integration,4,True,False,100
+CAND-018,RAG End-to-End & LLM API Basics,0,False,False,28.0
+CAND-008,Embeddings Explained,0,False,False,10.8
+CAND-011,Reading & Processing Structured Data,2,True,False,100
+CAND-014,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,25.0
+CAND-019,Agentic Chatbot Integration,0,False,False,18.2
+CAND-011,Chatbot Evaluation & Testing,0,False,False,26.7
+CAND-013,Docker & Kubernetes Deployment,1,True,False,86.2
+CAND-015,Multi-Agent Orchestration,1,True,False,94.4
+CAND-004,Embeddings Explained,4,True,False,100
+CAND-001,"Monitoring, Logging & Observability",1,False,True,20.9
+CAND-015,Vector Databases Overview,1,True,False,84.1
+CAND-002,Multi-Agent Orchestration,3,True,False,81.2
+CAND-012,Full-Stack Integration & Streaming Responses,0,False,False,16.5
+CAND-020,"First AI Project, React Frontend & GitHub",1,True,False,100
+CAND-008,Advanced Prompting: Function Calling & Structured Outputs,0,False,False,20.9
+CAND-011,"First AI Project, React Frontend & GitHub",3,True,False,100
+CAND-018,Building the Knowledge Base,0,False,False,17.1
+CAND-014,Conversation Memory & Context Management,3,True,False,91.3
+CAND-009,RAG End-to-End & LLM API Basics,0,False,False,9.7
+CAND-011,Chatbot Evaluation & Testing,0,False,False,13.4
+CAND-018,"Security, Privacy & Guardrails",1,True,False,100
+CAND-003,"Monitoring, Logging & Observability",0,False,False,21.9
+CAND-009,Prompt Engineering Fundamentals,1,True,False,73.6
+CAND-006,Reading & Processing Structured Data,0,False,False,29.1
+CAND-009,Reading & Processing Structured Data,0,False,False,27.8
+CAND-012,Capstone Project & Final Demo,1,True,False,100
+CAND-003,Capstone Project & Final Demo,1,True,False,100
+CAND-012,Chatbot Evaluation & Testing,0,False,False,20.0
+CAND-014,Full-Stack Integration & Streaming Responses,0,False,False,23.9
+CAND-009,"First AI Project, React Frontend & GitHub",0,False,False,16.9
+CAND-006,Reading & Processing Structured Data,0,False,False,3.5
+CAND-013,Model Context Protocol (MCP),0,False,False,15.0
+CAND-011,Multi-Agent Orchestration,1,False,True,9.2
+CAND-020,Agentic Chatbot Integration,0,False,False,7.3
+CAND-001,Reading & Processing Unstructured Data,0,False,False,6.7
+CAND-009,Production Readiness & Final Testing,0,False,False,18.8
+CAND-010,Production Readiness & Final Testing,0,False,False,1.0
+CAND-018,Reading & Processing Structured Data,0,False,False,11.6
+CAND-016,"First AI Project, React Frontend & GitHub",0,False,False,17.1
+CAND-009,Docker & Kubernetes Deployment,0,False,False,23.6
+CAND-014,Fine-Tuning: Concepts & When to Use It,0,False,False,9.3
+CAND-009,"First AI Project, React Frontend & GitHub",0,False,False,29.3
+CAND-001,Reading & Processing Structured Data,0,False,False,26.7
+CAND-002,"First AI Project, React Frontend & GitHub",0,False,False,8.8
+CAND-014,RAG End-to-End & LLM API Basics,0,False,False,25.5
+CAND-009,Multi-Agent Orchestration,1,True,False,89.9
+CAND-015,Fine-Tuning: Hands-On with LoRA & QLoRA,1,False,True,0.9
+CAND-017,Docker & Kubernetes Deployment,4,True,False,90.7
+CAND-007,Prompt Engineering Fundamentals,1,True,False,100
+CAND-018,Docker & Kubernetes Deployment,1,True,False,91.0
+CAND-015,Fine-Tuning: Concepts & When to Use It,1,False,True,0
+CAND-006,Fine-Tuning: Concepts & When to Use It,0,False,False,12.2
+CAND-010,Capstone Project & Final Demo,3,True,False,90.0
+CAND-018,Agentic Frameworks: LangChain Agents & Tool Use,0,False,False,18.2
+CAND-010,Fine-Tuning: Hands-On with LoRA & QLoRA,0,False,False,12.7
+CAND-011,Chatbot Frontend Development,0,False,False,12.7
+CAND-003,Building & Populating the Vector Database,0,False,False,15.9
+CAND-016,Multi-Agent Orchestration,4,False,False,6.5
+CAND-011,Performance Optimization & Cost Management,0,False,False,2.4
+CAND-017,Building the Knowledge Base,0,False,False,5.1
+CAND-004,Docker & Kubernetes Deployment,1,False,True,8.6
+CAND-013,Fine-Tuning: Concepts & When to Use It,0,False,False,5.3
+CAND-012,Reading & Processing Structured Data,0,False,False,16.7
+CAND-004,Fine-Tuning: Concepts & When to Use It,0,False,False,17.0
+CAND-020,"First AI Project, React Frontend & GitHub",1,True,False,97.7
+CAND-010,The Retrieval & Matching Engine,0,False,False,3.3
+CAND-001,Chatbot Frontend Development,0,False,False,26.0
+CAND-003,"Security, Privacy & Guardrails",0,False,False,14.9
+CAND-003,Model Context Protocol (MCP),1,True,False,100
+CAND-014,Agentic Chatbot Integration,0,False,False,8.2
+CAND-016,Production Readiness & Final Testing,0,False,False,23.0

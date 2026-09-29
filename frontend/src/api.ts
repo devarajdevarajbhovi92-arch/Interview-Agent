@@ -81,3 +81,53 @@ export async function getSessionQuestions(sessionId: string): Promise<SessionQue
   }
   return res.json();
 }
+
+// ── ML API Functions ──────────────────────────────────────────────────────
+
+export interface MLModelStatus {
+  models: Record<string, boolean>;
+  loaded_count: number;
+  total_count: number;
+}
+
+export interface MLScoreResult {
+  score: number;
+  confidence: number;
+  source: string;
+}
+
+export interface MLTopicMastery {
+  mastery: number;
+  confidence: number;
+  source: string;
+}
+
+export interface MLInsights {
+  performance_prediction: {
+    predicted_score: number;
+    confidence: number;
+    source: string;
+  };
+  topic_mastery: Record<string, MLTopicMastery>;
+  weak_topics: string[];
+  strong_topics: string[];
+  model_status: Record<string, boolean>;
+}
+
+export async function getMLStatus(): Promise<MLModelStatus> {
+  const res = await fetch(`${API_BASE}/api/ml/status`);
+  if (!res.ok) throw new Error("Failed to fetch ML status");
+  return res.json();
+}
+
+export async function scoreAnswer(question: string, answer: string): Promise<MLScoreResult> {
+  const res = await fetch(`${API_BASE}/api/ml/score?question=${encodeURIComponent(question)}&answer=${encodeURIComponent(answer)}`);
+  if (!res.ok) throw new Error("Failed to score answer");
+  return res.json();
+}
+
+export async function getMLInsights(candidateId: string): Promise<MLInsights> {
+  const res = await fetch(`${API_BASE}/api/ml/insights/${candidateId}`);
+  if (!res.ok) throw new Error("Failed to fetch ML insights");
+  return res.json();
+}

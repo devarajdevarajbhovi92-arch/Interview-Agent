@@ -23,6 +23,10 @@ from slowapi.util import get_remote_address
 from slowapi.errors import RateLimitExceeded
 from session import InterviewSession, Turn
 from planner import build_question_plan
+from ml.integration import get_ml_integration
+
+# Initialize ML integration
+ml = get_ml_integration()
 
 RATE_LIMIT = os.environ.get("RATE_LIMIT", "20/minute")
 
@@ -33,7 +37,7 @@ app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 ALLOW_ORIGINS = os.environ.get(
     "ALLOW_ORIGINS", 
-    "http://localhost:5173,https://interview-agent-delta-roan.vercel.app"
+    "http://localhost:5173,http://localhost:5174,http://localhost:5175,http://127.0.0.1:5173,http://127.0.0.1:5174,http://127.0.0.1:5175,https://interview-agent-delta-roan.vercel.app"
 ).split(",")
 
 app.add_middleware(
@@ -118,6 +122,34 @@ async def get_session_questions(session_id: str):
         "total_questions": len(session.questions),
         "questions_answered": len([t for t in session.transcript if t.answer and t.answer.strip()]),
     }
+
+
+@app.get("/api/ml/status")
+async def ml_status():
+    """Return ML model loading status."""
+    return {
+        "models": ml.model_status,
+        "loaded_count": sum(1 for v in ml.model_status.values() if v),
+        "total_count": len(ml.model_status),
+    }
+
+
+@app.post("/api/ml/score")
+async def ml_score_answer(question: str, answer: str):
+    """Score an answer using ML model."""
+    result = ml.score_answer(question, answer)
+    return result
+
+
+@app.get("/api/ml/insights/{candidate_id}")
+async def ml_insights(candidate_id: str):
+    """Get ML insights for a candidate."""
+    from data import CANDIDATES
+    candidate = CANDIDATES.get(candidate_id)
+    if not candidate:
+        raise HTTPException(status_code=404, detail="Candidate not found")
+    insights = ml.get_insights(candidate)
+    return insights
 
 @app.post("/api/interview", response_model=InterviewResponse)
 @limiter.limit(RATE_LIMIT)
@@ -209,7 +241,8 @@ async def interview_step(request: Request, payload: InterviewRequest):
     last_turn = session.transcript[-1]
     last_turn.answer = payload.message or "I don't know."
     
-    judgment = await llm_module.judge_answer(last_turn.question, last_turn.answer)
+    # Use ML classifier for judgment (with heuristic fallback)
+    judgment = ml.judge_answer(last_turn.question, last_turn.answer)
     last_turn.judgment = judgment
     
     # Decide next step based on judgment
