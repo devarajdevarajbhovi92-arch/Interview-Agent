@@ -37,7 +37,7 @@ app.add_exception_handler(RateLimitExceeded, _rate_limit_exceeded_handler)
 
 ALLOW_ORIGINS = os.environ.get(
     "ALLOW_ORIGINS", 
-    "http://localhost:5173,http://localhost:5174,http://localhost:5175,http://127.0.0.1:5173,http://127.0.0.1:5174,http://127.0.0.1:5175,https://interview-agent-delta-roan.vercel.app"
+    "http://localhost:5173,http://localhost:5174,http://localhost:5175,http://127.0.0.1:5173,http://127.0.0.1:5174,http://127.0.0.1:5175,https://interview-agent-five-bice.vercel.app"
 ).split(",")
 
 app.add_middleware(
