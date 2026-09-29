@@ -9,9 +9,9 @@ export default function LandingPage({ onStart }: LandingPageProps) {
       <header className="bg-white border-b border-[#e8eaed] px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 rounded-xl bg-[#1a73e8] flex items-center justify-center text-white font-medium text-lg">
-            M
+            In
           </div>
-          <span className="text-[#1f1f1f] text-lg font-medium tracking-tight">MAESTER</span>
+          <span className="text-[#1f1f1f] text-lg font-medium tracking-tight">INTERVIEW AI</span>
         </div>
         <nav className="flex items-center gap-6 text-sm text-[#5f6368]">
           <span className="hidden sm:inline">AI Interview Studio</span>
@@ -22,7 +22,7 @@ export default function LandingPage({ onStart }: LandingPageProps) {
       <main className="flex-1 flex items-center justify-center px-6 py-16">
         <div className="max-w-2xl w-full">
           <div className="text-center mb-12">
-            <p className="text-[#1a73e8] text-sm font-medium tracking-wide uppercase mb-4">Technical Interview Platform</p>
+            <p className="text-[#1a73e8] text-sm font-medium tracking-wide uppercase mb-4">AI-Powered Interview Preparation</p>
             <h1 className="text-5xl sm:text-6xl font-normal text-[#1f1f1f] tracking-tight leading-tight mb-6">
               Prove Your<br />
               <span className="text-[#1a73e8]">Skills.</span>
@@ -63,7 +63,7 @@ export default function LandingPage({ onStart }: LandingPageProps) {
 
       {/* Footer */}
       <footer className="border-t border-[#e8eaed] px-6 py-4 text-center text-xs text-[#9aa0a6]">
-        MAESTER / 2026
+        @INTERVIEW AI / 2026
       </footer>
     </div>
   );

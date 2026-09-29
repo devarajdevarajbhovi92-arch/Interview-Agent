@@ -1,5 +1,6 @@
 """
-prompts.py — All LLM prompt templates for MAESTER.
+prompts.py — All LLM prompt templates for INTERVIEW AI
+.
 """
 
 # ── Prompt 0: Resume Analyzer ────────────────────────────────────────────────

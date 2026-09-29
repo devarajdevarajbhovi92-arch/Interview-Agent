@@ -116,9 +116,10 @@ export default function SetupPage({ onComplete, onCancel }: SetupPageProps) {
       <header className="bg-white border-b border-[#e8eaed] px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
           <div className="w-10 h-10 rounded-xl bg-[#1a73e8] flex items-center justify-center text-white font-medium text-lg">
-            M
+            In
           </div>
-          <span className="text-[#1f1f1f] text-lg font-medium">MAESTER</span>
+          <span className="text-[#1f1f1f] text-lg font-medium">INTERVIEW AI
+</span>
         </div>
         <button onClick={onCancel} className="text-[#5f6368] hover:text-[#1f1f1f] text-sm font-medium">
           Cancel
@@ -267,7 +268,7 @@ export default function SetupPage({ onComplete, onCancel }: SetupPageProps) {
             <p className="text-[#1a73e8] text-xs font-medium tracking-wide uppercase mb-2">Before we begin</p>
             <h2 className="text-xl font-normal text-[#1f1f1f] mb-3">Set your interview space.</h2>
             <p className="text-sm leading-relaxed text-[#5f6368] mb-6">
-              MAESTER uses your camera and microphone to create a realistic interview environment and verify focus during the session. Nothing starts until you allow access.
+              INTERVIEW AI uses your camera and microphone to create a realistic interview environment and verify focus during the session. Nothing starts until you allow access.
             </p>
             <div className="flex gap-3">
               <button

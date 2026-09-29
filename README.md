@@ -95,7 +95,8 @@ Navigate to `http://localhost:5173`. Ensure you are using Chrome if you intend t
 
 The frontend is a focused interview workspace rather than a dashboard:
 
-- **Landing:** Full-screen cinematic hero, MAESTER wordmark, and a single start action.
+- **Landing:** Full-screen cinematic hero, INTERVIEW AI
+ wordmark, and a single start action.
 - **Setup:** Candidate name, target role, PDF resume upload, camera preview, mirror toggle, and a pre-permission dialog for camera and microphone access.
 - **Interview:** Text or voice interaction, adaptive AI questions, tab-switching warning, and camera-in-picture preview.
 - **Feedback:** Honest strengths, weak sections, and improvement areas generated from the completed transcript.

@@ -1,5 +1,6 @@
 """
-main.py — FastAPI app exposing endpoints for MAESTER AI Interview Agent.
+main.py — FastAPI app exposing endpoints for INTERVIEW AI
+ AI Interview Agent.
 """
 
 import os

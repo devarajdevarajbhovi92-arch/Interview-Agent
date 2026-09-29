@@ -76,16 +76,16 @@ export default function App() {
           <header className="bg-white border-b border-[#e8eaed] px-6 py-4 flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 rounded-xl bg-[#1a73e8] flex items-center justify-center text-white font-medium text-lg">
-                M
+                In
               </div>
-              <span className="text-[#1f1f1f] text-lg font-medium">MAESTER</span>
+              <span className="text-[#1f1f1f] text-lg font-medium">INTERVIEW AI</span>
             </div>
             <div className="flex items-center gap-2">
               <button
                 onClick={() => setShowStorageInfo(!showStorageInfo)}
                 className="text-[#5f6368] hover:text-[#1f1f1f] text-sm font-medium px-3 py-2 rounded-full hover:bg-[#f1f3f4] transition-colors"
               >
-                Storage Info
+              
               </button>
               {ownerUnlocked && (
                 <button
@@ -106,7 +106,8 @@ export default function App() {
                 <div className="grid sm:grid-cols-2 gap-4 text-xs text-[#5f6368]">
                   <div className="bg-[#f8f9fa] rounded-xl p-4 border border-[#e8eaed]">
                     <p className="font-medium text-[#1f1f1f] mb-1">Storage Location</p>
-                    <p className="font-mono text-[11px]">localStorage["maester_interview_session"]</p>
+                    <p className="font-mono text-[11px]">localStorage["INTERVIEW AI
+_interview_session"]</p>
                   </div>
                   <div className="bg-[#f8f9fa] rounded-xl p-4 border border-[#e8eaed]">
                     <p className="font-medium text-[#1f1f1f] mb-1">Browser Path (Chrome)</p>
@@ -156,7 +157,7 @@ export default function App() {
                 onClick={() => setShowOwnerPanel(!showOwnerPanel)}
                 className="text-xs text-[#9aa0a6] hover:text-[#5f6368] transition-colors"
               >
-                Owner Login
+              
               </button>
               {showOwnerPanel && (
                 <div className="absolute bottom-8 right-0 bg-white rounded-2xl border border-[#e8eaed] p-5 w-72 shadow-xl">
